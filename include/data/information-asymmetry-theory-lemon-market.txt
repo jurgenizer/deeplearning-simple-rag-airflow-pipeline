@@ -1,0 +1,21 @@
+# Lemon Market Theory
+
+## Concise description of theory
+In 1970 George Akerlof published a ground breaking paper about the consequences of information assymetry. The full title is : 'The Market for Lemons: Quality Uncertainty and the Market Mechanism'.
+
+In markets where it is impossible to asses the quality of a product/service, where, so to say the seller of the product has more information than the buyer, the market will gradualy deteriorate and maybe even eventually dissapear altogether.
+
+The main issue is that quality is unassesible beforehand, thus giving sellers incentives to present the product/service as being of higher quality than it actually is. The buyer, however, knows this and will take the average quality of the market into consideration. This will have as a result that high quality products/services will leave the market, since they will only sell for average market quality goods.
+
+Therefore the average market quality will deteriorate and the market will shrink.
+
+The paper also talks about the 'cost of dishonesty'.
+The cost of dishonesty, therefore, lies not only in the amount by which the purchaser is cheated; the cost also must include the loss incurred from driving legitimate business out of existence.
+
+The name is derived from the main example Akerlof uses in his paper. He explains his theory with the used cars market, in which a bad car is called a 'lemon'.
+
+## Originating author(s)
+George Arthur Akerlof
+
+## Seminal articles
+Akerlof, G. A. (1970). The market for" lemons": Quality uncertainty and the market mechanism. The Quarterly Journal of Economics, 488-500.

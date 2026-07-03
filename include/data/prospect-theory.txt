@@ -1,0 +1,26 @@
+# Prospect theory
+
+## Concise description of theory
+Prospect theory is utilized to make decisions that involve risks or gambles.  This theory was developed in 1979 as a solution to the shortfalls and contradictions that were found in expected utility theory in certain situations.  One of the most significant aspects of prospect theory is the suggestion that individuals avoid risk when they perceive their current prospects or situation to be positive (a gain decision domain), and individuals seek risk when they perceive the current prospects or situation to be negative (a loss decision domain).  Additionally, the theory shows that individuals make decisions based on shifts in wealth versus total wealth itself.  This shift in wealth becomes the reference point from where any new decisions are made.
+
+In prospect theory, risky decisions (prospects) are segregated into two phases: editing and evaluation.  In the editing phase, individuals start coding an offered prospect by defining gains and losses in relation to a reference point.  Next, prospects with identical outcomes are combined; then the riskless component of the prospect is segregated; and finally, common components of each prospect are cancelled.  In the second phase, the prospect is evaluated.   This evaluation uses statistical analysis to measure and compare risky prospects.  Prospect theory introduces two indices that are used in this comparison of the prospects: the utility (or value) function and the decision weighting function.  The use of the two functions is what differentiates prospect theory from expected utility theory.
+
+The value function (shown below) was developed to show how either a gain or loss decision domain affects a risky decision.  This value function is S-shaped: concave above the reference point and convex below it.  It can be best explained using the following example:  the value of a $10 difference between two prospective payoffs depends on whether they fall on the low or high end of the value function.  The theory suggests that the $10 difference in a payoff is valued more on the low end of the curve ($10 versus $20 payoff) than it is on the upper end of the curve ($500 versus $510 payoff).  The same relationship holds true for losses, except that the value lost is more extreme in the loss quadrant versus value gained in the gain quadrant when the same dollar amounts are considered.
+
+## Originating author(s)
+Prospect theory was developed by Daniel Kahneman and Amos Tversky in 1979 as an alternative to expected utility theory.
+
+## Seminal articles
+Kahneman, D., and A. Tversky. 1984. "Choices, Values, and Frames," American Psychologist (39:4), 04, pp. 341-350.
+
+———. 1979. "Prospect Theory: An Analysis of Decision Under Risk," Econometrica (47:2), 03, pp. 263-291.
+
+Tversky, A., and D. Kahneman. 1981. "The Framing of Decisions and the Psychology of Choice," Science (211:4481), 01, pp. 453-458.
+
+Additional Seminal articles that initially applied Prospect Theory to escalation of commitment and sunk cost, which have been used as the basis for some IS research.
+
+Bazerman, M. H. 1984. "The Relevance of Kahneman and Tversky's Concept of Framing to Organizational Behavior," Journal of Management (10:3), Fall, pp. 333-343.
+
+Garland, H., and S. Newport. 1991. "Effect of Absolute and Relative Sunk Costs on the Decision to Persist with a Course of Action," Organizational Behavior & Human Decision Processes (48:1), 02, pp. 55.
+
+Whyte, G. 1986. "Escalating Commitment to a Course of Action: A Reinterpretation," Academy of Management Review (11:2), 04, pp. 311-321.

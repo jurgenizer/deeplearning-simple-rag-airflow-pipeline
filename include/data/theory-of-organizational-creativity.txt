@@ -1,0 +1,26 @@
+# Theory of Organizational Creativity
+
+## Concise description of theory
+The theory of organizational creativity was developed by Woodman, Sawyer, and Griffin (1993). They define organizational creativity as “the creation of a valuable, useful new product, service, idea, procedure, or process by individuals working together in a complex social system”.  According to this theory, organizational creativity provides a key to the understanding of organizational effectiveness and survival. It is a function of individual characteristics, group characteristics, and organizational characteristics. Individual characteristics consist of cognitive abilities, personality, intrinsic motivation, and knowledge. Group characteristics consist of norms, cohesiveness, size, diversity, roles, task and problem-solving approaches. Organizational characteristics consist of culture, resources, rewards, strategy, structure, and technology.
+
+The complex interaction between individual, group and organizational characteristics creates a context known as the “creative situation” within which individual and group creative behaviors are played out. A creative situation is, therefore, the “sum total of social and environmental (contextual) influences on creative behavior.” Creative behavior, on the other hand, is a complex person-situation interaction influenced by past as well as current events.
+Thus, the creative process of an organization is influenced by creative situations along with individual and group creative behaviors within an organization. This is a multilevel, interactionist model describing organizational creativity as a complex interplay of individual creativity, group creativity, and organizational creativity that has an impact on the creative process and, therefore, on the creative product. External influences such as intra organizational influences, as well as intraindividual factors,  are included in this theory.
+
+## Originating author(s)
+Woodman, R. W., Sawyer, J. E., & Griffin, R. W. (1993). Toward a theory of organizational creativity. Academy of management review, 18(2), 293-321.
+
+## Seminal articles
+Amabile, T. M. (1988). A model of creativity and innovation in organizations. Research in organizational behavior, 10(1), 123-167.
+
+Amabile, T. M., Conti, R., Coon, H., Lazenby, J., & Herron, M. (1996). Assessing the work environment for creativity. Academy of management journal, 39(5), 1154-1184.
+
+Barron, F., & Harrington, D. M. (1981). Creativity, intelligence, and personality. Annual review of psychology, 32(1), 439-476.
+
+Borghini, S. (2005). Organizational creativity: breaking equilibrium and order to innovate. Journal of Knowledge Management, 9(4), 19-33.
+
+Brown, R. T. (1989). Creativity. In Handbook of creativity (pp. 3-32). Springer, Boston, MA.
+
+Drazin, R., Glynn, M. A., & Kazanjian, R. K. (1999). Multilevel theorizing about creativity in organizations: A sensemaking perspective. Academy of management review, 24(2), 286-307.
+
+Plucker, J. A., & Renzulli, J. S. (1999). Psychometric approaches to the study of human creativity. Handbook of creativity, 35, 61.
+Sternberg, R. J. (Ed.). (1999). Handbook of creativity. Cambridge University Press.

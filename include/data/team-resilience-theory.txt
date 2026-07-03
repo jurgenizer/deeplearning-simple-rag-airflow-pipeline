@@ -1,0 +1,16 @@
+# Team resilience theory
+
+## Concise description of theory
+Organizations need well-prepared teams to perform information systems projects with efficiency and effectiveness.
+
+In such socio-technical systems, project teams’ capability to face and surpass difficulties plays a critical role in organizational reliability.
+
+Hence the relevance of project team resilience, defined as the team’s ability to deal with problems, overcome obstacles, and quickly recover from adverse and possibly harmful situations without collapsing.
+
+The Team Resilience Model explains team resilience in the context of information systems projects, through seven constructs: Trust & Solidarity, Focus on results, Commitment, Management & Accountability, Embrace conflicts, Work conditions, and Skills & Behaviours.
+
+## Originating author(s)
+J. Varajão, G. Fernandes and A. Amaral (2021)
+
+## Seminal articles
+Varajão, J., Fernandes, G, & Amaral, A. (2021). Team Resilience Model: An Empirical Examination of Information Systems Projects. Reliability Engineering and System Safety, 206(2021), 107303.

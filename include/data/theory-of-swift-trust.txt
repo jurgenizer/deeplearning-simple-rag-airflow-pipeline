@@ -1,0 +1,30 @@
+# Theory of Swift Trust
+
+## Concise description of theory
+The theory of swift trust was developed by Meyerson, Weick, and Kramer (1996). Swift trust is a presumptive form of trust that occurs in temporary groups who have a “finite life span, formed around a shared and relatively clear goal or purpose, and their success depends on a tight and coordinated coupling of activity.” Swift trust is a unique form of trust that occurs in temporal task groups. Since working together requires a certain level of trust, new teams that are temporary in nature, require that participants come to trust each other quickly. This is in contrast to the conventional model of trust, wherein trust was built upon personal interactions and experiences. Swift trust, therefore, explains how trust is formed in temporary task teams/groups where members do not have the luxury of time to interact with each other and build relationships.
+
+Temporary task teams/groups are composed of members with a variety of abilities, a limited history of collaboration and a small chance to work together again. They usually work under strict deadlines, which leaves little or no room for establishing relationships. Since the time pressure impedes the team members’ ability to develop perceptions of others from the basis of personal experience and interactions, participants import trust levels from other environments they are familiar with. Once the team has begun to interact, swift trust is preserved by a “highly active, proactive, enthusiastic, generative style of action.”
+
+Swift trust posits that temporary teams intermingle as if the trust is already present. However, they must verify if they can manage expectations. This means that the group assumes trust in the beginning, and later checks and validates it. If need be, trust perceptions are changed accordingly. Thus, swift trust is conditional and requires reinforcement and constant recalibration.
+
+Swift trust should not be interpreted as conventional trust that is scaled down when strangers work together for a brief period of time, rather it is a unique form of collective perception that can manage vulnerability, uncertainty, risk, and expectations. These four factors account for variations in the behavior of temporary task group members that results in the formation of swift trust. It should be noted that since members of temporary task groups, originally import trust instead of developing trust, swift trust reaches its peak at the start of the project. Swift trust also clearly segregates members within well-defined roles. Inconsistent role behavior and blurring of roles erode trust.
+
+The difference between conventional trust and swift trust is that the former is built upon interpersonal relationships while the latter understates the interpersonal dimensions and is based initially on broad categorical social structures and later, action. This perspective explores how trust is based on first impressions rather than personal experiences. Instead of trust being an information process driven by facts and evidences, swift trust is generated through category-driven processes.
+
+## Originating author(s)
+Meyerson, D., Weick, K. E., & Kramer, R. M. (1996). Swift trust and temporary groups. Trust in organizations: Frontiers of theory and research, 166, 195.
+
+## Seminal articles
+Cialdini, R. B., & Trost, M. R. (1998). Social influence: Social norms, conformity, and compliance.
+
+Costa, A. C. (2003). Work team trust and effectiveness. Personnel Review, 32(5), 605-622.
+
+Jarvenpaa, S. L., & Leidner, D. E. (1998). Communication and trust in global virtual teams. Journal of computer-mediated communication, 3(4), JCMC346.
+
+Jarvenpaa, S. L., Shaw, T. R., & Staples, D. S. (2004). Toward contextualized theories of trust: The role of trust in global virtual teams. Information systems research, 15(3), 250-267.
+
+Langfred, C. W. (2004). Too much of a good thing? Negative effects of high trust and individual autonomy in self-managing teams. Academy of management journal, 47(3), 385-399.
+
+Mayer, R. C., Davis, J. H., & Schoorman, F. D. (1995). An integrative model of organizational trust. Academy of management review, 20(3), 709-734.
+
+McKnight, D. H., Cummings, L. L., & Chervany, N. L. (1998). Initial trust formation in new organizational relationships. Academy of Management Review, 23(3), 473-490.

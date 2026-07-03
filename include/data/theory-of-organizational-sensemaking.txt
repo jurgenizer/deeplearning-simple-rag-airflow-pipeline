@@ -1,0 +1,22 @@
+# Theory of Organizational Sensemaking
+
+## Concise description of theory
+“Sensemaking is a way station on the road to a consensually constructed, coordinated system of action” (Taylor and Van Every 2000, p. 275). Stating more elaborately, sense making is viewed as a process of organizing, it involves turning chaos circumstances that contain cues about what is happening into a situation comprehended explicitly in words that has meanings which serves as a platform for action. Sensemaking happens in a sequential manner. The process of sense making starts when the organizational actor (sense maker) identifies cues about organizational circumstances(environment). Second, they extract these cues and are converted to words and categories. This is the enactment phase characterized by noticing and bracketing. This phase is influenced by metal models of the actor accrued from previous experience. Third, they enter into the selection phase in which the multiple accounts are listed out and narrow down to a single plausible account through retrospective action. Finally, they make plausible sense (image or framework) retrospectively and enact what is needed to bring order to the ongoing circumstance.  This phase is called retention characterized by connecting past experience and salient organizational identities. Sensemaking is a process focus on the interplay between action and interpretation of context in which action is taken than the traditional way where the sole focus was given to the action of individual decision-maker. In other words, when people confront chaos and complex situation, and ask “what’s the story here and now what should I do”.
+
+Sensemaking is distinguished from another explanatory process (understanding, interpretation, and attribution) by seven characteristics, which serve as a guideline to what actually sensmaking is, how it works and where it can fail. These seven characteristics are 1) Grounded in identity construction (Need within individual to have a sense of identity) 2) Retrospective (Meanings are formulated based on the reflection of their experience) 3) Enactive of sensible environments (activity of “making” that which is sensed) 4) Social (sensemaking is a social process) 5) Ongoing ( sensemaking never starts or ends, assuming that individual always in middle of an ongoing situation) 6) Focused on and by extracted cues ( extracted cues act as a point of reference to plausible meaning of situation) 7) Driven by plausibility rather than accuracy (sensemaking is achieved through plausible reasoning based on incomplete information but will fit the facts, and accuracy not necessary condition). Maitilis(2005) have identified four forms of organizational sense making based on the leader and stakeholder sensegiving; 1)Restricted sensemaking(High leader sensegiving and low stakeholder sensegiving ) 2) Guided Organizational sense making(High leader sensegiving and high stakeholder sensegiving) 3) Minimal Organizational sense making(low leader sensegiving and low stakeholder sensegiving) 4) Fragmented organizational sense making(low leader sensegiving and high stakeholder sensegiving). The nature and outcome of organizational sense making are influenced by the extent of information and top management control ande are dependent on the stake holder and leader sense giving.
+
+## Originating author(s)
+Karl E. Weick (1969, 1995)
+
+## Seminal articles
+Weick, K.E. The Social Psychology of Organizations, Addison‐Wesley Publishing Co., Reading, MA, 1969.
+
+Weick, K. E. (1995). Sensemaking in organizations (Vol. 3). Sage.
+
+Weick, K. E., Sutcliffe, K. M., & Obstfeld, D. (2005). Organizing and the process of sensemaking. Organization science, 16(4), 409-421.
+
+Weick, K. E. (1993). The collapse of sensemaking in organizations: The Mann Gulch disaster. Administrative science quarterly, 628-652.
+
+Weick, K. E. (2012). Making sense of the organization, Volume 2: The impermanent organization (Vol. 2). John Wiley & Sons.
+
+Maitlis, S. (2005). The social processes of organizational sensemaking. Academy of management journal, 48(1), 21-49.

@@ -1,0 +1,22 @@
+# Information processing theory
+
+## Concise description of theory
+George A. Miller has provided two theoretical ideas that are fundamental to the information processing framework and cognitive psychology more generally. The first concept is `chunking' and the capacity of short term (working) memory. Miller (1956) presented the idea that short-term memory could only hold 5-9 chunks of information (seven plus or minus two) where a chunk is any meaningful unit. A chunk could refer to digits, words, chess positions, or people's faces. The concept of chunking and the limited capacity of short term memory became a basic element of all subsequent theories of memory.
+
+The second concept, that of information processing, uses the computer as a model for human learning. Like the computer, the human mind takes in information, performs operations on it to change its form and content, stores and locates it and generates reponses to it. Thus, processing involves gathering and representing information, or encoding; holding information or retention; and getting at the information when needed, or retrieval. Information processing theorists approach learning primarily through a study of memory.
+
+Source: http://www.educationau.edu.au/archives/cp/04h.htm
+
+According to this view, there are three kinds of memory: Sensory registers (the part of the memory that receives all the information a person senses), Short-term memory (STM) (also known as working memory, the part of memory where new information is held temporarily until it is either lost or placed into long-term memory), and Long-term memory (LTM) (the part of memory which has an unlimited capacity and can hold information indefinitely). The key factors for effective encoding of information include ensuring that the material is meaningful and that activation of prior knowledge occurs. Strategies for assisting encoding include chunking (breaking the information up into manageable chunks), rehearsal , imagery, mnemonics, schema activation, and level of processing.
+
+Source: http://hsc.csu.edu.au/pro_dev/teaching_online/how_we_learn/information.html
+
+## Originating author(s)
+George A. Miller
+
+## Seminal articles
+Miller, G.A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63, 81-97
+
+Miller, G.A., Galanter, E., & Pribram, K.H. (1960). Plans and the Structure of Behavior. New York: Holt, Rinehart & Winston
+
+Zellner, A. Optimal Information Processing and Bayes's Theorem," The American Statistician, 42, 1988, 278-284, (with discussion by Jaynes, Kullback, Hill and Bernardo).

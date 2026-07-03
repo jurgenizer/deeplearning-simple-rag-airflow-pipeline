@@ -1,0 +1,46 @@
+# Social learning theory
+
+## Concise description of theory
+Learning theories attempt to explain how people think and what factors determine their behaviour. Social Learning Theory (SLT) is a category of learning theories which is grounded in the belief that human behaviour is determined by a three-way relationship between cognitive factors, environmental influences, and behaviour. The theory is derived from the work of Gabriel Tarde (1843-1904) which proposed that social learning occurred through four main stages: close contact, imitation of superiors, understanding of concepts and role model behavior. The term ‘social’ in SLT refers to the context within which learning occurs.
+
+Two types of behavior are identified in learning, respondent and operant. Respondent behaviour is learned through prior cues and is generally thought of as emotional. Behaviour that changes the environment, thereby producing rewards or punishments for the actor, is termed operant. The component processes underlying observational learning are:
+
+1.Attention, including modelled events (distinctiveness, affective valence, complexity, prevalence, functional value) and observer characteristics (sensory capacities, arousal level, perceptual set, past reinforcement),
+
+2.Retention, including symbolic coding, cognitive organization, symbolic rehearsal, motor rehearsal),
+
+3.Motor Reproduction, including physical capabilities, self-observation of reproduction, accuracy of feedback, and
+
+4.Motivation, including external, vicarious and self reinforcement.
+
+Because it (learning) encompasses attention, memory and motivation, SLT spans both cognitive and behavioural frameworks. The principles associated with SLT are as follows:
+
+1.The highest level of observational learning is achieved by first organizing and rehearsing the modelled behaviour symbolically and then enacting it overtly. Coding modelled behaviour into words, labels or images results in better retention than simply observing.
+
+2.Individuals are more likely to adopt a modelled behaviour if it results in outcomes they value.
+
+3.Individuals are more likely to adopt a modelled behaviour if the model is similar to the observer and has admired status and the behaviour has functional value.
+
+Source 1: http://en.wikipedia.org/wiki/Social_learning_theory,
+
+Source 2: As mentioned in ‘Seminal Articles’ and ‘External Links’ sections
+
+## Originating author(s)
+Julian Rotter, Albert Bandura
+
+## Seminal articles
+Bandura, A., 1968. A social learning interpretation of psychological dysfunctions. In: Longon, D., Rosenham, D. (Ed),Foundations of abnormal psychology. New York: Holt, Rinehart & Winston, pp. 293– 344.
+
+Bandura, A., Walters, R., 1963. Social Learning and Personality Development. New York: Holt, Rinehart & Winston.
+
+Bandura, A., 1969. Social-learning theory of identificatory processes. In: Goslin, D.A. (Ed), Handbook of Socialization Theory and Research, Rand McNally, Chicago, IL.
+
+Bandura,  A., 1977. Social learning theory. Englewood Cliffs (NJ): Prentice-Hall.
+
+Davis. T.R.V., Luthans, F., 1980. A social learning approach to organizational behaviour. Academy Management Review, vol. 5, 281-290.
+
+Miller, N., Dollard, J., 1941. Social Learning and Imitation. Yale University Press.
+
+Rotter, J.B., 1945. Social Learning and Clinical Psychology. Prentice-Hall.
+
+Rotter, J.B., 1960. Some implications of a social learning theory for the prediction of goal directed behaviour from testing procedures. Psychology Review, vol. 67, 301-316.

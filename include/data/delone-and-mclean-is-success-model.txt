@@ -1,0 +1,18 @@
+# Delone and McLean IS success model
+
+## Concise description of theory
+In order to provide a general and comprehensive definition of IS success that covers different perspectives of evaluating information systems, DeLone and McLean reviewed the existing definitions of IS success and their corresponding measures, and classified them into six major categories. Thus, they created a multidimensional measuring model with interdependencies between the different success categories (DeLone & McLean 1992).
+
+Motivated by DeLone and McLean’s call for further development and validation of their model, many researchers have attempted to extend or respecify the original model. Ten years after the publication of their first model and based on the evaluation of the many contributions to it, DeLone and McLean proposed an updated IS success model (DeLone & McLean 2002, 2003).
+
+The updated model consists of six interrelated dimensions of IS success: information, system and service quality, (intention to) use, user satisfaction, and net benefits. The arrows demonstrate proposed associations between the success dimensions. The model can be interpreted as follows: A system can be evaluated in terms of information, system, and service quality; these characteristics affect the subsequent use or intention to use and user satisfaction. As a result of using the system, certain benefits will be achieved. The net benefits will (positively or negatively) influence user satisfaction and the further use of the information system.
+
+## Originating author(s)
+DeLone & McLean (1992); DeLone & McLean (2002); DeLone & McLean (2003)
+
+## Seminal articles
+DeLone, W.H., and McLean, E.R. 1992. "Information Systems Success: The Quest for the Dependent Variable," Information Systems Research (3:1), pp 60-95.
+
+DeLone, W.H., and McLean, E.R. 2002. "Information Systems Success Revisited," in: Proceedings of the 35th Hawaii International Conference on System Sciences (HICSS 02). Big Island, Hawaii: pp. 238-249.
+
+DeLone, W.H., and McLean, E.R. 2003. "The DeLone and McLean Model of Information Systems Success: A Ten-Year Update," Journal of Management Information Systems (19:4), Spring, pp 9-30.

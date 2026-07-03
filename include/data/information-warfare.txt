@@ -1,0 +1,10 @@
+# Information warfare
+
+## Concise description of theory
+The theory of information warfare explains and integrates operations involving a diverse collection of actors and media within a single framework. The theory is centered on the value of information resources that hold information and on "win-lose" operations that affect that value. Offensive and defensive information warfare is expressed in terms of actors, targets, methods, technologies, outcomes, policies, and laws. Information warfare can target or exploit any type of information resources--physical environments, print and storage media, broadcast media, telecommunications, and computers and computer networks.
+
+## Originating author(s)
+Dorothy Elizabeth Robling Denning
+
+## Seminal articles
+Denning, D. E. (1999). Information warfare and security (8th ed.). MA, USA: ACM Press Books.

@@ -1,0 +1,16 @@
+# Theory of Interpersonal Behavior (TIB)
+
+## Concise description of theory
+Theory of interpersonal behavior (TIB) was proposed by Harry Triandis in 1977. In contrast to theory of planned behavior (TPB), Triandis recognized the key role of habit and emotions in forming intentions to perform a behavior. Accordingly, he proposed an integrated model of interpersonal behavior which posits that behavior, in any situation, is a function of intention (consistent with other behavior models) as well as the strength of habit of the behavior and the various facilitating conditions. Further, behavioral intention is explained by social factors as well as rational and affective beliefs about the behavior. In the model, social factors comprise of norms, roles and self-concept. And, affect construct comprises of both positive and negative emotional responses towards a decision and is distinct from rational-instrumental evaluations of consequences (perceived consequences construct).
+
+While TIB and TPB have many similarities, they are considered competing models as TIB incorporates the key role of habit and affective factors in explaining behavior. Triandis model has been used far less than Ajzen- Fishbein’s theory of planned behavior model. However, studies that used it showed that it had more explanatory power than TPB.
+
+Source: http://www.cres.gr/behave/pdf/Triandis_theory.pdf
+
+(Pee et al. 2008)
+
+## Originating author(s)
+Triandis 1977
+
+## Seminal articles
+Triandis, H. C. 1977. Interpersonal Behaviour, Brooks/Cole Pub. Co.

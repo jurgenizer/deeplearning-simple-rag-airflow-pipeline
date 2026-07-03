@@ -1,0 +1,18 @@
+# Innovation Resistance Theory
+
+## Concise description of theory
+IRT – Innovation resistance theory is a concept that describes the phenomenon of resistance to change and the adoption of new ideas and technologies. It seeks to understand why individuals, organizations, and societies may be hesitant to embrace new innovations and the factors that influence their willingness to adopt new technologies. Innovation resistance theory identifies several key factors that contribute to resistance to change, including:
+
+Perceived threat to existing structures and norms: new innovations may challenge existing structures and norms, which can lead to resistance from individuals and organizations who are invested in maintaining the status quo.
+Lack of understanding or familiarity: The unfamiliarity of a new innovation can cause individuals and organizations to be wary of embracing it, as they may not fully understand how it works or how it will impact their lives and work.
+Perceived risks and uncertainty: The uncertainty and potential risks associated with new innovations can cause individuals and organizations to be cautious about embracing them.
+Lack of perceived benefits: If individuals and organizations do not see the benefits of a new innovation, they may be less likely to adopt it.
+Economic and organizational factors: Economic and organizational factors, such as costs and resource constraints, can also play a role in shaping an organization's willingness to adopt new innovations.
+
+## Originating author(s)
+Sheth, Jagadish. N; & Stellner, W. H. (1979) – provided the psychology base thought process
+S. Ram (1987) – conceptualized a model of Innovation Resistance
+Ram, S. and Sheth, J.N. (1989) – refined the model explanation from practical perspective
+
+## Seminal articles
+N/A

@@ -1,0 +1,32 @@
+# Resource-based view of the firm
+
+## Concise description of theory
+The resource-based view (RBV) argues that firms possess resources, a subset of which enable them to achieve competitive advantage, and a subset of those that lead to superior long-term performance. Resources that are valuable and rare can lead to the creation of competitive advantage. That advantage can be sustained over longer time periods to the extent that the firm is able to protect against resource imitation, transfer, or substitution. In general, empirical studies using the theory have strongly supported the resource-based view.
+
+## Originating author(s)
+Jay Barney, Edith Penrose
+
+## Seminal articles
+Barney, J. B. (1986a). “Strategic factor markets: Expectations, luck and business strategy.” Management Science, 32, pp. 1512-1514.
+
+Barney, J. B. (1986b). “Organizational culture: Can it be a source of sustained competitive advantage?” Academy of Management Review, 11, pp. 656-665.
+
+Barney, J. B. (1986c). “Types of Competition and the Theory of Strategy: Toward an Integrative Framework.” Academic of Management Review, 11, pp. 791-800.
+
+Barney, J. B. (1988). “Returns to bidding firms in mergers and acquisitions: Reconsidering the relatedness hypothesis.” Strategic Management Journal, 9, pp. 71-78.
+
+Barney, J. B. (1991a). “Firm resources and sustained competitive advantage.” Journal of Management, 17, pp. 99-120.
+
+Barney, J. B. (1991b). “The Resource Based View of Strategy: Origins, Implications, and Prospects.” Editor of Special Theory Forum in Journal of Management, 17, pp. 97-211.
+
+Dierickx & Cool (1989). “Asset Stock Accumulation and Sustainability of Competitive Advantage.” Management Science, 35, 1504-1511.
+
+Mahoney, J. T., and J. R. Pandian (1992). “The resource-based view within the conversation of strategic management.” Strategic Management Journal, 13, pp. 363-380.
+
+Penrose, E. T. (1959). The Theory of the Growth of the Firm. Wiley, New York.
+
+Prahalad, C. K., and G. Hamel (1990). “The Core Competence of the Corporation.” Harvard Business Review, June, pp. 79-91.
+
+Priem, R. L., and J. E. Butler (2001). “Is the resource-based ‘view’ a useful perspective for strategic management research?” Academy of Management Review, in press.
+
+Wernerfelt, B. (1984). “A resource-based view of the firm.” Strategic Management Journal, 5, pp. 171-180.

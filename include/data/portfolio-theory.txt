@@ -1,0 +1,14 @@
+# Portfolio theory
+
+## Concise description of theory
+Modern portfolio theory (MPT) is a theory of investment which attempts to explain how investors can maximize return and minimize risk. Although MPT is widely used in practice in the financial industry and several of its creators won a Nobel prize for the theory, in recent years the basic assumptions of MPT have been widely challenged by fields such as behavioral economics, and many companies using variants of MPT have gone bankrupt in various financial crises. The theory is used in different areas including IS, to help manage IT investments.
+
+## Originating author(s)
+Markowitz; McFarlan; Turner and Lucas
+
+## Seminal articles
+Markowitz, Harry M. (1952). "Portfolio Selection". Journal of Finance 7 (1): 77–91.
+
+McFarlan, W. F. (1981). Portfolio approach to information systems. Harvard Business Review, v. 59, n°. 5, p. 142-150, 1981.
+
+Turner, J. and Lucas, H. C. (1985). Developing strategic information Systems. In W. Guth. Handbook of Business Strategy. Boston, Warren, Gorham e Lamont.

@@ -1,0 +1,16 @@
+# Fit-Viability theory
+
+## Concise description of theory
+The model was originally proposed by Tjan in 2001 for evaluating organizational adoption of Internet intiatives. It includes two dimensions. One is fit and the other is viability.
+Fit measures the extent to which new network applications are consistent with the core
+competence, structure, value and culture of organization. Viability measures the extent
+to the value-added potential of new network applications, requirements of human
+resource, capital needs and so on. It proposes four generic strategies based on levels of fit and viability: invest, redesign, sell/spin out, and kill.
+
+This model was later adapted to assess the adoption of mobile commerce technologies (Liang and Wei, 2004; Liang et al, 2007; O'Donnell, et al., 2007). In the revised model, the fit dimension measures the extent to which the feature of a technology matches the needs of the task. The viability refers to the extent to which the infrastructure of the organization is ready for adopting the technology. This needs to consider the general economic feasibility, technical infrastructure and the social readiness of the organization. In fact, many organizational factors have been identified to be critical to the success of IT implementation.
+
+## Originating author(s)
+A. K. Tjan (2001)
+
+## Seminal articles
+Tjan, A.K. (2001), “Finally, a way to put your internet portfolio in order”, Harvard Business Review, Vol. 79 No. 2, pp. 76-85.

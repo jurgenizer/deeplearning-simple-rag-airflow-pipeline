@@ -1,0 +1,15 @@
+# Uncanny Valley Theory
+
+## Concise description of theory
+Masahiro Mori, a Robotics Professor, predicted the nature of humans’ impermanent feelings towards various human-like technological innovations in an essay published in 1970 (Mori, MacDorman, & Kageki, 2012). At first, the essay didn’t draw much attention, but with increasing applications of robots and other artificial agents in possibly every field, the hypothesised effect has become more relevant than ever. Consequently, leading many human-computer interaction researchers to assess the uncanny valley effect (Mori et al., 2012).
+In the translated version of Mori’s original essay, a non-linear relationship between a human’s affinity towards a robot and human-likeness of the robot is developed. The graph between affinity and human-likeness consists of a dip, termed as the “uncanny valley”, which pertains to the eeriness humans experience when subjected to an almost human-like robot (Mori et al., 2012). That is, as the human-likeness of the robot increases, the affinity increases at first, but after a certain point, the affinity reduces drastically indicating negative feelings towards the imperfect human-robot. The negative reactions can arise due to several reasons including disappointment when the robot is not exactly human or when it is perceived as a threat to human distinguishability (Ciechanowski, Przegalinska, Magnuski, & Gloor, 2019).
+The theory poses its obvious application as an effective means of navigation towards an efficient design of the interactive artificial agents.  Over the years, the theory has been tested several times in various AI and robot-related studies. Despite the extensive analysis of the theory, the stance with respect to the uncanny valley remains inconclusive (Betriana, Osaka, Matsumoto, Tanioka, & Locsin, 2020; Burleigh, Schoenherr, & Lacroix, 2013; Mathur & Reichling, 2016). However, researchers continue to employ the theory to account for the varied array of human reactions towards non-human agents and improve understanding of the human-non-human interaction.
+
+## Originating author(s)
+Masahiro Mori
+
+## Seminal articles
+Groom, V., Nass, C., Chen, T., Nielsen, A., Scarborough, J. K., & Robles, E. (2009). Evaluating the effects of behavioral realism in embodied agents. International Journal of Human Computer Studies, 67(10), 842–849. https://doi.org/10.1016/j.ijhcs.2009.07.001
+Ho, C. C., & MacDorman, K. F. (2010). Revisiting the uncanny valley theory: Developing and validating an alternative to the Godspeed indices. Computers in Human Behavior, 26(6), 1508–1518. https://doi.org/10.1016/j.chb.2010.05.015
+Mori, M., MacDorman, K. F., & Kageki, N. (2012). The uncanny valley. IEEE Robotics and Automation Magazine, 19(2), 98–100. https://doi.org/10.1109/MRA.2012.2192811
+Burleigh, T. J., Schoenherr, J. R., & Lacroix, G. L. (2013). Does the uncanny valley exist? An empirical test of the relationship between eeriness and the human likeness of digitally created faces. Computers in Human Behavior, 29(3), 759–771. https://doi.org/10.1016/j.chb.2012.11.021

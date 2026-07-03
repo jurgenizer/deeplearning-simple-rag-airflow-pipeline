@@ -1,0 +1,33 @@
+# Resource dependency theory
+
+## Concise description of theory
+Organizational success in resource dependency theory (RDT) is defined as organizations maximizing their power (Pfeffer 1981). Research on the bases of power within organizations began as early as Weber (1947) and included much of the early work conducted by social exchange theorists and political scientists. Generalization of power-based arguments from intra-organizational relations to relations between organizations began as early as Selznick (1949). RDT characterizes the links among organizations as a set of power relations based on exchange resources.
+
+RDT proposes that actors lacking in essential resources will seek to establish relationships with (i.e., be dependent upon) others in order to obtain needed resources. Also, organizations attempt to alter their dependence relationships by minimizing their own dependence or by increasing the dependence of other organizations on them. Within this perspective, organizations are viewed as coalitions alerting their structure and patterns of behaviour to acquire and maintain needed external resources. Acquiring the external resources needed by an organization comes by decreasing the organization’s dependence on others and/or by increasing other’s dependency on it, that is, modifying an organization’s power with other organizations.
+
+RDT rest on some assumptions:
+
+Organizations are assumed to be comprised of internal and external coalitions which emerge from social exchanges that are formed to influence and control behaviour
+The environment is assumed to contain scarce and valued resources essential to organizational survival. As such, the environment poses the problem of organizations facing uncertainty in resource acquisition.
+Organizations are assumed to work toward two related objectives: acquiring control over resources that minimize their dependence on other organizations and control over resources that maximize the dependence of other organizations on themselves. Attaining either objective is thought to affect the exchange between organizations, thereby affecting an organization’s power.
+
+Although RDT was originally formulated to discuss relationships between organizations, the theory is applicable to relationships among units within organizations.
+RDT is consistent with ecological and institutional theories of organizations where organizations are seen as persistent structures of order under constant reinterpretation and negotiation, interacting with an indeterminate environment of turbulence and a multitude of competing interests.
+
+Sources
+
+Ulrich, D. and J. B. Barney (1984). "Perspectives in organizations: Resource dependence, efficiency, and population." Academy of Management. The Academy of Management Review (pre-1986) 9(000003): 471.
+
+Medcof, J. W. (2001). "Resource-based strategy and managerial power in networks of internationally dispersed technology units." Strategic Management Journal 22(11): 999.
+
+Tillquist, J., J. L. King, et al. (2002). "A representational scheme for analyzing information technology and organizational dependency." MIS Quarterly 26(2): 91.
+
+## Originating author(s)
+Jeffrey Pfeffer, Gerald Salancik (The external control of organizations,1978)
+
+## Seminal articles
+Pfeffer, J., & Salancik, G. 1978. The external control of organizations: A resource dependence perspective, New York, Harper & Row.
+
+Pfeffer, J. 1981. Power in organizations, Pitman.
+
+Ulrich, David, & Barney, Jay B. 1984. Perspectives in organizations: Resource dependence, efficiency, and population. Academy of Management Review, 9(3): 471.

@@ -1,0 +1,26 @@
+# Self determination theory
+
+## Concise description of theory
+Self-Determination theory (SDT) is a theory of human motivation and personality that employs an organismic metatheory which sees humans as evolving continuously for personality development and behavioral self-regulation. People, being centrally concerned with motivation, are often influenced by external factors like rewards, evaluations etc. as frequently as they are motivated from within, in the form of curiosity, determination etc. Though intrinsic motivations may not receive external rewards, they help sustain efforts and passions. The interaction between the external influences and the internal motives is what constitutes the realm of SDT.
+SDT has been able to identify different types of motivation with each type having specific consequences for learning, personal experience, engagement and performance. By developing a set of principles regarding how each type of motivation is developed and sustained, or forestalled and undermined, SDT identifies not only a positive force to human nature but also accounts for passivity and alienation.
+The theory examines people’s growth tendencies and innate psychological needs that are the basis for their self-motivation and personality integration. It also investigates the conditions that lead to such processes. Empirical methods have identified three innate needs that are essential for optimal functioning and personal growth. They are autonomy, competence and relatedness. Some of these may be more salient than others at certain times with their expressions differing across time, culture and/or experience. Formally, SDT comprises of six sub-theories with each explaining a facet of motivation or personality growth.
+
+## Originating author(s)
+Edward Deci and Richard Ryan
+
+## Seminal articles
+Deci, E. L. (1971). Effects of externally mediated rewards on intrinsic motivation. Journal
+of Personality and Social Psychology, 18(1), 105–115. [1]
+
+Deci, E.L., Eghrari, H., Patrick, B.C. and Leone, D.R. (1994), Facilitating Internalization
+
+The Self‐Determination Theory Perspective. Journal of Personality, 62: 119-142. doi:10.1111/j.1467-6494.1994.tb00797.x
+
+Deci, E.L., & Ryan, R. (2000). Self-determination theory and the facilitation of
+intrinsic motivation, social development, and well-being. American Psychologist, 55(1), 68-78.
+
+Deci, E.L., & Ryan, R. (1980). Self-determination Theory: When Mind Mediates Behavior. 	The Journal of Mind and Behavior, 1(1), 33-43.
+[2]
+
+Gagné, M. and Deci, E.L. (2005), Self‐determination theory and work motivation. J.
+Organiz. Behav., 26: 331-362. doi:10.1002/job.322

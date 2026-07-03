@@ -1,0 +1,18 @@
+# Illusion of control
+
+## Concise description of theory
+The theory of the illusion of control (IOC) was first defined by Ellen Langer (1975) as an expectancy of a personal success probability that exceeds the objective probability of the outcome. This type of overconfidence is likely when an event that is at least partially determined by chance is characterized by factors that normally lead to enhanced outcomes under skill-based situations, such as choice, stimulus or response familiarity, competition, and passive or active involvement (Langer, 1975). These skill-related cues thus give rise to individuals' perceived control over an outcome, which in turn leads to an unrealistic subjective probability of success. While this effect was originally demonstrated with predominantly chance-driven events, the illusion of control can be even more pronounced in situations that have elements of both skill and chance, since individuals are even more apt to attribute success in the outcome due to skill factors.
+
+Extensions to this theory have shown that factors other than skill-related cues may create an illusion of control. Outcome sequence (Langer and Roth, 1975), foreknowledge (Presson and Benassi, 1996), and the degree of correspondence between the normative solution and the encouraged solution of the problem frame (Kahai et al., 1998) also increase individuals' perceived control over a task's outcome, resulting in an unrealistic expectation of the probability of success.
+
+While Langer's original theory proposed that either passive or active involvement could lead to an illusion of control, individuals may be even more prone to the illusion of control with an active, collaborative exercise. Thus, user confidence for decisions made with decision aids may be marked by overconfidence when the outcome is partially determined by chance (Kottemann et al., 1994).
+
+## Originating author(s)
+Ellen Langer
+
+## Seminal articles
+Langer, E. J. "The Illusion of Control," Journal of Personality and Social Psychology (32:2), 1975, pp. 311-328.
+
+Langer, E. J. and Roth, J. "Heads I Win, Tails It's Chance: The Illusion of Control as a Function of the Sequence of Outcomes in a Purely Chance Task," Journal of Personality and Social Psychology (32:6), 1975, pp. 951-955.
+
+Presson, P. K. and Benassi, V. A. "Illusion of Control: A Meta-Analytic Review," Journal of Social Behavior and Personality (11:3): 1996, pp. 493-510.

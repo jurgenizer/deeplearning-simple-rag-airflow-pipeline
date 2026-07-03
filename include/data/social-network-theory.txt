@@ -1,0 +1,60 @@
+# Social network theory
+
+## Concise description of theory
+Social network theory views social relationships in terms of nodes and ties. Nodes are the individual actors within the networks, and ties are the relationships between the actors. There can be many kinds of ties between the nodes. In its most simple form, a social network is a map of all of the relevant ties between the nodes being studied. The network can also be used to determine the social capital of individual actors. These concepts are often displayed in a social network diagram, where nodes are the points and ties are the lines.
+
+The power of social network theory stems from its difference from traditional sociological studies, which assume that it is the attributes of individual actors -- whether they are friendly or unfriendly, smart or dumb, etc. -- that matter. Social network theory produces an alternate view, where the attributes of individuals are less important than their relationships and ties with other actors within the network. This approach has turned out to be useful for explaining many real-world phenomena, but leaves less room for individual agency, the ability for individuals to influence their success, so much of it rests within the structure of their network.
+
+Social networks have also been used to examine how companies interact with each other, characterizing the many informal connections that link executives together, as well as associations and connections between individual employees at different companies. These networks provide ways for companies to gather information, deter competition, and even collude in setting prices or policies.
+
+Source: Wikipedia http://en.wikipedia.org/wiki/Social_networking
+
+Social network theory, however, is not to be confused with Social networking. The correct source for independent and dependent constructs is: Wikipedia http://en.wikipedia.org/wiki/Social_network
+
+## Originating author(s)
+Stanley Milgram: small worlds problem, six degrees of separation
+
+Mark Granovetter: the strength of weak ties
+
+John Barnes, J. Clyde Mitchell: first to study social networks in the field
+
+## Seminal articles
+Barnes, J. (1954). Class and Committees in a Norwegian Island Parish. Human Relations, 7, 39-58.
+
+Burkhardt, M.E. (1994). Social interaction effects following a technological change: a longitudinal investigation. Academy of Management Journal, 37, 869-898.
+
+Burt, R.S. (1992). Structural holes: the social structure of competition. Cambridge, MA: Harvard University Press.
+
+Feeley, T.H., & Barnett, G.A. (1996). Predicting employee turnover from communication networks. Human Communication Research, 23, 370-387.
+
+Freeman, L. C. (1979). Centrality in Social Networks: Conceptual clarification. Social Networks,1, 215-239.
+
+Freeman, L.C., White, D.R., & Romney, A.K. (1992). Research methods in social network analysis. New Brunswick, NJ.: Transaction Publishers.
+
+Granovetter, Mark;(1973)"The strength of weak ties"; The American Journal of Sociology, Vol. 78, No. 6., May 1973, pp 1360-1380
+
+M.S. Granovetter., "The strength of weak ties: A network theory revisited," Social Structure and Network Analysis (P.V. Marsden and N. Lin, Eds.). Sage, Beverly Hills CA, 1982, pp. 105-130.
+
+Haythornthwaite, C. (1996). Social network analysis: An approach and technique for the study of information exchange. Library and Information Science Research, 18, 323-342.
+
+Ibarra, H., & Andrews, S. B. (1993). Power, social influence, and sense making: Effects of network centrality and proximity on employee perceptions. Administrative Science Quarterly, 38, 277-303.
+
+Meyer, G.W. (1994). Social information processing and social networks: A test of social influence mechanisms. Human Relations, 47, 1013-1048.
+
+Milgram, S. (1967) "The Small World Problem," Psychology Today, (May), pp. 60-67.
+
+Monge, P.R., & Contractor, N.S. (2003). Theories of communication networks. New York: Oxford University Press.
+
+Moody, J., & White, D.R. (2003). "Social Cohesion and Embeddedness," American Sociological Review, 68, 103-127.
+
+Pollock, T.G., Whitbred, R.C., & Contractor, N. (2000). Social information processing and job characteristics: A simultaneous test of two theories with implications for job satisfaction. Human Communication Research, 26, 292-330.
+
+Rice, R.E., & Richards, W.D. (1985). An overview of network analysis methods and programs. In: B. Dervin & M.J. Voight (Eds.), Progress in communication sciences (pp. 105-165). Norwood, NJ: Ablex Publishing Co.
+
+Scott, J. (2000). Social Network Analysis: A handbook. Second edition. London: Sage.
+
+Wasserman, S., and Faust, K. (1994). Social Network Analysis: Methods and Applications. Cambridge: Cambridge University Press.
+
+Watts, D. Small Worlds, Princeton University Press, Princeton, 1999.
+
+Watts, D., Strogatz, S. H. "Collective Dynamics of Small-World Networks," Nature (393), 1998, pp. 440-442.

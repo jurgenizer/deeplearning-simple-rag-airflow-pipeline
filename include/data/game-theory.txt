@@ -1,0 +1,20 @@
+# Game theory
+
+## Concise description of theory
+Game theory is a branch of applied mathematics that uses models to study interactions with formalized incentive structures ("games"). Unlike decision theory, which also studies formalized incentive structures, game theory encompasses decisions that are made in an environment where various players interact strategically. In other words, game theory studies choice of optimal behavior when costs and benefits of each option are not fixed, but depend upon the choices of other individuals.
+
+Game theory has applications in a variety of fields, including economics, international relations, evolutionary biology, political science, and military strategy. Game theorists study the predicted and actual behaviour of individuals in games, as well as optimal strategies. Seemingly different situations can have similar incentive structures, thus all exemplifying one particular game.
+
+Source: http://en.wikipedia.org/wiki/Game_theory
+
+## Originating author(s)
+John von Neumann, Oscar Morgenstern
+
+Robert J. Aumann, Thomas C. Schelling (2005 Nobel prize winners)
+
+## Seminal articles
+Nash, J. (1951). Non-Cooperative Games. Annals of Mathematics, 54(2), 286-295.
+
+John von Neumann and Oskar Morgenstern. (1944). Theory of games and economic behavior. Princeton: Princeton University Press.
+
+Aumann’s, R., & Schelling’s, T. (2005). Contributions to game theory: analyses of conflict and cooperation.

@@ -1,0 +1,32 @@
+# Contingency theory
+
+## Concise description of theory
+There are many forms of contingency theory. In a general sense, contingency theories are a class of behavioral theory that contend that there is no one best way of organizing / leading and that an organizational / leadership style that is effective in some situations may not be successful in others (Fiedler, 1964). In other words: The optimal organization / leadership style is contingent upon various internal and external constraints.
+
+Four important ideas of Contingency Theory are:
+1. There is no universal or one best way to manage
+2. The design of an organization and its subsystems must 'fit' with the environment
+3. Effective organizations not only have a proper 'fit' with the environment but also between its subsystems
+4. The needs of an organization are better satisfied when it is properly designed and the management style is appropriate both to the tasks undertaken and the nature of the work group.
+
+There are also contingency theories that relate to decision making (Vroom and Yetton, 1973). According to these models, the effectiveness of a decision procedure depends upon a number of aspects of the situation: the importance of the decision quality and acceptance; the amount of relevant information possessed by the leader and subordinates; the likelihood that subordinates will accept an autocratic decision or cooperate in trying to make a good decision if allowed to participate; the amount of disagreement among subordinates with respect to their preferred alternatives.
+
+It is worth noting that since the mid 1980s contingency theory has been fairly dead within the originating field of organization theory. Apart from Lex Donaldson, professor at Australian Graduate School of Management, and a few other people, nobody within the field attempt to contribute to a further development of contingency theory, foremost because of what can be perceived as the lacking explanatory power of the theory.
+
+Sources: http://www.valuebasedmanagement.net/methods_contingency_theory.html and http://www.tcw.utwente.nl/theorieenoverzicht/Theory%20clusters/Organizational%20Communication/Contingency_Theories.doc/
+
+## Originating author(s)
+Fred Fiedler (contingency theory of leadership)
+
+## Seminal articles
+Burns, T., Stalker, G.M. (1961). The Management of Innovation. London: Tavistock.
+
+Fiedler, F. E. (1964). A Contingency Model of Leadership Effectiveness. Advances in Experimental Social Psychology (Vol.1). 149-190. New York: Academic Press.
+
+Kast, F., Rosenzweig, J. (1973). Contingency Views of Organization and Management. Chicago: Science Research Associates.
+
+Lawrence, P. R., Lorsch, J. W. (1967) . Organization and Environment. Cambridge, MA: Harvard University Press.
+
+Otley, D. T. 1980. The contingency theory of management accounting: Achievement and prognosis. Accounting, Organizations and Society 5(4): 413-428.
+
+Vroom, V.H. and Yetton, P.W. (1973). Leadership and decision-making. Pittsburgh: University of Pittsburgh Press

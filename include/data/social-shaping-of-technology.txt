@@ -1,0 +1,18 @@
+# Social shaping of technology
+
+## Concise description of theory
+The Social Shaping of Technology (SST) approach examines the content of technology and the processes involved in innovation.  This includes political, social organisational and cultural factors in contrast to the more traditional approaches which address the outcomes or impacts of technological change (Mackenzie and Wajcman 1985).  SST is not a well defined theory and a number of different approaches are recognised.  One major approach is that of Social Construction of Technology (SCOT) where Pinch and Bijker (1984) argue that technological artefacts are socially constructed by social groups and that ‘success’ and ‘failure’ are interpreted and evaluated differently by ‘relevant social groups’ with differing and sometimes entirely conflicting objectives, goals and intentions.   Studies in this area are not confined to information systems but include many different technological artefacts such as notably ‘Bicycles, Bakelite and Light Bulbs’ (Bijker 1995).  Actor Network Theory (ANT) is an alternative approach and identifies central actors who form elements of heterogeneous networks of interest.  This can be described as a 'material-semiotic' method  in that it maps relations that are simultaneously material (between things) and 'semiotic' (between concepts).  This assumes that many relations are both material and semiotic (e.g. the interactions in a bank involve people, their ideas, and technologies, and together these form a single network).  Central to the theory is the concept of translation, where a forum is created in which all actors agree that the network is worth building and defending. ANT tries to explain how material-semiotic networks come together to act as a whole and looks at strategies for relating different elements together into a network so that they form an apparently coherent whole (Latour 1987; Callon 1991; Latour 1991; Law 1991).   ANT has been controversial in its establishment of the agency of non-human technologies and has been widely used under different interpretations (Callon 1986; Latour 1987; Law 1991; Latour 1993).
+
+## Originating author(s)
+(Mackenzie and Wajcman 1985).  (Latour 1987; Callon 1991; Latour 1991; Law 1991)(Bijker 1995)
+
+## Seminal articles
+Bijker, W. E. (1995). Of Bicycles, Bakerlites, and Bulbs: Toward a Theory of Sociotechnical Change. Cambridge, Massachusetts, The MIT Press.
+
+Callon, M. (1991). Techno-economic networks and irreversibility. A Sociology of Monsters: Essays on Power, Technology and Domination. J. Law. London, Routledge. 132-164
+
+Edge, D. (1988). The Social Shaping of Technology. Edinburgh PICT Working PaperNo 1. Edinburgh
+
+Mackenzie, D. and J. Wajcman (1985). The Social Shaping of Technology: How the Refrigerator got its hum. Milton Keynes, Open University Press.
+
+Williams, R. and D. Edge (1996). "The Social Shaping of Technology." Research Policy 25: 856-899.

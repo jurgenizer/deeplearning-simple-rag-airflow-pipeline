@@ -1,0 +1,14 @@
+# Knowledge Security Theory
+
+## Concise description of theory
+Knowledge Security is the user ability to identify, measure risk and protect his privacy information suitable to AI prediction. Knowledge Security is introduced by Tiago C. Pereira and Henrique Santos in 2017.
+
+Pereira and Santos (2017) extended the InfoSec principles with the sensibility and Critical Knowledge.
+
+When absorption limits exist, they provide one explanation for firms to develop internal R&D capacities. R&D departments can not only conduct development along lines they are already familiar with, but they have formal training and external professional connections that make it possible for them to evaluate and incorporate externally generated technical knowledge into the firm. In other words, a partial explanation for R&D investments by firms is to work around the absorptive capacity constraint.
+
+## Originating author(s)
+Pereira and Santos (2017)
+
+## Seminal articles
+Pereira, T. and Santos, H. (2017). Knowledge Security - An Empirical Use of IT – Child Abuse Monitor System Model. In Proceedings of the 3rd International Conference on Information and Communication Technologies for Ageing Well and e-Health - ICT4AWE, ISBN 978-989-758-251-6; ISSN 2184-4984, pages 236-243. DOI: 10.5220/0006384002360243

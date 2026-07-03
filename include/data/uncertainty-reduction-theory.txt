@@ -1,0 +1,14 @@
+# Uncertainty Reduction Theory
+
+## Concise description of theory
+Uncertainty Reduction Theory (URT; Berger 1979; Berger and Calabrese 1975) emphasizes that during initial interactions, individuals focus primarily on reducing uncertainty about their own and their partner’s behavior. The theory outlines three main strategies people use to gather information and enhance predictability: passive, active, and interactive. Passive strategies involve discreetly observing others to gain insights. Active strategies include seeking information indirectly through third parties or by altering the target’s environment to provoke responses. Interactive strategies involve direct communication, such as asking questions or sharing personal information, to elicit responses.
+
+## Originating author(s)
+Charles R. Berger, and Richard J. Calabrese
+
+## Seminal articles
+Berger, C. R., and Calabrese, R. J. 1975. “Some Explorations in Initial Interactions and Beyond: Toward a Developmental Theory of Interpersonal Communication,” Human Communication Research (1:2), pp. 99-112.
+
+Berger, C. R. 1979. “Beyond Initial Interaction: Uncertainty, Understanding, and the Development of Interpersonal Relationships,” in Language and Social Psychology, H. Giles and R. S. Clair (eds.), Oxford: Blackwell, pp. 122-144.
+
+Berger, C. R., and Bradac, J. J. 1982. Language and Social Knowledge: Uncertainty in Interpersonal Relations, London: E. E. Arnold.

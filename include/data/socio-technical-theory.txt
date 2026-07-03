@@ -1,0 +1,64 @@
+# Socio-technical theory
+
+## Concise description of theory
+In the middle of the 20th century some of the optimistic predictions of the impact of technology on business efficiency and productivity were being confounded. There were many examples of the introduction of technology being associated with implementation problems often linked to resistance by the work force and a failure to achieve the expected benefits. Researchers, notably at the Tavistock Institute in London, with a background in the behavioural sciences (Sociology, Psychology, Anthropology) suggested that what was needed was a fit between the technical sub-system and the social subsystem which together made up an organization.
+
+The technical subsystem comprises the devices, tools and techniques needed to transform inputs into outputs in a way which enhances the economic performance of the organization. The social system comprises the employees (at all levels) and the knowledge, skills, attitudes, values and needs they bring to the work environment as well as the reward system and authority structures that exist in the organization. Later some authorities broadened the definitions to encompass the wider reach of the organization by including customers, suppliers, and the rules and regulations, formal and informal, which govern the relations of the organization to society at large. This became known as the environmental subsystem. The cornerstone of the sociotechnical approach, as the work of these researchers became named, was that the fit was achieved by a design process aiming at the joint optimization of the subsystems: any organizational systems will maximise performance only if the interdependency of these subsystems is explicitly recognised. Hence any design or redesign must seek out the impact each subsystem has on the other and design must aim to achieve superior results by ensuring that all the subsystems are working in harmony.
+
+A number of authorities have outlined the way sociotechnical principles can be implemented. Albert Cherns enunciated a set of sociotechnical design principles in 1976 (Cherns, 1976) and these were updated in 2000 by Chris Clegg to encompass the new Internet based ICT (Clegg, 2000). Enid Mumford based an IS development methodology called ETHICS on sociotechnical principles (Mumford, 1995. Mumford 2003). She has published many detailed case studies involving the use of ETHICS.
+
+Two sometimes conflicting set of values underlie much sociotechnical thinking (Land, 2000). The first is a belief in the importance of humanistic principles. The main task of the designer is to enhance the quality of working life and the job satisfaction of the employee. In turn the achievement of these objectives will enhance productivity and yield added value to the organization. The second set reflects managerial values. Sociotechnical principles are merely instruments for achieving primarily economic objectives. Humanistic objectives have no value in themselves but if their achievement produces a better performance from employees leading to the fulfilment of the economic objectives well and good. This conflict has led to suspicion of sociotechnical ideas by managers and employees as represented, for example, by trade unions. Nevertheless, sociotechnical ideas permeate much IS thinking even if not always referred to as such (Avgerou et al, 2004).
+
+Sources:
+
+Avgerou, C., Ciborra, C. and Land, F.F., editors, (2004), The Social Study of Information and Communications Technology: Innovation, Actors and Context, Oxford, OUP
+
+Bostrom, R., Heinen, J. S., (1977), MIS Problems and Failures: A Socio-Technical Perspective, MIS Quarterly, Vol. 1, No. 3
+
+Cherns, A., (1976), The Principles of Sociotechnical Design, Human Relations, Vol.2, No. 9, pp 783-792
+
+Clegg, C.W., (2000), Sociotechnical Principles for Systems Design, Applied Ergonomics, Vol. 31, pp 463-477
+
+Land, F.F., (2000), Evaluation in a Socio-Technical Context, in Basskerville, R., Stage, J., and DeGross, J.I., Organizational and Social Perspectives on Information Technology, pp.115- 126, Boston, Kluwer Academic Publishers
+
+Mumford, E., (1995), Effective Systems Design and Requirements Analysis: The ETHICS Approach, London, Macmillan
+
+Mumford, E., (2003), Redesigning Human Systems, Hershey, IRM Press
+
+Sawyer, S., and Jarrahi, M. H. 2014. Sociotechnical Approaches to the Study of Information Systems. In A. Tucker, & H. Topi (Eds.), Computing Handbook: Information systems and information technology, 3rd Edition. Boca Raton, FL: Taylor & Francis.
+
+## Originating author(s)
+Eric Trist and Hugh Murray, Albert Cherns, Enid Mumford, Fred Emery, H.J. Leavitt, Frank Heller
+
+See Mumford E., (2003) Redesigning Human Systems, IRM Press for a good summery of the development of the sociotechnical movement in many countries: Chapter 2, Socio-Technical Design: Its Early History pp 12-32.
+
+In IS: Robert Bostrom and J. Stephen Heinen, Enid Mumford and Mary Weir, Frank Land and John Hawgood, Lynne Marcus, Rob Kling, Harold Sackman
+
+## Seminal articles
+Bostrom, R. P., & Heinen, J. S., (1977). MIS problems and failures: A socio-technical perspective, MIS Quarterly, Vol. 1, No. 3, pp. 17-32
+
+Cherns, A., (1976), The principles of sociotechnical design, Human Relations, Vol. 29, No. 8, pp. 783-792.
+
+Coakes, E, Willis, D., and Lloyd-Jones, R. (eds.) 2000, The New Sociotech: Graffiti on the Longwall, London Springer Verlag
+
+Heller, F. (1997) Sociotechnology and the Environment, Human Relations, Vol. 50, No 5, pp. 605-624.
+
+Kling, R., (1980), Social analyses of computing: Theoretical perspectives in recent empirical research, ACM Computing Surveys, Vol. 12, No. 1, pp: 61-110.
+
+Land, F.F., (1987), Social Aspects of Information Systems, in Management Information Systems: The Technological Challenge, N Piercy (ed.), Croom-Helm, Beckenham, pp 11-57.
+
+Leavitt, H.J., (1965). Applied organization change in industry: Structural, technical, and human approaches; new perspectives in organizational research, in March, J.G (ed.) Handbook of Organizations, Chicago, Rand McNally, p55-71.
+
+Lindholm, R., and Norstedt, J.P., (1975), The Volvo Report, Swedish Employers ‘ Confederation
+
+Markus, L., (1983), Power, politics, and MIS implementation, Communications of the ACM, Vol. 26, No. 6, pp. 430-444
+
+Mumford, E., and Banks, O., (1967), The Computer and the Clerk, London, Routledge & Kegan Paul
+
+Mumford, E., Land, F.F., Hawgood, J., (1980), Training the Systems Analyst of the 1980's: Four New Design Tools to Assist the Design Process, in Lucas, H., Land, F.F., Lincoln, T., and Supper, K., (eds.), The Information Systems Environment, North Holland.
+
+Mumford, E. and Weir, M., (1979), Computer Systems and work Design: The ETHICS Method, New York, Wiley & Sons.
+
+Passmore, W.A., Social Science Transformer: The Socio-Technical Perspective, Human Relations, Vol. 48, No. 1, pp. 1-22
+
+Trist, E., & Murray, H., (1993), The Social Engagement of Social Science: A Tavistock Anthology (vol. II), , Philadelphia , University of Pennsylvania Press.

@@ -1,0 +1,17 @@
+# Technological frames of reference
+
+## Concise description of theory
+Technological frames acknowledges that different groups have different perspectives of the usefulness, importance and significance of technological artefacts and that these different lenses or viewpoints are deeply significant in organisational perceptions of non-compliance (Van Maanen and Schein 1979; Gregory 1983; Weick and Bougon 1986; Porac, Thomas et al. 1989; Dougherty 1992).
+The concept of technological frames was incorporated into the SST discussions to capture the interactions among the members of a relevant social group.  The term ‘frames’ refers to the concept of frames of reference and is borrowed from cognitive psychology.  One definition, used by Orlikowski and Gash,  is ‘a built-up repertoire of tacit knowledge that is used to impose structure upon and impart meaning to otherwise ambiguous social and situational information to facilitate understanding’(Gioia 1986).
+These frames include assumptions, knowledge and expectations expressed through language, visual images, metaphors and stories.  Frames are constructed as an interaction around an artefact or process emerges, and comprise shared elements such as tacit knowledge, objectives, organisational constraints and shared methods procedures and problems.    In this way the relationships between relevant social group members are captured but made fluid and open to change where the elements change.  Frames are flexible in structure and content and have variable dimensions that shift in relevance and content over time and according to changing context.  Frames typically operate in the background and can be helpful in that they reduce uncertainty of conditions, structure organisational experience and allow common interpretations of ambiguity.  They can also have constraining effects in that they reinforce established and possibly negative assumptions and knowledge, inhibit creative problem solving and distort information to fit existing cognitive structures. The argument of Willams and Edge (1996) is that there is no linear effect of technologies upon society, nor is the spiralling cycle the correct model.  Instead, they argue, along with others (Clark and Staunton 1989; Fleck 1993) that technologies, once developed and implemented, not only interact with their environment to generate new forms of technology but also create new environments.
+
+The Social Shaping of Technology theory, and in particular the technological frames of reference strand is one of the first theoretical perspectives to acknowledge that users are part of the technology and that any negative reactions to technology may have a myriad of complex underlying motivations.
+
+The TFR information system constructs relate not only to technology, but assumptions, expectations, and knowledge of technology in a collective manner by organizational members (Orlikowski & Gash 1994).
+
+## Originating author(s)
+(Orlikowski and Gash 1994)
+
+## Seminal articles
+(Van Maanen and Schein 1979; Gregory 1983; Weick and Bougon 1986; Porac, Thomas et al. 1989; Dougherty 1992).
+Orlikowski, W. J. and D. C. Gash (1994). "Technological Frames:Making Sense of Information Technology in Organizations." ACM Transactions on Information Systems 12(2): 669-702.

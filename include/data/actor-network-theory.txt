@@ -1,0 +1,34 @@
+# Actor network theory
+
+## Concise description of theory
+Actor-network theory, sometimes abbreviated to ANT, is a sociological theory developed by Bruno Latour, Michel Callon and John Law. It is distinguished from other network theories in that an actor-network contains not merely people, but objects and organizations. These are collectively referred to as actors, or sometimes actants.
+
+The primary tenet of actor-network theory is the concept of the heterogenous network. That is, a network containing many dissimilar elements. These coextensive networks comprise of both social and technical parts. Moreover, the social and technical are treated as inseparable by ANT. When buying produce from a supermarket, for example, the actor-network involved would include the purchaser and the cashier, as well as the cash register, the money and the produce involved. It also includes other, less obvious objects, such as the clothes the purchaser wears, without which they would most likely not be served. The task of trying to identify all of the heterogeneous elements in an actor-network like this can be difficult, and is ultimately up to the discretion of the researcher. This is known as the problem of selection.
+
+Actor-network theory claims that any actor, whether person, object (including computer software, hardware, and technical standards), or organization, is equally important to a social network. As such, societal order is an effect caused by an actor network running smoothly. This order begins to break down when certain actors are removed. For example, the removal of telephones, banks or the president may all result in significant break-downs in social order.
+
+Source: Wikipedia ([http://en.wikipedia.org/wiki/Actor_network_theory])
+
+## Originating author(s)
+Bruno Latour, Michel Callon, John Law
+
+## Seminal articles
+Callon, M. (1986a). ‘The Sociology of an Actor-Network: The Case of the Electric Vehicle’. Mapping the Dynamics of Science and Technology. Callon, M., Law, J. and Rip, A. (Eds). Macmillan Press, London: 19-34.
+
+Callon, M. (1986b). ‘Some Elements of a Sociology of Translation: Domestication of the Scallops and the Fishermen of St Brieuc Bay’. Power, Action & Belief. A New Sociology of Knowledge? Law, J. (Ed). Routledge & Kegan Paul, London: 196-229.
+
+Callon, M. (1987). ‘Society in the Making: The Study of Technology as a Tool for Sociological Analysis’. The Social Construction of Technological Systems. Bijker, W. E., Hughes, T. P. and Pinch, T. P. (Eds). The MIT Press, Cambridge, Ma.: 85-103.
+
+Callon, M. (1997). ‘Actor-Network Theory - The Market Test (draft)’ Actor Network and After Workshop. Centre for Social Theory and Technology (CSTT), Keele University, UK, http://www.keele.ac.uk/depts/stt/stt/ant/callon.htm, 31 July 1997.
+
+Latour, B. (1986). ‘The Powers of Association’. Power, Action and Belief. A new sociology of knowledge? Sociological Review monograph 32. Law, J. (Ed). Routledge & Kegan Paul, London: 264-280.
+
+Latour, B. (1987). Science in Action: How to Follow Engineers and Scientists Through Society. Open University Press, Milton Keynes.
+
+Latour, B. (1988a). The Pasteurization of France. Harvard University Press, Cambridge, Ma.
+
+Latour, B. (1988b). ‘The Prince for Machines as well as for Machinations’. Technology and Social Process. Elliott, B. (Ed). Edinburgh University Press, Edinburgh: 20-43.
+
+Latour, B. (1991). ‘Technology is society made durable’. A Sociology of Monsters. Essays on Power, Technology and Domination. Law, J. (Ed). Routledge, London: 103-131.
+
+Latour, B. (1997). 'On Actor Network Theory: A few clarifications.' http://www.nettime.org/Lists-Archives/nettime-l-9801/msg00019.html.

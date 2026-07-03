@@ -1,0 +1,10 @@
+# Unified theory of acceptance and use of technology
+
+## Concise description of theory
+The UTAUT aims to explain user intentions to use an IS and subsequent usage behavior. The theory holds that four key constructs (performance expectancy, effort expectancy, social influence, and facilitating conditions) are direct determinants of usage intention and behaviour (Venkatesh et. al., 2003). Gender, age, experience, and voluntariness of use are posited to moderate the impact of the four key constructs on usage intention and behavior (Venkatesh et. al., 2003). The theory was developed through a review and consolidation of the constructs of eight models that earlier research had employed to explain IS usage behaviour (theory of reasoned action, technology acceptance model, motivational model, theory of planned behavior, a combined theory of planned behavior/technology acceptance model, model of PC utilization, innovation diffusion theory, and social cognitive theory). Subsequent validation of UTAUT in a longitudinal study found it to account for 70% of the variance in usage intention (Venkatesh et. al., 2003).
+
+## Originating author(s)
+Venkatesh et al. (2003)
+
+## Seminal articles
+Venkatesh,Viswanath;Morris,Michael G.;Davis,Gordon B.;Davis,Fred D., “User acceptance of information technology: Toward a unified view”, MIS Quarterly, 2003, 27, 3, 425-478.

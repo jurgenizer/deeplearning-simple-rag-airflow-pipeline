@@ -1,0 +1,17 @@
+# Technology-organization-environment framework
+
+## Concise description of theory
+The process by which a firm adopts and implements technological innovations is influenced by the technological context, the organizational context, and the environmental context (DePietro, Wiarda, & Fleischer, 1990).
+
+The technological context includes the internal and external technologies that are relevant to the firm.  Technologies may include both equipment as well as processes.  The organizational context refers to the characteristics and resources of the firm, including the firm’s size, degree of centralization, degree of formalization, managerial structure, human resources, amount of slack resources, and linkages among employees.  The environmental context includes the size and structure of the industry, the firm’s competitors, the macroeconomic context, and the regulatory environment (DePietro, Wiarda, & Fleischer, 1990).
+
+These three elements present “both constraints and opportunities for technological innovation” (DePietro, Wiarda, & Fleischer, 1990, p. 154).  Thus, these three elements influence the way a firm sees the need for, searches for, and adopts new technology.
+
+## Originating author(s)
+Rocco DePietro, Edith Wiarda & Mitchell Fleischer (1990). N.B.! This framework is often incorrectly cited as Tornatzky & Fleischer (1990) but please note that Tornatzky & Fleischer were the editors and the actual chapter where TOE appears was written by DePierto and colleagues. Give credit to those who deserve it.
+
+## Seminal articles
+DePietro, Rocco, Wiarda,
+Edith & Fleischer, Mitchell (1990). “The context for change: Organization, technology and environment”, in Tornatzky, L. G. and Fleischer, M. (Eds.) The processes of technological innovation, Lexington Books: Lexington, MA., pp. 151-175.
+
+Rogers, E.M. Diffusion of Innovations, (4th ed.) The Free Press, New York, 1995.

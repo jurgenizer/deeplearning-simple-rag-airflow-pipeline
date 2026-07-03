@@ -1,0 +1,28 @@
+# Belief Action Outcome Model
+
+## Concise description of theory
+Problems involving information systems and environmental sustainability involve human behavior and the broader social, organizational, and environmental contexts. Taken together, the three classes of phenomena comprise micro and macro issues. Coleman’s (1986, 1994) model of micro–macro relations provides the foundation for our conceptual framework. The model underscores the mediating role of
+individuals in linking macro-level variables such as social structure and the behavior of the social system. Three types of relations are included: (1) macro-level variables such as social structure affect the psychic states (beliefs, desires, opportunities, etc.) of individuals ; (2) psychic states affect individual action ; and (3) combined individual action affects macro-level variables such as the behavior of the social system.
+
+The BAO framework has an additional antecedent, organizational structure and an additional outcome, behavior of organization are introduced. In this way, the authors account for dual socialization (individual psychic states are
+shaped by social structure (link 1) and organizational structure (link 1')) and dual outcomes (combined individual action may improve organizational (link 3') and environmental (link 3) performance). Regarding belief formation, tensions may arise within individuals due to conflicts between organizational values (e.g., short-term profit motive) and personal values which are shaped by society (e.g., going green to save the planet). Regarding outcomes, delineation of financial and environmental performance underscores the importance of both dimensions of performance; an environmental management program that reduces costs but does not measurably improve the environment is of dubious environmental value. The final extension is to include dashed lines linking
+four macro–macro states, allowing for research approaches that assume away differences in individual human behavior and treat organizations as collections of homogenous agents (links 4, 4', 5, 5'). Enhanced understanding of underlying causal mechanisms of individual links (e.g., link 1) as well as multiple links (e.g., how society influences individual action within organizations) is a rich source of future research on IS for environmental sustainability .
+
+In sum, the BAO framework provides a way of framing research questions intersecting information systems and environmental sustainability in organizations, is
+compatible with IS research diversity, and subsumes macro and micro perspectives
+found in the scholarly and popular literature (Erdmann et al. 2004; Farrell and Oppenheim 2008; Romm,2002).
+
+To illustrate each of the terminologies in the framework more briefly,
+
+Belief Formation is described as the way psychic states (beliefs, desires, opportunities, etc.) about the natural environment are formed with an analysis value being macro-micro. The major constructs are societal structure which is the cultural or normative patterns that define expectations of agents about each other’s behavior and that organize enduring interrelationships (Lopez and Scott, 2000). Organizational structures are the ways in which an organization divides its labor into distinct tasks and achieves coordination (Mintzberg, 1979) among them and finally the psychic state is the beliefs, desires, opportunities, etc. Other theories that use the same basis are contingency theory, information processing theory, media richness theory, social presence theory and stakeholder theory.
+Action Formation is the way psychic states about the natural environment translate to actions. The analysis level is micro-micro and the primary construct is action which is something done by an individual, such as adoption of an information system to improve organizational recycling or facilitate ride sharing. Theories such as game theory, social cognitive theory, technology acceptance model, theory of planned behavior and theory of reasoned action forms its basis from this terminology.
+Outcome terminology describes the way sustainability actions affect social and organizational systems and the means of macro states affect behavior of society and organizations. The constructs being behavior of society which is the functioning of society and natural environment (includes performance) and behavior of organization which is the functioning of organization (includes performance). Absorptive capacity, dynamic capability theory, production theory, resource-based theory and systems theory are examples which have used this terminology as the foundation for the theory.
+
+## Originating author(s)
+Nigel P. Melville
+
+## Seminal articles
+Melville, N. P. (2010). Information systems
+innovation for environmental sustainability. MIS
+quarterly, 34(1),
+1-21.

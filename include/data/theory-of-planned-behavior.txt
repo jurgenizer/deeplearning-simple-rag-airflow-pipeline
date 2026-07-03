@@ -1,0 +1,16 @@
+# Theory of planned behavior
+
+## Concise description of theory
+TPB posits that individual behavior is driven by behavioral intentions where behavioural intentions are a function of an individual's attitude toward the behaviour, the subjective norms surrounding the performance of the behavior, and the individual's perception of the ease with which the behavior can be performed (behavioral control). Attitude toward the behavior is defined as the individual's positive or negative feelings about performing a behaviour. It is determined through an assessment of one's beliefs regarding the consequences arising from a behavior and an evaluation of the desirability of these consequences. Formally, overall attitude can be assessed as the sum of the individual consequence x desirability assessments for all expected consequences of the behavior. Subjective norm is defined as an individual's perception of whether people important to the individual think the behavior should be performed. The contribution of the opinion of any given referent is weighted by the motivation that an individual has to comply with the wishes of that referent. Hence, overall subjective norm can be expressed as the sum of the individual perception x motivation assessments for all relevant referents. Behavioral control is defined as one's perception of the difficulty of performing a behavior. TPB views the control that people have over their behavior as lying on a continuum from behaviors that are easily performed to those requiring considerable effort, resources, etc. Although Ajzen has suggested that the link between behavior and behavioral control outlined in the model should be between behavior and actual behavioural control rather than perceived behavioural control, the difficulty of assessing actual control has led to the use of perceived control as a proxy.
+
+While this theory has not yet been empirically proven to be explainable by Semantic theory of survey response, one theory built on TPB has been shown to be almost entirely semantically explainable.
+
+Source: Eagly, A. H., & Chaiken, S. (1993). The psychology of attitudes. Fort Worth: Harcourt Brace Jovanovich College Publishers.
+
+## Originating author(s)
+Ajzen (1985); Ajzen (1991)
+
+## Seminal articles
+Ajzen, I. (1985). From intentions to actions: A theory of planned behavior. In J. Kuhl, & J. Beckmann (Eds.), Springer series in social psychology (pp. 11-39). Berlin: Springer.
+
+Ajzen, I. (1991). The theory of planned behavior. Organizational Behavior and Human Decision Processes, 50(2), 179-211.

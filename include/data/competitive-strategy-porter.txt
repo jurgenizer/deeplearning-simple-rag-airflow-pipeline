@@ -1,0 +1,18 @@
+# Competitive strategy (Porter)
+
+## Concise description of theory
+Michael Porter's 1979 framework uses concepts developed in micro-economics to derive 5 forces that determine the attractiveness of a market. They consist of those forces close to a company that affect its ability to serve its customers and make a profit. A change in any of the forces requires a company to re-assess its marketplace.
+
+Four forces -- the bargaining power of customers, the bargaining power of suppliers, the threat of new entrants, and the threat of substitute products -- combine with other variables to influence a fifth force, the level of competition in an industry.
+
+This 5 forces analysis is just one part of the complete Porter strategic system. The other elements are strategic groups (also called strategic sets), the value chain, the generic strategies of cost leadership, differentiation, and focus, and the market positioning strategies of value based, needs based, and access based market positions.
+
+Source: http://en.wikipedia.org/wiki/Five_competitive_forces
+
+## Originating author(s)
+Michael E. Porter
+
+## Seminal articles
+Porter, Michael E. 1979. How competitive forces shape strategy. Harvard business review, 57(2): 137-145.
+
+Porter, M. E. (1980). Competitive strategy: Techniques for analyzing industries and competitors. NY, USA: The Free Press.

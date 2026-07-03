@@ -1,0 +1,22 @@
+# Chaos theory
+
+## Concise description of theory
+Chaos theory relates to some non-linear, dynamical systems that exhibit apparently erratic or random behavior even though the system has limits and contains no random variables.  Chaotic systems are generally noted for their sensitivity to initial conditions that result in vastly different outcomes.
+
+Chaos is somewhat counter to the notion of complete determinism, that every event or action is an inevitable result of preceding events or actions—and can be predicted, in advance, with absolute certainty.  With the fundamental principle that no real measurement can be infinitely precise, chaotic systems will have unpredictable outcomes because initial conditions cannot be specified with infinite accuracy.  Moreover, initial condition imprecision in dynamic systems will grow at an exponential rate.  This sensitivity to initial conditions is generally called chaos in mathematics and physics.
+
+Chaotic systems are deterministic within limits and not forever expanding or contracting; they tend to “orbit” around one or more points, called attractors.  A related area of chaotic systems involves fractals.
+
+A practical implication of chaos theory is that two nearly-identical sets of initial conditions for the same system may result in significantly different outcomes, albeit within limits.
+
+## Originating author(s)
+Henri Poincaré, Edward Lorenz, James A. Yorke, Benoit Mandelbrot, James Gleick
+
+## Seminal articles
+Mandelbrot, B.  The Fractal Geometry of Nature, W. H. Freeman, New York, NY, 1983.
+
+Gleick, J.  Chaos: Making a New Science, Viking Press, New York, NY, 1987.
+
+Robertson, R. and Combs, A. Chaos Theory in Psychology and the Life Sciences, Lawrence Erlbaum Associates, Hillsdale, NJ, 1995.
+
+Thompson, J.M.T.  Nonlinear Dynamics and Chaos, Wiley, New York, NY, 2002.

@@ -1,0 +1,39 @@
+# Design Theory
+
+## Concise description of theory
+Design theory involves examining and evaluating design as a concept. A
+number of scholars in information systems research have examined and evaluated the concept of
+design.  The focus of design
+in information systems is on design of IT artifacts. There
+are differing opinions about what constitutes design for information
+technology artifacts.  Walls et al. (1992) specify two major components of IT design
+theories: a product component and a development process component. Each draws
+upon kernel theories (usually taken from the natural or social sciences) in
+specifying prescriptive hypotheses that enable designers to evaluate whether
+the product and its development process satisfy the design theory. Goldkuhl
+(2004) specifies a need for multiple grounding of design theories in external
+theories, reference theories, value theories, etc. Markus et al. (2002) take a
+more practical view of design theories, using these theories to explain the
+means– ends relationship as a practical, prescriptively causal mechanism to
+justify design components.
+
+## Originating author(s)
+N/A
+
+## Seminal articles
+Weber, R. (1987). Toward a theory of artifacts: a paradigmatic base for information systems research. Journal of Information Systems, 1(2), 3-19.
+
+Walls, J. G., Widmeyer, G. R., & El Sawy, O. A. (1992). Building an information system design theory for vigilant EIS. Information systems research, 3(1), 36-59.
+
+March, S. T., & Smith, G. F. (1995). Design and natural science research on information technology. Decision support systems, 15(4),
+251-266.
+
+Simon, H. A. (1996). The sciences of the artificial (Vol. 136). MIT press.
+
+Markus, M. L., Majchrzak, A., & Gasser, L. (2002). A design theory for systems that support emergent knowledge processes. Mis Quarterly, 179-212.
+
+Hevner, A., March, S. T., Park, J., & Ram, S. (2004). Design science in information systems research. MIS quarterly, 28(1), 75-105.
+
+Gregor, S., & Jones, D. (2007). The anatomy of a design theory. Journal of the Association for Information Systems, 8(5), 312-335.
+
+Peffers, K., Tuunanen, T., Rothenberger, M. A., & Chatterjee, S. (2007). A design science research methodology for information systems research. Journal of management information systems, 24(3), 45-77.

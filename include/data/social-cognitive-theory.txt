@@ -1,0 +1,26 @@
+# Social cognitive theory
+
+## Concise description of theory
+Social cognitive theory provides a framework for understanding, predicting, and changing human behavior. The theory identifies human behavior as an interaction of personal factors, behavior, and the environment (Bandura 1977; Bandura 1986).
+
+In the model, the interaction between the person and behavior involves the influences of a person’s thoughts and actions. The interaction between the person and the environment involves human beliefs and cognitive competencies that are developed and modified by social influences and structures within the environment. The third interaction, between the environment and behavior, involves a person’s behavior determining the aspects of their environment and in turn their behavior is modified by that environment.
+
+According to Jones (1989) “the fact that behavior varies from situation to situation may not necessarily mean that behavior is controlled by situations but rather that the person is construing the situations differently and thus the same set of stimuli may provoke different responses from different people or from the same person at different times.”
+
+In conclusion, social cognitive theory is helpful for understanding and predicting both individual and group behavior and identifying methods in which behavior can be modified or changed.
+
+## Originating author(s)
+Albert Bandura
+
+## Seminal articles
+Bandura, A. “Self-Efficacy: Toward a Unifying Theory of Behavioral Change,” Psychology Review (84), 1977, pp. 191-215.
+
+Bandura, A. Social foundations of thought and action: A social cognitive theory, Prentice-Hall, Englewood Cliffs, NJ, 1986.
+
+Bandura, A. “Social cognitive theory: An agentive perspective,” Annual Review of Psychology (52:1), 2001, pp. 1-26.
+
+Bandura, A. “Human agency in social cognitive theory,” American Psychologist (44), 1989, pp. 1175-1184.
+
+Jones, J. W. “Personality and epistemology: Cognitive social learning theory as a philosophy of science,” Zygon (24:1), 1989, pp. 23-38.
+
+Miller, N. E., & Dollard, J. (1941). Social Learning and Imitation. New Haven: Yale University Press.

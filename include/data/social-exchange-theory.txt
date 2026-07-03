@@ -1,0 +1,28 @@
+# Social exchange theory
+
+## Concise description of theory
+Social exchange theory grew out of the intersection of economics, psychology and sociology. According to Hormans (1958), the initiator of the theory, it was developed to understand the social behavior of humans in economic undertakings. The fundamental difference between economic exchange and social exchange theory is in the way actors are viewed. Exchange theory “views actors (person or firm) as dealing not with another actor but with a market” (Emerson,1987, P.11), responding to various market characteristics; while social exchange theory views the exchange relationship between specific actors as  “actions contingent on rewarding reactions from others.” (Blau, 1964, P.91)
+
+Today, social exchange theory exists in many forms, but all of them are driven by the same central concept of actors exchanging resources via a social exchange relationship. Where social exchange (e.g., Ax; By ) is the voluntary transfer of resources (x,y,…) between multiple actors (A,B,…) (Cook,1977). The theory has evolved from a dyadic model to a network model (Cook, 1977) with market properties (Emerson, 1987). The crux of the theory is still best captured in Homans’s own words (1958, P.606)
+
+“Social behavior is an exchange of goods, material goods but also non-material ones, such as the symbols of approval or prestige. Persons that give much to others try to get much from them, and persons that get much from others are under pressure to give much to them. This process of influence tends to work out at equilibrium to a balance in the exchanges. For a person in an exchange, what he gives may be a cost to him, just as what he gets may be a reward, and his behavior changes less as the difference of the two, profit, tends to a maximum.”
+
+This interaction between two actors (people, firms etc.) results in various contingencies, where the actors modify their resources to each others expectations. Power is the mechanics that can explain the relation of the actors (Emerson, 1962 and Blau, 1964). According to Emerson (1962), power is the property of a relation and not of an actor, because it “resides implicitly in the other’s dependency.” (P.32).
+
+Where “dependence of A upon Bj (DABJ) is a joint function, (1) varying directly with the value to A of the resources received from B and (2) varying inversely with comparison level for alternative exchange relations.” (Emerson and Cook, 1972b: 64). Power results from resource dependency (Emerson, 1962) in a dyadic relation but in a network exchange model, it is also derived from the structure (Cook,1977) - structural power. Here, power of A over B (PAB) in any relation Ax; By is the ability of A to decrease the exchange ratio, x/y (Emerson and Cook,1974, P. 25).
+
+To conclude, social exchange theory is best understood as a framework for explicating movement of resources, in imperfect market conditions, between dyads or a network via a social process (Emerson, 1987).
+
+## Originating author(s)
+George Homans (1958)
+
+## Seminal articles
+Homans,G.C.1958. Social Behavior as Exchange. American Journal of Sociology, 63 (6): 597-606.
+
+Emerson, R. 1962.Power-Dependence Relations. American Sociological Review, 27(1): 31-41.
+
+Blau,P.1964. Exchange and Power in Social Life. New York: Wiley.
+
+Levine,S. and White,P. 1961.Exchange as a Conceptual Framework for the Study of Interorganizational Relationships. Administrative Science Quarterly 5(4): 583-601.
+
+Cook.K.S. 1977.Exchange and Power in Networks of Interorganizational Relations. The Sociological Quarterly 18 (Winter 1977): 62-82.

@@ -1,0 +1,20 @@
+# Protection motivation theory
+
+## Concise description of theory
+PMT’s main contribution is its capacity to predict users’ intentions to protect themselves after receiving fear-arousing recommendations: “The purpose of PMT research is usually to persuade people to follow the communicator’s recommendations; so, intentions indicate the effectiveness of the attempted persuasion” (Floyd et al. 2000, p. 411).
+
+As explained carefully by Boss et al. (2015) and Posey et al. (2015), threat appraisal and coping appraisal, the two components of PMT shown in Figure 1 (as a process variance model) that shape protection intentions, form the core assumptions of PMT. The basic idea of PMT is that a fear appeal triggers the threat-appraisal process. Two processes and outcomes must occur for a person to engage in an adaptive response: First, in the threat-appraisal process, the threat and generated fear that inspire protection motivation must be weighted more heavily than maladaptive rewards earned by not engaging in protection motivation.
+
+Second, in the coping-appraisal process, a person’s response efficacy and self-efficacy must outweigh the response costs for engaging in the protection motivation. In terms of threat appraisal, it is important to emphasize that the feeling of fear is conceptually distinct from the fear appeal or fear-appeal message. In a PMT context, fear is defined as a “relational construct, aroused in response to a situation that is judged as dangerous and toward which protective action is taken” (Rogers 1975, p. 96). Separately, a fear appeal is the stimulus designed to trigger both fear and the threat-appraisal and coping-appraisal processes. Ideally a fear appeal does not just increase threat but would also increase efficacy by giving a respondent a path to address the threat. Importantly, the best fear appeals create both high threat and high efficacy because they address both the threat and the individual’s ability to deal with it (Milne et al. 2000; Witte and Allen 2000). The fear-appeals literature uses the message (fear appeal) as a manipulation.
+
+## Originating author(s)
+R. W. Rogers; later revised with S. Prentice-Dunn
+
+## Seminal articles
+Rogers, R. W. 1975. "A Protection Motivation Theory of Fear Appeals and Attitude Change," Journal of Psychology (91:1), pp. 93-114.
+
+Rogers, R. W. 1983. "Cognitive and Physiological Processes in Fear Appeals and Attitude Change: A Revised Theory of Protection Motivation," in Social Psychophysiology: A Sourcebook, J. T. Cacioppo, and R. E. Petty (eds.), New York, NY: Guilford, pp. 153-176.
+
+Rogers, R. W., and Prentice-Dunn, S. 1997. "Protection Motivation Theory," in Handbook of Health Behavior Research I: Personal and Social Determinants, D. S. Gochman (ed.), New York, NY: Plenum Press, pp. 113-132.
+
+Floyd, D. L., Prentice-Dunn, S., and Rogers, R. W. 2000. "A Meta-Analysis of Research on Protection Motivation Theory," Journal of Applied Social Psychology (30:2), pp. 407-429.

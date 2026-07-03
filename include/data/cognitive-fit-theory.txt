@@ -1,0 +1,16 @@
+# Cognitive fit theory
+
+## Concise description of theory
+Cognitive fit theory was developed by Iris Vessey (1991). The theory proposes that the correspondence between task and information presentation format leads to superior task performance for individual users. In several studies, cognitive fit theory has provided an explanation for performance differences among users across different presentation formats such as tables, graphs, and schematic faces (e.g., Vessey, 1991, 1994; Vessey & Galletta, 1991; Umanath & Vessey, 1994). The theory has also been extended into the geographic information systems domain, where it has been used to explain performance differences among users of map and table-based geographic information systems on adjacency, proximity, and containment tasks (Dennis and Carte,1998; Smelcer and Carmel, 1997).
+
+According to Vessey (1991) "matching representation to tasks leads to the use of similar . . problem-solving processes, and hence the formulation of a consistent mental representation. There will be no need to transform the mental representation . . . to extract information from the problem representation and to solve the problem. Hence, problem solving with cognitive fit leads to effective and efficient problem-solving performance."
+
+Sources: Vessey, Iris (1991). Cognitive Fit: A Theory-Based Analysis of the Graphs Versus Tables Literature. Decision Sciences 22,(2), 219-240. and, Dunn, Cheryl, Grabski, Severin. (2001). An investigation of localization as an element of cognitive fit in accounting model representations. Decision Sciences, 32(1), 55-94.
+
+## Originating author(s)
+Iris Vessey
+
+## Seminal articles
+Vessey, Iris (1991). Cognitive Fit: A Theory-Based Analysis of the Graphs Versus Tables Literature. Decision Sciences 22,(2), 219-240.
+
+Vessey, Iris, Galletta, Dennis (1991). Cognitive Fit: An Empirical Study of Information Acquisition. Information Systems Research, 2(1), 63-84.

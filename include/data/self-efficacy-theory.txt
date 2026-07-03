@@ -1,0 +1,27 @@
+# Self-efficacy theory
+
+## Concise description of theory
+Self efficacy is people’s perception of their ability to plan and take action to reach a particular goal.
+
+Computer self-efficacy (CSE) refers to individuals' judgment of their capabilities to use computers in diverse situations (Compeau and Higgins 1995; Marakas et al. 1998)
+
+Source: http://en.wikipedia.org/wiki/Self_efficacy
+
+## Originating author(s)
+Bandura (1977)
+In IS: Compeau and Higgins (1995)
+
+## Seminal articles
+Bandura, A. 1977. Self-efficacy: Toward a unifying theory of behavioral change.
+
+Bandura, A. 1978. Reflections on self-efficacy. Advances in Behavioral Research and Therapy, 1: 237-269.
+
+Bandura, A. 1982. Self-efficacy mechanism in human agency American Psychologist: 122-147.
+
+Bandura, A. 1986. Social foundations of thought and action Prentice-Hall. Englewood Cliffs.
+
+Bandura, A. 1997. Self-efficacy: The exercise of control W. H. Freeman, New York.
+
+Compeau, D. R., & Higgins, C. A. 1995. Application of social cognitive theory to training for computer skills. Information Systems Research, 6(2): 118-143.
+
+Compeau, D. R., & Higgins, C. A. 1995. Computer self-efficacy: Development of a measure and initial test. MIS Quarterly, 19(2): 189-211.

@@ -1,0 +1,24 @@
+# SERVQUAL
+
+## Concise description of theory
+SERVQUAL is a multi-item scale developed to assess customer perceptions of service quality in service and retail businesses (Parasuraman et. al., 1988). The scale decomposes the notion of service quality into five constructs as follows:
+
+Tangibles - physical facilities, equipment, staff appearance, etc.
+Reliability - ability to perform service dependably and accurately
+Responsiveness - willingness to help and respond to customer need
+Assurance - ability of staff to inspire confidence and trust
+Empathy - the extent to which caring individualized service is given
+
+SERVQUAL represents service quality as the discrepancy between a customer's expectations for a service offering and the customer's perceptions of the service received, requiring respondents to answer questions about both their expectations and their perceptions (Parasuraman et. al., 1988). The use of perceived as opposed to actual service received makes the SERVQUAL measure an attitude measure that is related to, but not the same as, satisfaction (Parasuraman et. al., 1988). Parasuraman et. al. (1991) presented some revisions to the original SERVQUAL measure to remedy problems with high means and standard deviations found on some questions and to obtain a direct measure of the importance of each construct to the customer.
+
+Kettinger and Lee (1994) and Pitt et. al. (1995) were among the early adapters of SERVQUAL to the IS context. Their work sought to use SERVQUAL to measure the service quality of the IS function. Since this time concerns have been raised regarding the suitability of SERVQUAL to the IS context (Kettinger and Lee, 1997; Pitt et al., 1997; Carr, 2002; van Dyke et. al., 1999).
+
+## Originating author(s)
+Parasuraman et. al. (1985); Parasuraman et. al. (1988); Parasuraman et. al. (1991)
+
+## Seminal articles
+Parasuraman,A.;Berry,Leonard L.;Zeithaml,Valarie A., “A Conceptual Model of Service Quality and Its Implications for Future Research”, Journal of Marketing, 1985, 49, 4, 41-50.
+
+Parasuraman,A.;Berry,Leonard L.;Zeithaml,Valarie A., “SERVQUAL: A Multiple-Item Scale For Measuring Consumer Perceptions of Service Quality”, Journal of Retailing, 1988, 64, 1, 12-40.
+
+Parasuraman,A.;Berry,Leonard L.;Zeithaml,Valarie A., “Refinement and Reassessment of the SERVQUAL Scale”, Journal of Retailing, 1991, 67, 4, 420-450.

@@ -1,0 +1,20 @@
+# Elaboration likelihood model
+
+## Concise description of theory
+The elaboration likelihood model (ELM) is a psychological theory that addresses the process of persuasion.  Specifically, it is a “dual-process” theory – that is, a theory that explains that there are two routes through which persuasion takes place, the central route and the peripheral route.
+
+In the ELM, information is the primary driver of attitude change.  When information is carefully considered, cognitive effort is expended, and then an informed judgment is made, an individual is using the central route of information processing.  When using the central route, individuals cognitively elaborate on the content of an informational message, evaluate its content, and consider other issues relevant to the information.  Elaboration in the ELM thus refers to “the extent to which a person scrutinizes the issue-relevant arguments contained in the persuasive communication.”  (Petty and Cacioppo, 1986, p. 7).   When elaboration levels are high, the individual is using the central route.
+
+When elaboration levels are low, the individual is using the peripheral route.  This route requires less cognitive effort than the aforementioned central route.  Heuristics, cues, and affinity with the source of the information form the basis for an attitude change when using the peripheral route.  Simple decision rules are used here rather than active, effortful analysis of information.
+
+The ELM explains that changes in attitudes are a function of (1) the quality of the information or argument, (2) peripheral cues, including heuristics and other stimuli that influence persuasion, and (3) elaboration likelihood.
+
+## Originating author(s)
+Petty, R.E., and Cacioppo, J.T. 1986. Communication and Persuasion: Central and Peripheral Routes to Attitude Change. New York: Springer-Verlag.
+
+Petty, R.E., Cacioppo, J.T., and Goldman, R. 1981. "Personal Involvement as a Determinant of Argument-Based Persuasion," Journal of Personality and Social Psychology (41:5), p 847.
+
+## Seminal articles
+Eagly, A.H., and Chaiken, S. 1993. The Psychology of Attitudes. Harcourt Brace Jovanovich College Publishers.
+
+Chaiken, S., and Trope, Y. 1999. Dual-Process Theories in Social Psychology. Guilford Press.

@@ -1,0 +1,18 @@
+# Deferred action, theory of
+
+## Concise description of theory
+The theory of deferred action is a design and action theory, meaning that its purpose is to facilitate the design of IT artefacts that will be used by individuals and organisations to act purposefully or to achieve objectives. It assumes the possibility of bounded rational design of IT artefacts, including information systems. It recognises that such artefacts are used in social systems that are emergent. Since social systems are emergent, rationally designed IT artefacts need to grow along with emerging social systems. This growth is enabled by deferred design, the mechanism built into the IT artefact that permits actors, called active designers, to design the IT artefact in situ on an ongoing basis. The effect of emergence on rational design is called deferred action. Deferred action is the ability of actors to shape the IT artefact in live context. IT artefacts that are rationally designed to cope with emergent social systems are called deferred systems. The World Wide Web is a classic example. Technology that takes shape in live context is termed deferred technology.
+
+Design principles: Principle of Underspecificaton, principle of ethics, Deferred Design Decisions Principle.
+
+## Originating author(s)
+Nandish V Patel
+
+## Seminal articles
+Patel N V (2006) Organisation and Systems Design: Theory of Deferred Action. Palgrave Macmillan. Pp 253.
+
+Patel N V (2009) The Theory of Deferred Action: Informing the design of information systems for complexity. In Dwivedi Y et al., (eds), Handbook of Research on Contemporary Theoretical Models in Information Systems, Information Science Reference (IGI Global), Hershey
+
+Patel N V (2009) Theory of Deferred Action: Exploring the Boundaries of and Between Socio-Technical Systems Design. Design Principles & Practices: An International Journal, Vol 3.
+
+Patel N V (2007) Deferred Action: Theoretical model of process architecture design for emergent business processes. Int. Journal of Business Science and Applied Management, Volume 2, Issue 3, pp. 4-21

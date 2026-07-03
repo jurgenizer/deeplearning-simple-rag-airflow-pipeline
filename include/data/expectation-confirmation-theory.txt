@@ -1,0 +1,18 @@
+# Expectation confirmation theory
+
+## Concise description of theory
+Expectations-confirmation theory posits that expectations, coupled with perceived performance, lead to post-purchase satisfaction. This effect is mediated through positive or negative disconfirmation between expectations and performance. If a product outperforms expectations (positive disconfirmation) post-purchase satisfaction will result. If a product falls short of expectations (negative disconfirmation) the consumer is likely to be dissatisfied (Oliver, 1980; Spreng et al. 1996).
+
+The four main constructs in the model are: expectations, performance, disconfirmation, and satisfaction. Expectations reflect anticipated behavior (Churchill and Suprenant, 1982). They are predictive, indicating expected product attributes at some point in the future (Spreng et al. 1996). Expectations serve as the comparison standard in ECT – what consumers use to evaluate performance and form a disconfirmation judgment (Halstead, 1999). Disconfirmation is hypothesized to affect satisfaction, with positive disconfirmation leading to satisfaction and negative disconfirmation leading to dissatisfaction.
+
+A major debate within the marketing literature concerns the nature of the effect of disconfirmation on satisfaction. The root of the problem lies in the definition of predictive expectations as the comparison standard for perceived performance. In such case, the confirmation of negative expectations is not likely to lead to satisfaction (Santos and Boote 2003). To overcome this problem, researchers have proposed other comparison standards such as desires, ideals, equity, or past product and brand experience (see reviews by Halstead, 1999; Yi 1990 and analysis by Tse and Wilton, 1988. Also see Spreng et al. 1996; Woodruff et al., 1983).
+
+## Originating author(s)
+Oliver (1977, 1980)
+
+## Seminal articles
+Oliver R. L, 1977, "Effect of Expectation and Disconfirmation on Postexposure Product Evaluations - an Alternative Interpretation," Journal of Applied Psychology, 62(4), p. 480.
+
+Oliver R. L, 1980, "A Cognitive Model of the Antecedents and Consequences of Satisfaction Decisions," JMR, Journal of Marketing Research, 17(4), p. 460.
+
+Spreng R. A, S.B. MacKenzie and R.W. Olshavsky, 1996, "A reexamination of the determinants of consumer satisfaction," Journal of Marketing, 60(3), p. 15.

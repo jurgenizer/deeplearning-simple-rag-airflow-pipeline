@@ -1,0 +1,10 @@
+# Theory of Network Externalities
+
+## Concise description of theory
+Network externality theory has been defined as a change in the benefit, or surplus, that an agent derives from a good when the number of other agents consuming the same kind of good changes. Network externalities are common in technology products, usually involving communication and collaboration across multiple users, and network effects form an essential part of diffusion process. A technology/product is characterized by network externality when an increase in the number of users of the technology/product increases the value to other users, even after controlling for other characteristics of technology/product. This theory has been extensively used in IS to enhance understanding of technology adoption across myriad applications like gaming, social network services, blockchain, electronic commerce, payment systems, RFID and communication technology to name a few.
+
+## Originating author(s)
+Michael L. Katz, Carl Shapiro, Joseph Farrell, and Garth Saloner- Economics
+
+## Seminal articles
+N/A

@@ -1,0 +1,36 @@
+# Hermeneutics
+
+## Concise description of theory
+Hermeneutic theory is a member of the social subjectivist paradigm where meaning is inter-subjectively created, in contrast to the empirical universe of assumed scientific realism (Berthon et al. 2002). Other approaches within this paradigm are social phenomenology and ethnography. As part of the interpretative research family, hermeneutics focuses on the significance that an aspect of reality takes on for the people under study. Hermeneutics focuses on defining shared linguistic meaning for a representation or symbol.
+
+In order to reach shared understanding as proposed in hermeneutic theory, subjects must have access to shared linguistic and interpretative resources (Marshall et al. 2001). However, hermeneutic theory also posits that linguistic meaning is likely open to infinite interpretation and reinterpretation due to the interpretative ambiguity coming from presuppositions, to the conditions of usage different from authorial intention, and to the evolution of words (Marshall et al. 2001).
+
+Due to its interpretive nature, hermeneutics cannot be approached using a pre-determined set of criteria that is applied in a mechanical fashion (Klein et al. 1999). However, a meta-principal, known as the hermeneutic circle, guides the hermeneutic approach where the process of understanding moves from parts of a whole to a global understanding of the whole and back to individual parts in an iterative manner (Klein et al. 1999). This meta-principal allows the development of a complex whole of shared meanings between subjects, or between researchers and their subjects (Klein et al. 1999).
+
+Other co-existing principles that may help assure rigorous interpretive analysis involve: a) understanding the subject according to its social and historical context, b) assessing the historical social construction between the researcher and the subject, c) relating ideographic details to general theoretical concepts through abstraction and generalization, d) being sensitive to potential pre-conceptual theoretical contradictions between research design and actual findings, e) being aware of possible multiple interpretations among participants for a given sequence of events, and f) being conscious of potential biases or systematic distortions in the subject’s narratives (Klein et al. 1999).
+
+Sources:
+
+Berthon, P., Pitt, L., Ewing, M., and Carr, C., L. "Potential research space in MIS: A framework for envisioning and evaluating research replication, extension, and generation," Information Systems Research (13:4) 2002, p 416.
+
+Klein, H.K., and Myers, M.D. "A set of principles for conducting and evaluating interpretive field studies in information systems," MIS Quarterly (23:1) 1999, p 67.
+
+Marshall, N., and Brady, T. "Knowledge management and the politics of knowledge: Illustrations from complex products and systems," European Journal of Information Systems (10:2) 2001, p 99.
+
+## Originating author(s)
+Berger, P., and Luckman, T., Bernstein, R.J., Derrida, J., Gadamer, H.G., Heidegger, M., Palmer, R., Ricoeur, P.
+
+## Seminal articles
+Berger, P., and Luckman, T. The social construction of reality: a treatise in the sociology of knowledge, Penguin Publishers, London, 1967.
+
+Bernstein, R.J., Beyond Objectivism and Relativism, University of Pennsylvania Press, Pennsylvania, 1983.
+
+Derrida, J. On Grammatology. Johns Hopkins University Press, Baltimore, 1976.
+
+Gadamer H.-G. Philosophical Hermeneutics, University of California Press, Berkeley, 1976.
+
+Heidegger M. Being and Time, SCM Press, London, 1962.
+
+Palmer, R., Hermeneutics: Interpretation Theory in Schleiermacher, Dilthey, Heidegger, and Gadamer. Northwestern University Press, Evanston, 1969.
+
+Ricoeur, P. The conflict of interpretations : essays in hermeneutics, Northwestern University Press, Evanston, 1974.

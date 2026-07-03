@@ -1,0 +1,18 @@
+# Appraisal Theory
+
+## Concise description of theory
+Appraisal theory of emotions is a theoretical framework which explains emotions are triggered by the individual’s evaluation of events which enables certain reactions. These reactions vary among different people as per their interpretations and explanations of the circumstances (Scherer, 2001). Magda Arnold put the foundation explaining the triggers of emotions through appraisal of situations and specified that it is the first step in emotion in her work “cognitive theory” (Arnold, 1960) (Arnold, Emotion and personality: Vol. 2., 1960). Further advancement of her work suggests that initial appraisals begin the emotional sequences leading to specific actions and emotional experiences as well. The physiological changes accompany the actions and experiences (Arnold, Feelings and emotions: The Loyola Symposium, 1970).
+
+Continuing with the works by Magda Arnold, Richard Lazarus developed the theory to explain long range and immediate outcomes in a stressful-person environment relations with mediators as cognitive appraisal and coping processes.  Cognitive appraisal process can be described in two appraisal methods. In primary appraisal, an individual evaluates risks and stakes under certain personal-environment relations.  In secondary appraisal, an individual evaluates the resources available with him to further develop coping mechanism. These appraisals converge to whether a transaction with environment is significant for an individual’s well-being and categorised as threatening and challenging (Susan Folkman, 1986).
+
+Coping is defined as individual’s constantly changing cognitive and behavioral efforts to handle person-environment transactions appraised as exceeding the available resources of an individual. Coping helps to regulate stressful emotions referred to as emotion-focused coping and to alter the stressful person-environment relation causing the stress described as problem-focused coping. Coping is process oriented, contextual and makes no a priori differentiation between bad and good coping mechanism (Lazarus, 1991).
+
+## Originating author(s)
+Magda Arnold and Richard Lazarus
+
+## Seminal articles
+Folkman, S., Lazarus, R.S. If It Changes It Must Be a Process. Study of Emotion and Coping During Three Stages of a College Examination (1985) Journal of Personality and Social Psychology, 48 (1), pp. 150-170. Cited 2753 times. DOI: 10.1037/0022-3514.48.1.150
+
+Folkman, S., Lazarus, R.S., Dunkel-Schetter, C., DeLongis, A., Gruen, R.J. Dynamics of a Stressful Encounter. Cognitive Appraisal, Coping, and Encounter Outcomes (1986) Journal of Personality and Social Psychology, 50 (5), pp. 992-1003. Cited 2588 times. DOI: 10.1037/0022-3514.50.5.992
+
+Smith, C.A., Ellsworth, P.C. Patterns of Cognitive Appraisal in Emotion (1985) Journal of Personality and Social Psychology, 48 (4), pp. 813-838. Cited 2365 times. DOI: 10.1037/0022-3514.48.4.813

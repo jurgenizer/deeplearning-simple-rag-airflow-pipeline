@@ -1,0 +1,16 @@
+# Technology acceptance model
+
+## Concise description of theory
+TAM is an adaptation of the Theory of Reasoned Action (TRA) to the field of IS. TAM posits that perceived usefulness and perceived ease of use determine an individual's intention to use a system with intention to use serving as a mediator of actual system use. Perceived usefulness is also seen as being directly impacted by perceived ease of use. Researchers have simplified TAM by removing the attitude construct found in TRA from the current specification (Venkatesh et. al., 2003). Attempts to extend TAM have generally taken one of three approaches: by introducing factors from related models, by introducing additional or alternative belief factors, and by examining antecedents and moderators of perceived usefulness and perceived ease of use (Wixom and Todd, 2005). In a recent paper, Gefen and Larsen (2017) demonstrated that TAM's construct relationships primarily emerge from semantic relationships between its questionnaire items. A Theory explaining their findings is described at Semantic theory of survey response.
+
+TRA and TAM, both of which have strong behavioural elements, assume that when someone forms an intention to act, that they will be free to act without limitation. In practice constraints such as limited ability, time, environmental or organisational limits, and unconscious habits will limit the freedom to act.
+
+## Originating author(s)
+Davis (1986); Davis (1989)
+
+## Seminal articles
+Davis, F. D. (1986). A technology acceptance model for empirically testing new end-user information systems: Theory and results. (Doctoral dissertation, Sloan School of Management, Massachusetts Institute of Technology).
+
+Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Quarterly, 13(3), 319-339.
+
+Davis, F. D., Bagozzi, R. P., & Warshaw, P. R. (1989). User acceptance of computer technology: A comparison of two theoretical models. Management Science, 35(8), 982-1003.

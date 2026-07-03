@@ -1,0 +1,20 @@
+# Social Contagion Theory
+
+## Concise description of theory
+Although the social contagion concept has been around for a long time as an explanation for social phenomena primarily through Gustave Le Bon’s book “The crowd: A study of popular mind” (1895), it’s relevance as a theory of social influence was recognized only recently. Social contagion theory tries to understand social influence that explains how people’s perceptions, attitudes, and behaviors are transformed primarily through interpersonal processes, and these mainly occurs within social networks of the individuals. Hence, the theory implies that individuals’ thoughts, emotions and behaviors are influenced by displayed emotions of other individuals who are part of their network. When making decisions or tackling problems, people look at cues from others who have faced the same situations. The theory argues that an individual’s communication makes an ego and an alter within members of the nearest network and this closeness results in contagion, resulting in beliefs converging among the socially related pairs. This social influence based on proximity is explained by the theory as caused by two underlying mechanisms- social comparison and interaction. While social comparison is influenced by the structural similarity between each individuals’ connections within the network, communication is measured through the centrality and strength of connections in a network. Unlike an epidemic, social contagion requires multiple interactions to spread and hence its modeling is rather complex. But the fundamental building block is pairwise interactions itself. Further, social contagion can be either accidental or intentional depending on whether those who infect are trying to infect or not.
+
+Source: (Venkatesh et al. 2020) (Burt 1987)
+
+## Originating author(s)
+Burt 1987
+
+Christakis and Fowler 2007
+
+Christakis and Fowler 2013
+
+## Seminal articles
+Burt, R. S. 1987. “Social Contagion and Innovation: Cohesion versus Structural Equivalence,” American Journal of Sociology (92:6), University of Chicago Press, pp. 1287–1335.
+
+Christakis, N. A., and Fowler, J. H. 2007. “The Spread of Obesity in a Large Social Network over 32 Years,” New England Journal of Medicine (357:4), Massachusetts Medical Society, pp. 370–379.
+
+Christakis, N., and Fowler, J. 2013. “Social Contagion Theory: Examining Dynamic Social Networks and Human Behavior,” Statistics in Medicine (32).

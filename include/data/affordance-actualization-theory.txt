@@ -1,0 +1,22 @@
+# Affordance-actualization theory
+
+## Concise description of theory
+Affordance-actualization theory is a psychological theory that explains how people perceive and interact with their environment. It was initially proposed by James J. Gibson, who defined an affordance as a potential for action that an object or a situation offers to an agent[1]. For example, a chair affords sitting, a door affords opening, and a ball affords throwing.
+
+Affordances are not just physical properties of objects, but also relational and value-laden aspects of the environment that depend on the agent’s needs, goals, and abilities[4]. For example, a chair may afford sitting for a human, but not for a bird; a door may afford opening for an adult, but not for a child; and a ball may afford throwing for a player, but not for a spectator. Hutchby (2001) took the idea of affordance and applied it to technology, looking at how these technologies(artefacts) can be used and how they connect with people (actors). There are four stages to the theoretical model:
+
+"Affordance Existence" refers to the ways in which opportunities for actions and interactions exist, how they are affected by both the features of objects and the abilities of individuals, however in context of IS research the idea of actors goes beyond individuals to include organizations. Also, it applies the concept of affordances to technology, where it refers to the potential actions an organization can take using a particular technology or Information System.
+
+To utilize the possibilities that affordances offer, individuals must first notice them. Recognizing affordances involves a process of acknowledgment, shaped by the attributes of the objects, the individual's abilities, their intention, and external cues.[5] The complete spectrum of an object's affordances isn't immediately apparent.[6] Rather, it's the goal-driven individual, influenced by their unique traits, who identifies the affordances as potential opportunities for actions.
+
+“Affordance Actualization” is the process where individuals use technology to make the most of perceived opportunities in order to achieve goals that align with the organization's objectives. This process is purpose-driven and iterative.[7]
+
+The "Affordance Effect" refers to the outcomes that can result from individuals taking action based on perceived affordances. When an affordance is put into action, it generates a specific result, which can be thought of as the consequence of that action. In the short term, the outcome that immediately follows affordance actualization is called an "immediate-concrete outcome." This outcome is a specific and expected result of the action, and it contributes to achieving the overall organizational goal, which is referred to as the "affordance effect" in the long term. When an affordance is actualized, it can lead to enabling additional affordances, development of more IT features, and/or facilitating organizational changes.
+
+.
+
+## Originating author(s)
+James J. Gibson
+
+## Seminal articles
+N/A

@@ -1,0 +1,30 @@
+# Dynamic capabilities
+
+## Concise description of theory
+Teece et al. (1997) define dynamic capabilities as ‘the ability to integrate, build, and reconfigure internal and external competencies to address rapidly-changing environments’.
+
+The concept of dynamic capabilities arose from a key shortcoming of the resource-based view of the firm. The RBV has been criticized for ignoring factors surrounding resources, instead assuming that they simply “exist”. Considerations such as how resources are developed, how they are integrated within the firm and how they are released have been under-explored in the literature. Dynamic capabilities attempt to bridge these gaps by adopting a process approach: by acting as a buffer between firm resources and the changing business environment, dynamic resources help a firm adjust its resource mix and thereby maintain the sustainability of the firm’s competitive advantage, which otherwise might be quickly eroded. So, while the RBV emphasizes resource choice, or the selecting of appropriate resources, dynamic capabilities emphasize resource development and renewal.
+
+According to Wade and Hulland (2004), IS resources may take on many of the attributes of dynamic capabilities, and thus may be particularly useful to firms operating in rapidly changing environments. Thus, even if IS resources do not directly lead the firm to a position of superior sustained competitive advantage, they may nonetheless be critical to the firm’s longer-term competitiveness in unstable environments if they help it to develop, add, integrate, and release other key resources over time.
+
+## Originating author(s)
+Jay Barney, Kathleen Eisenhardt, David Teece
+
+## Seminal articles
+Barney, J. (1991) "Firm resources and sustained competitive advantage," Journal of Management (17) 1, pp. 99-120.
+
+Barney, J. B. (1986) "Types of competition and the theory of strategy: toward an integrative framework," Academy of Management Review (11pp. 791-800.
+
+Eisenhardt, K. and J. Martin (2000) "Dynamic capabilities: what are they?," Strategic Management Journal , 21, pp. 1105-1121.
+
+Helfat CE. 1997. Know-how and asset complementarity and dynamic capability accumulation. Strategic Management Journal 18(5): 339-360
+
+Helfat CE. Peteraf MA. 2003. The dynamic resource-based view. Strategic Management Journal 24: 997-1010.
+
+Makadok, Richard (2001). Toward a Synthesis of the Resource-Based and Dynamic-Capability Views of Rent Creation, Strategic Management Journal, 22 (5): 387-402
+
+Priem, R. L. and J. E. Butler (2001) "Is the reosurce-based "view" a useful perspective for strategic management research?," Academy of Management Review (26) 1, pp. 22-40.
+
+Teece, D. J., G. Pisano, and A. Shuen (1997) "Dynamic capabilities and strategic management," Strategic Management Journal (18) 7, pp. 509-533.
+
+Winter, S. (2003) "Understanding dynamic capabilities", Strategic Management Journal, 24, 10, 991-995.

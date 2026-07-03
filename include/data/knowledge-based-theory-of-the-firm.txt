@@ -1,0 +1,26 @@
+# Knowledge-based theory of the firm
+
+## Concise description of theory
+The knowledge-based theory of the firm considers knowledge as the most strategically significant resource of the firm. Its proponents argue that because knowledge-based resources are usually difficult to imitate and socially complex, heterogeneous knowledge bases and capabilities among firms are the major determinants of sustained competitive advantage and superior corporate performance.
+
+This knowledge is embedded and carried through multiple entities including organizational culture and identity, policies, routines, documents, systems, and employees. Originating from the strategic management literature, this perspective builds upon and extends the resource-based view of the firm (RBV) initially promoted by Penrose (1959) and later expanded by others (Wernerfelt 1984, Barney 1991, Conner 1991).
+
+Although the resource-based view of the firm recognizes the important role of knowledge in firms that achieve a competitive advantage, proponents of the knowledge-based view argue that the resource-based perspective does not go far enough. Specifically, the RBV treats knowledge as a generic resource, rather than having special characteristics. It therefore does not distinguish between different types of knowledge-based capabilities. Information technologies can play an important role in the knowledge-based view of the firm in that information systems can be used to synthesize, enhance, and expedite large-scale intra- and inter-firm knowledge management (Alavi and Leidner 2001).
+
+## Originating author(s)
+Jay Barney, Robert Grant, Bruce Kogut, Udo Zander, Ikujiro Nonaka
+
+## Seminal articles
+Conner, K.R. “A Historical Comparison of the Resource-Based Theory and Five Schools of Thought Within Industrial Organization Economics: Do We Have a New Theory of the Firm?,” Journal of Management (17:1), 1991, pp. 121-154.
+
+Grant, R.M. “Toward a Knowledge-Based Theory of the Firm,” Strategic Management Journal (17), Winter Special Issue, 1996, pp. 109-122.
+
+Grant, R.M. “Prospering in Dynamically-Competitive Environments: Organizational Capability as Knowledge Integration,” Organization Science (7:4), 1996, pp. 375-387.
+
+Kogut, B., and Zander, U. “Knowledge of the Firm, Combinative Capabilities, and the Replication of Technology,” Organization Science (3:3), 1992, pp. 383-397.
+
+Kogut, B. “The Network as Knowledge: Generative Rules and the Emergence of Structure,” Strategic Management Journal (21), 2000, pp. 405-425.
+
+Nonaka, I., and Takeuchi, H. The Knowledge-Creating Company: How Japanese Companies Create the Dynamics of Innovation, Oxford University Press, New York, 1995.
+
+Spender, J.C. “Making Knowledge the Basis of a Dynamic Theory of the Firm,” Strategic Management Journal (17), Special Issues, 1996, pp. 45-62.

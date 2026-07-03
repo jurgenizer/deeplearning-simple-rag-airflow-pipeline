@@ -1,0 +1,18 @@
+# Argumentation theory
+
+## Concise description of theory
+The theory of argumentation is descriptive of how people argue. The theory has roots in logic; however, Toulmin developed his theory in order to explain everyday argumentation (Toulmin 1958).
+
+In their description of an argument, Brockriede and Ehninger (1960) refer to Toulmin and describe an argument as “movement from accepted data, through a warrant, to a claim.”
+
+The three main components in argumentation theory include data, warrant, and claim. Data refers to the facts or opinions of evidence. Claim refers to the conclusion. Warrant is the “leap” which advances data to a claim (Brockriede and Ehninger 1960). Specifically Toulmin (1958) says that warrant is “incidental and explanatory, its task being simply to register explicitly the legitimacy of the step involved and to refer it back to the larger class of steps whose legitimacy is being proposed.”
+
+The second set of components is not necessary, but may be present. These additional three components include backing, rebuttal, and qualifier. Backing refers to the evidence or support for assumptions in the warrant. Rebuttal recognizes the conditions under which the claim will not be true. Finally, qualifier is the probability or level of confidence of the claim.
+
+## Originating author(s)
+Stephen Toulmin
+
+## Seminal articles
+Toulmin, S. The Uses of Argument, Cambridge University Press, Cambridge, MA, 1958.
+
+Brockriede, W., and Ehninger, D. “Toulmin On Argument: An Interpretation And Application,” Quarterly Journal of Speech (46:1), February 1960, pp. 44-54.

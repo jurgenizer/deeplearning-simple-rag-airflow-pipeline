@@ -1,0 +1,27 @@
+# Theory of slack resources (TSR)
+
+## Concise description of theory
+The theory of slack resources is a multilevel theory that suggests, understanding the value of IT at any level of interest requires understanding the way IS slack is created and then redeployed to IT and/or business processes beside the operationalized IT investment. Moreover, this theory suggests that the value of IT at any level (e.g. individual, group, project or organisational) emerges from the interactional effect of two parts of any investment: operationalized IT investment and created IS slack. On the one hand, operationalized IT investment is mainly supposed to result in intended business benefits and the other,managers create IS slack in order to manage the unintended/unanticipated consequences of operationalised IT investment. However, this strategy comes at a cost and the negative effects of IS slack on organisational IT investment values may outperform IT investment's intended benefits unless managed properly.
+IS slack is defined as the cushion of actual or potential IT resources, which allows IT or organizational adaptation to internal and external pressures and jolts.It is created with IT investments to assure stability, sustainability, and survival (i.e., effectiveness), it has some negative consequences with regard to other aspects of the firm (i.e.,efficiency). IS slack can be classified into two conditions: absorbed IS slack vs. unabsorbed IS slack. ).  Absorbed IS slack can be interpreted to represent IS slack that is mainly used for protection in few specific situations (Sharfman et al. 1988). They are the ones that are embedded in a specific internal or external transaction and are not redeployable to other transactions. In contrast, unabsorbed IS slack is not specific to a particular transaction and can be used in various situations and/or provide various options.
+IS slack contributes to organizational effectiveness in two ways: indirect and direct. In the direct scenario, IS slack improves organizational effectiveness directly by addressing the specific needs of the business domain where as the in the indirect path, IS slack enhances organizational effectiveness through the mediating role of IT effectiveness.
+Pinsonneault and Kraemer (2002) argued that the value of IT depends on the slack and its allocation. IS slack can take different forms. While all types of slack are similar in sharing the concept of over investment beyond the economist’s optimized, equilibrium point (Bourgeois 1981; Cyert and March 1963), the diversity of IS slack necessitates theorizing and classifying these types in order to enhance our understanding of different impacts of IS slack on any organizational phenomenon. 
+IS slack can be classified in reference to the nature of the slack itself
+Time type slack is when extra amount of time is dedicated to an IT-related activity that is beyond the optimum amount of time required.
+Human resource type is the investment in creation of excessive capabilities and skills in human resources above the level required for task completion.
+IT artifact type is any kind of excess capacity or investment in the technological side of the IT resources.
+IS slack can be classified according to the type of IT asset
+IT infrastructures are the physical IT assets that comprise the computer and communication technologies and the shareable technical platforms and databases (Bharadwaj 2000).
+IT application is a piece of software functionality that is developed and installed on specific IT platform(s) to perform a set of one or more business tasks independently of other surrounding IS components (Saraf et al. 2007).
+The two assumptions of this theory are: 
+organizational decision makers are considered as rationally bounded
+the business environment is turbulent and not perfectly predictable
+Theory of slack examines the effects of the above mentioned slacks at the organizational level on both organizational efficiency and effectiveness by including the notion of redeployability that adjusts and modifies the degree of negative consequences associated with the creation of IS slack. The initial impacts of IS slack created, and the updated effects of the less-absorbed IS slack after reallocation is studied under this theory.
+To conclude the results of this theory, the primary target  of an organisation is to maximize the effectiveness. In the best scenario, this goal attainment can be associated with approaching secondary goal, organisational efficiency as well. however, organisational efficiency does not usually enhance effectiveness maximizations. As a result, while the equilibrium point for organizational effectiveness is increased after an IT investment, the efficiency’s equilibrium point may even decline vis-à-vis the pre-investment era.
+
+## Originating author(s)
+Yasser Rahrovani and Alain Pinsonneault
+
+## Seminal articles
+Rahrovani, Y., & Pinsonneault, A. (2012). On the business value of information technology: A theory of slack resources. In Information Systems Theory (pp. 165-198). Springer New York.
+Rahrovani, Y., Pinsonneault, A., & Austin, R. D. (2018). If you cut employees some slack, will they innovate? MIT Sloan Management Review 59(4), 47–51.
+Rahrovani, Y. & Pinsonneault, A. (2020). Innovative IT use and innovating with IT: A study of the motivational antecedents of two different types of innovative behaviors. Journal of the Association for Information Systems (JAIS) 21(4), 936-970.

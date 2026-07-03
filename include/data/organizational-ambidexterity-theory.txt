@@ -1,0 +1,28 @@
+# Organizational Ambidexterity Theory
+
+## Concise description of theory
+Organizational ambidexterity refers to an organization’s simultaneous ability to excel at both exploitation, which is refining and extending existing competencies, and exploration, which is pursuing novel opportunities and innovations. Just as a person who is ambidextrous can use both hands with equal skill, an ambidextrous organization can balance efficiency and adaptability to thrive in dynamic environments.
+
+This theory was coined by Michael T. Duncan. The concept gained prominence through James G. March’s work on the exploration–exploitation trade-off, highlighting the need to both explore new possibilities and exploit existing strengths. Tushman and O’Reilly (1996) formalized the ambidextrous organization, proposing that firms achieve breakthrough and incremental innovation by hosting dual structures, processes, and cultures simultaneously.
+
+The Core constructs of the theory are:
+
+Exploration involves     search, variation, risk-taking, experimentation, and innovation.
+Exploitation entails     refinement, efficiency, implementation, and execution.
+Ambidexterity emerges     when organizations effectively integrate these opposing activities.
+
+## Originating author(s)
+James G. March, Michael T. Duncan, Charles A. O’Reilly III, and Michael L. Tushman
+
+## Seminal articles
+Duncan, R. B. (1976). “The ambidextrous organization: Designing dual structures for innovation.” The Management of Organization Design, 167–188.
+
+March, J. G. (1991). “Exploration and exploitation in organizational learning.” Organization Science, 2(1), 71–87.
+
+Tushman, M. L., & O’Reilly, C. A. III (1996). “Ambidextrous organizations: Managing evolutionary and revolutionary change.” California Management Review, 38(4), 8–30.
+
+He, Z.-L., & Wong, P.-K. (2004). “Exploration vs. exploitation: An empirical test of the ambidexterity hypothesis.” Organization Science, 15(4), 481–494.
+
+Jansen, J. J. P., van den Bosch, F. A. J., & Volberda, H. W. (2005). “Managing potential and realized absorptive capacity: How do organizational antecedents matter?” Academy of Management Journal, 48(6), 999–1015.
+
+Rosing, K., Frese, M., & Bausch, A. (2011). “Explaining the heterogeneity of the leadership–innovation relationship: Ambidextrous leadership.” The Leadership Quarterly, 22(5), 956–974.

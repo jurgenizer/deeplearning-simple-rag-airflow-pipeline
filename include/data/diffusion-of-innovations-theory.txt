@@ -1,0 +1,38 @@
+# Diffusion of innovations theory
+
+## Concise description of theory
+DOI theory sees innovations as being communicated through certain channels over time and within a particular social system (Rogers, 1995).  Individuals are seen as possessing different degrees of willingness to adopt innovations and thus it is generally observed that the portion of the population adopting an innovation is approximately normally distributed over time (Rogers, 1995).  Breaking this normal distribution into segments leads to the segregation of individuals into the following five categories of individual innovativeness (from earliest to latest adopters): innovators, early adopters, early majority, late majority, laggards (Rogers, 1995).  Members of each category typically possess certain distinguishing characteristics as shown below:
+
+innovators - venturesome, educated, multiple info sources
+early adopters - social leaders, popular, educated
+early majority - deliberate, many informal social contacts
+late majority - skeptical, traditional, lower socio-economic status
+laggards - neighbours and friends are main info sources, fear of debt
+
+When the adoption curve is converted to a cumulative percent curve a characteristic S curve (as shown in the first figure below) is generated that represents the rate of adoption of the innovation within the population (Rogers, 1995).  The rate of adoption of innovations is impacted by five factors: relative advantage, compatibility, trialability, observability, and complexity (Rogers, 1995).  The first four factors are generally positively correlated with rate of adoption while the last factor, complexity, is generally negatively correlated with rate of adoption (Rogers, 1995).  The actual rate of adoption is governed by both the rate at which an innovation takes off and the rate of later growth.  Low cost innovations may have a rapid take-off while innovations whose value increases with widespread adoption (network effects) may have faster late stage growth.  Innovation adoption rates can, however, be impacted by other phenomena.  For instance, the adaptation of technology to individual needs can change the nature of the innovation over time.  In addition, a new innovation can impact the adoption rate of an existing innovation and path dependence may lock potentially inferior technologies in place.
+
+Because of IDT's overlap with the Technology acceptance model, it is likely also vulnerable to Semantic theory of survey response.
+
+Sources: http://en.wikipedia.org/wiki/Diffusion_of_innovation
+
+Rogers, Everett M. Diffusion of Innovations. 4thed. New York: Free Press,1995
+
+Diffusion of Innovation Theory in IS
+
+Moore and Benbasat (1991), working in an IS context, expanded upon the five factors impacting the adoption of innovations presented by Rogers, generating eight factors (voluntariness, relative advantage, compatibility, image, ease of use, result demonstrability, visibility, and trialability) that impact the adoption of IT.  Scales used to operationalize these factors were also validated in the study.
+
+Since the early applications of DOI to IS research the theory has been applied and adapted in numerous ways.  Research has, however, consistently found that technical compatibility, technical complexity, and relative advantage (perceived need) are important antecedents to the adoption of innovations (Bradford and Florin, 2003; Crum et. al., 1996) leading to the generalized model presented below (see second figure below).
+
+## Originating author(s)
+Lazarsfeld et. al. (1949); Rogers (1962); Rogers and Shoemaker (1971); Rogers (1995)
+
+## Seminal articles
+Lazarsfeld, P.F., Berelson, B. & Gaudet, H. (1949). The people’s choice: How the voter makes up his mind in a presidential campaign. New York: Columbia University Press.
+
+Rogers, Everett M. (1962). Diffusion of Innovations. The Free Press. New York.
+
+Rogers, Everett M & Shoemaker, Floyd F (1971). Communication of Innovations: A Cross-Cultural Approach (2nd ed.). New York: The Free Press.
+
+Rogers, Everett M. Diffusion of Innovations. 4thed. New York: Free Press, 1995.
+
+Rogers, Everett M. Diffusion of Innovations. 5thed. New York: Free Press, 2003.

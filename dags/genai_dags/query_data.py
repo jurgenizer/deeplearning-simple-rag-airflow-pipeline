@@ -1,21 +1,23 @@
 from airflow.sdk import dag, task, Asset
 
-COLLECTION_NAME = "Books"
+COLLECTION_NAME = "Theories"
 EMBEDDING_MODEL_NAME = "BAAI/bge-small-en-v1.5"
 
 
 @dag(
-    schedule=[Asset("my_book_vector_data")],
-    params={"query_str": "A philosophical book"},
-)  # new!
+    schedule=[Asset("my_theory_vector_data")],
+    tags=["genai", "rag"],
+    default_args={"retries": 2},
+    params={"query_str": "A theory explaining why people adopt new technology"},
+)
 def query_data():
 
     @task
-    def search_vector_db_for_a_book(**context):
+    def search_vector_db_for_a_theory(**context):
         from airflow.providers.weaviate.hooks.weaviate import WeaviateHook
         from fastembed import TextEmbedding
 
-        query_str = context["params"]["query_str"]  # new!
+        query_str = context["params"]["query_str"]
 
         hook = WeaviateHook("my_weaviate_conn")
         client = hook.get_conn()
@@ -27,16 +29,18 @@ def query_data():
 
         results = collection.query.near_vector(
             near_vector=query_emb,
-            limit=1,
+            limit=3,
         )
         for result in results.objects:
-            print(
-                f"You should read: {result.properties['title']} by {result.properties['author']}"
-            )
-            print("Description:")
-            print(result.properties["description"])
+            props = result.properties
+            print(f"Theory: {props['name']}")
+            if props["authors"]:
+                print(f"Originating author(s): {props['authors']}")
+            if props["description"]:
+                print(f"Description: {props['description']}")
+            print("-" * 80)
 
-    search_vector_db_for_a_book()
+    search_vector_db_for_a_theory()
 
 
 query_data()

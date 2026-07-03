@@ -1,0 +1,16 @@
+# Multi-attribute utility theory
+
+## Concise description of theory
+a family of methods for conducting decision analysis in complex problems
+
+## Originating author(s)
+Keeney, R.L. and Raiffa, H. Decisions with Multiple Objectives: Preferences and Value Tradeoffs. New York, New York: Cambridge University Press, 1993.
+
+## Seminal articles
+Chatterjee, S., & Heath, T. B. (1996). Conflict and loss aversion in multiattribute choice: The effects of trade-off size and reference dependence on decision difficulty. Organizational Behavior and Human Decision Processes, 67(2), 144-155.
+
+Dyer, J. S., Fishburn, P. C., Steuer, R. E., Wallenius, J., & Zionts, S. (1992). Multiple Criteria Decision Making, Multiattribute Utility Theory. Management Science, 38(5).
+
+Fischer, G. W., Carmon, Z., Ariely, D., & Zauberman, G. (1999). Goal-based construction of preferences: Task goals and the prominence effect. Management Science, 45(8), 1057-1075.
+
+Häubl, G., & Trifts, V. (2000). Consumer Decision Making in Online Shopping Environments: The Effects of Interactive Decision Aids. Marketing Science, 19(1), 4-21.

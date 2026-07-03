@@ -1,0 +1,14 @@
+# Social Presence Theory
+
+## Concise description of theory
+Social presence theory explores how the "sense of being with another" is influenced by digital interfaces in human-computer interactions.[2] The theory was developed from the foundations of interpersonal communication and symbolic interactionism. It can be defined as, “the degree of salience of the other person in the interaction and the consequent salience of the interpersonal relationships” (Short, Williams, & Christie, 1976). Media usually rely on various linguistic and non-verbal cues to transmit information, and media with more cues often indicate a stronger social presence. The theory notes that computer-based communication is lower in social presence than face-to-face communication, but different computer-based communications can affect the levels of social presence between communicators and receivers. Research on social presence theory has recently developed to examine the efficacy of telecommunications media, including SNS communications. Human characteristics like social relationships (Han, Min, & Lee, 2015), personalized greetings (Gefen & Straub, 2003), emotional words with images (Hassanein & Head, 2005) have been found to positively influence social presence, while interactivity and social presence have an inverted-U relationship.[3]
+
+.
+
+## Originating author(s)
+John Short
+Ederyn Williams
+Bruce Christie
+
+## Seminal articles
+N/A

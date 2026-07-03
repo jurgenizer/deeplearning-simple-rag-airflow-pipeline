@@ -1,0 +1,28 @@
+# Evolutionary theory
+
+## Concise description of theory
+The theory of evolution as presented by Darwin (1859) holds that variability exists in the inheritable traits possessed by individual organisms of a species. When this variability results in differences in the ability of each organism to reproduce in their environment, those traits that improve reproductive ability will become dominant in the species. Species are thus evolving, under environmental pressure, such that their ability to reproduce is improved rather than evolving toward to some pre-established endpoint. Framed in this manner, evolution serves to explain change at the level of the species and not at the level of the individual. Since the work of Darwin (1859), evolutionary theory has been applied to a broad range of situations involving change processes. For instance, the field of computer science has seen the introduction of evolutionary algorithms such as genetic algorithms.
+
+Extensions and adjustments have also been introduced, with punctuated equilibrium (Eldredge and Gould, 1972) being one of the most prominent. Within organizational theory, Nelson and Winter (1982) have presented selection as operating at the level of the firm with some firms surviving the competitive environment while others perish.
+
+Ein-Dor and Segev (1993) make the distinction between evolutionary and evolutionist theories. Evolutionary theories concern themselves with the mechanisms that produce change while evolutionist theories address the direction of change and its final destination. Despite the importance of this distinction, the term evolution is generally applied in both types of discussions.
+
+Modified from: http://en.wikipedia.org/wiki/Genetic_algorithm
+
+## Originating author(s)
+Darwin (1859); Dawkins (1989); Eldredge and Gould (1972); Gould (1982); Gould (2002); Mayr (1982); Nelson and Winter (1982)
+
+## Seminal articles
+Darwin, C. (1859). On the origin of the species by means of natural selection : Or, the preservation of favoured races in the struggle for life. --. London: J. Murray.
+
+Dawkins, R. (1989). The selfish gene (New ed.). Oxford ; New York: Oxford University Press.
+
+Eldredge, N., & Gould, S. J. (1972). Punctuated equilibria: An alternative to phyletic gradualism. In T. Schopf (Ed.), Models in paleobiology (pp. 82-115). San Francisco: Freeman, Cooper and Co.
+
+Gould, S. J. (2002). The structure of evolutionary theory. Cambridge, Mass.: Belknap Press of Harvard University Press.
+
+Gould, S. J. (1982). The panda's thumb : More reflections in natural history. New York ; London: Norton.
+
+Mayr, E. (1982). The growth of biological thought : Diversity, evolution, and inheritance. Cambridge, Mass.: Belknap Press.
+
+Nelson, R. R., & Winter, S. G. (1982). An evolutionary theory of economic change. Cambridge, Mass.: Belknap Press of Harvard University Press.

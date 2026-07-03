@@ -1,0 +1,34 @@
+# Absorptive capacity theory
+
+## Concise description of theory
+Absorptive capacity is a firm’s ability to identify, assimilate, transform, and apply valuable external knowledge. Put another way, absorptive capacity is a limit to the rate or quantity of scientific or technological information that a firm can absorb. Conceptually, it is similar to information processing theory, but at the firm level rather than the individual level. Absorptive capacity was introduced by Cohen and Levinthal in 1990.
+
+Zahra and George (2002) extended the theory by specifying four distinct dimensions to absorptive capacity: acquisition, assimilation, transformation and exploitation. However, Todorova and Durisin (2007) seriously question Zahra and George's reconceptualization of absorptive capacity.
+
+When absorption limits exist, they provide one explanation for firms to develop internal R&D capacities. R&D departments can not only conduct development along lines they are already familiar with, but they have formal training and external professional connections that make it possible for them to evaluate and incorporate externally generated technical knowledge into the firm. In other words, a partial explanation for R&D investments by firms is to work around the absorptive capacity constraint.
+
+It is useful to note that almost all organizational literature, including Cohen and Levinthal’s (1989; 1990) original work, treats absorptive capacity as an organizational-level construct (Lane et al. 2006). Although absorptive capacity does have antecedents and consequences, it is not composed of a statement of relations among concepts within a set of assumptions and boundaries. Thus, absorptive
+
+Modified from: http://economics.about.com/cs/economicsglossary/g/absorptive_cap.htm
+
+## Originating author(s)
+Cohen and Levinthal (1990)
+
+## Seminal articles
+Cohen W., and D. Levinthal. 1990. "Absorptive capacity: a new perspective on learning and innovation." Administrative Science Quarterly 35(1) pp 128-152.
+
+Henderson, R., and Cockburn, I. “Measuring Competence? Exploring Firm Effects in Pharmaceutical Research,” Strategic Management Journal (15:8), Winter Special Issue,1994, pp. 63-84.
+
+Nonaka, I. “A Dynamic Theory of Organizational Knowledge Creation,” Organization Science (5:1), 1994, pp. 14-37.
+
+Szulanski, G. “Exploring Internal Stickiness: Impediments to the Transfer of Best Practices Within the Firm,” Strategic Management Journal (17:10), 1996, pp. 27-43.
+
+Bosch, F. A., Volberda, H. W., and Boer, M. D. 1999. Coevolution of Firm Absorptive Capacity and Knowledge Environment: Organizational Forms and Combinative Capabilities. Organization Science 10, 5 (May. 1999), 551-568.
+
+Zahra, S. A., and George, G. “Absorptive Capacity: A Review, Reconceptualization, and Extension,” Academy of Management Review (27:2), 2002, pp. 185-203.
+
+Mowery, D. C., Oxley, J.E. et Silverman, B. S. (1996), “Strategic alliances and interfirm knowledge transfer”, Strategic Management Journal, Winter Special Issue, 17, pp. 77-92.
+
+Lane, P.J., Koka, B.R., and Pathak, S. 2006. "The Reification of Absorptive Capacity: A Critical Review and Rejuvenation of the Construct," Academy of Management Review (31:4), pp. 833-863.
+
+Todorova, G., and Durisin, B. 2007. "Absorptive Capacity: Valuing a Reconceptualization," Academy of Management Review (32:3), pp. 774-786.

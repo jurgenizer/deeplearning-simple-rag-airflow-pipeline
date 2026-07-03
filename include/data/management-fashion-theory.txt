@@ -1,0 +1,26 @@
+# Management fashion theory
+
+## Concise description of theory
+The theory of management fashion in business and management studies states that, under conditions of uncertainty, organizations (“management fashion followers”) imitate innovation models promoted by “fashion-setting organizations” (such as: consulting firms; management gurus; business mass-media publications; and business schools) and that the diffusion rates and final levels of adoption of any given management innovation cannot be fully explained by rational/technically efficient arguments (the “efficient choice” perspective).   In addition to techno-economic forces, socio-psychological factors have a significant influence in decisions to adopt and engage in continued use of a management innovation.
+
+Thus, management fashion is largely a cultural phenomenon, shaped by norms of rationality (i.e. sets of behaviours that are believed to be rational by a particular stakeholder group) and expectations of progress (i.e. management must be seen to be always looking for improvement).
+
+The underlying expectation is that over time, the use of a specific management fashion will eventually decline and new fashions must emerge.  Some fashions will decline quite quickly and these are considered to be "fads".  Others achieve widespread adoption and continued use for a considerable period of time.  Finally, in a given subject area, multiple cycles or generations of innovation are visible where, as one proposed approach declines, fashion setters introduce a new innovation. These results are typically presented as S-curves or bell curves.
+
+Management fashions can be studied by examining two parallel life cycles – the evolution of the discourse surrounding the innovation and the degree to which the innovation is actually adopted for continued use.
+
+Discourse life-cycle analysis is an approach used to examine the volume and nature of discourse about a particular fashion over time.  This is typically done by bibliographic and content analysis, separating the various modes of discourse -- mass media, Internet, trade/business press, academic press (journals and dissertations).
+
+Diffusion life-cycle analysis is an approach used to determine the degree to which an innovation is actually adopted by organizations (fashion followers) and the level of use over time.  Depending on the nature of the innovation, this can be done through surveys, case studies or analysis of secondary data, such as growth/decline in the businesses of service or product suppliers and specific market sales data.
+
+## Originating author(s)
+Abrahamson, E. (1991). Managerial Fads and Fashions: The diffusion and rejection of innovations Academy of Management Review, 16(3).
+
+Abrahamson, E. (1996). Management Fashion. Academy of Management Review, 21(1).
+
+Abrahamson, E., & Fairchild, G. (1999). Management fashion: Lifecycles, triggers, and collective learning processes. Administrative Science Quarterly, 44(4).
+
+Carson, P. P., Lanier, P. A., Carson, K. D., & Birkenmeier, B. J. (1999). A historical perspective on fad adoption and abandonment. Journal of Management History, 5(6).
+
+## Seminal articles
+Rogers, Everett M. (1962, Rev 2003). Diffusion of Innovations. The Free Press. New York.

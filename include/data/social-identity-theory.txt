@@ -1,0 +1,27 @@
+# Social Identity Theory
+
+## Concise description of theory
+Social Identity Theory is a conceptualization recognizing that the way we perceive others and ourselves is based on both our unique characteristics and our membership in various groups. It also compares the individual to other groups to help to define exactly who they are depending on the context of the activity. The theory was proposed by Henri Tajfel and John Turner in 1970’s and 1980’s through which they explained the intergroup behavior. There are two identities.
+
+Personal Identity: About the person's characteristics which can be the person's appearance or personality, such as height, weight, hair color, etc.
+Social Identity: About the group the person belongs to, such as a citizen of a particular country, student of a particular university, etc.
+
+To understand the Social Identity Theory we need to understand the three mental processes involved in it so that we can evaluate it properly. These are social categorization, social identification, and social comparison.
+
+Social Categorization: Process of classifying people into a groups based on similar characteristics. In this categorization, there are further two more groups - in-group and out-group. In-group is defined as a group in which people come up with the same interest or identity, and opposite to that out-group are those people who do not belong to a specific in-group.
+Social Identification: Accepting as self-descriptive the qualities attributed to one’s group, e.g. a doctor will behave like a doctor and help the patient.
+Social Comparison: Evaluating ourselves or our own group by comparing it with others. In the absence of objective measure for self-evaluation we compare ourselves to others to find out how we are actually doing the comparison.
+
+## Originating author(s)
+Henri Tajfel, John Turner
+
+## Seminal articles
+Tajfel, H. (1974). Social identity and intergroup behaviour. Information (International Social Science Council), 13(2), 65-93.
+
+Tajfel, H. E. (1978). Differentiation between social groups: Studies in the social psychology of intergroup relations. Academic Press.
+
+Ashforth, B. E., & Mael, F. (1989). Social identity theory and the organization. Academy of management review, 14(1), 20-39.
+
+Turner, J. C., & Tajfel, H. (1986). The social identity theory of intergroup behavior. Psychology of intergroup relations, 5, 7-24.
+
+Tajfel, H., & Turner, J. (1986). The social identity theory of intergroup behaviour. u: Worchel S. i Austin WG (ur.) Psychology of intergroup relations. Chicago: Nelson Hall.

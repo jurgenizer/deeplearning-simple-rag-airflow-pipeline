@@ -1,0 +1,12 @@
+# Embodied social presence theory
+
+## Concise description of theory
+ESP Theory posits that the body is the nexus of communication, and that an embodied representation affects the perceptions of users by drawing them into a higher level of cognitive engagement in their shared activities and communication acts. During this process users engage in a loop of shifting attentional focus on the virtual and real self, on the other social actor’s virtual and real self, and on the context of interactions.
+
+## Originating author(s)
+Brian Mennecke, Janea Triplett, Lesya Hassall, Zayira Jordan, Rex Heer
+
+## Seminal articles
+Mennecke, B.E., Triplett, J., Hassall, L.M., Jordan, Z., and Heer, R., (forthcoming). An Examination of User Embodiment and Activity-based Social Interaction in Virtual Worlds: Implications for the Development of a Theory of Embodied Social Presence. Decision Sciences, Vol. 42, Num. 2.
+
+Mennecke, B.E., Triplett; J. L., Hassall, L., & Jordan-Conde, Z.  Embodied Social Presence Theory. 43rd Hawaiian International Conference on System Sciences, Jan. 2010, Koloa, HI.

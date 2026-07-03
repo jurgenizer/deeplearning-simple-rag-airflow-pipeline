@@ -1,0 +1,16 @@
+# Social Comparison Theory
+
+## Concise description of theory
+As per social comparison theory, an individual determines his/her social and personal worth by constantly comparing with others. According to Festinger, comparison with others who are more similar gives more accurate appraisals of one’s capabilities and beliefs.
+
+This comparison will result in either assimilation or contrast. An assimilation happens when the conclusion is made that one’s characteristics are similar to the other. When the conclusion of comparison is that one’s characteristics do not match with the other, there is a contrast position. Comparisons can be of two types: upward and downward comparisons. The upward comparison is when a person compares with a person who is better than himself/herself. On the other hand, the downward comparison is when a person compares with a person who is worse than himself/herself.
+
+Upward comparisons with a person slightly better than oneself are associated with self-improvement motivations. On the contrary, downward comparisons with a person slightly worse than oneself are associated with self-enhancement (self-esteem). As per Buunk and Gibbons (2007), autonomy in a situation increases the probability of assimilating with an upward reference point (self-improvement) while lack of autonomy increases the probability of downward comparison (avoiding failure).
+
+## Originating author(s)
+Leon Festinger
+
+## Seminal articles
+Festinger, L. (1954). A theory of social comparison processes. Human relations, 7(2), 117-140.
+
+Goethals, G. R. (1986). Social comparison theory: Psychology from the lost and found. Personality and Social Psychology Bulletin, 12(3), 261-278.

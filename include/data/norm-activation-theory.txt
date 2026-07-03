@@ -1,0 +1,20 @@
+# Norm Activation Theory
+
+## Concise description of theory
+Norm Activation Theory (NAT) is a psychological framework that aims to understand the factors influencing individuals' intentions and behaviors toward pro-environmental actions. It was initially proposed by Schwartz in 1977 [1] and has since been widely used in the study of pro-social [2] and pro-environmental behaviors [3].
+
+At the core of NAT is the concept of "norm activation", which refers to the process through which individuals develop personal norms. Personal norms are individuals' self-expectations or feelings of moral obligation to engage in pro-social behaviors. These norms are constructed based on situational factors and personality traits [1,4].
+
+The situational factors, also known as "situational activators," include awareness of need, situational responsibility, efficacy, and ability. Awareness of need involves individuals being aware of the negative consequences on others if they do not engage in pro-social behaviors. Situational responsibility refers to individuals feeling responsible for the negative consequences if they fail to act pro-socially. Efficacy refers to individuals' belief in their ability to perform pro-social behavior, while ability refers to their actual capability to do so.
+
+On the other hand, the personality trait activators include awareness of consequences and denial of responsibility. Awareness of consequences is individuals' general awareness of the negative outcomes of not acting pro-socially, while denial of responsibility is the tendency to deny personal responsibility for any negative consequences [5,6].
+
+NAT has been applied to study various pro-environmental behaviors, such as recycling, energy conservation, and sustainable transportation choices [7]. Research using NAT has shown that personal norms play a significant role in predicting individuals' intentions and behaviors related to pro-environmental actions.
+
+.
+
+## Originating author(s)
+Shalom H. Schwartz in 1977 [1]
+
+## Seminal articles
+N/A

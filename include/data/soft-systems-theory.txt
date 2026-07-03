@@ -1,0 +1,22 @@
+# Soft systems theory
+
+## Concise description of theory
+Problems can be categorized as either ‘hard’ or ‘soft’, each with unique characteristics requiring distinctly different approaches to resolve. Hard problems are well defined where the “What” and the “How” can be determined early in the research or system design methodology. A definite solution exists and specific objectives may be defined. Hard problems constitute the essence of the systems engineering approach. In contrast, soft problems contain social and political elements that confound problem definition and resolution (also referred to as ‘wicked’ problems). The question of “How to improve national health care in the U.S.” represents a soft problem.
+
+To address soft problems, Peter Checkland developed an iterative approach known as the Soft Systems Methodology (SSM) that consists of seven distinct stages:
+
+Define and understand the problem situation (i.e. nature of the process, key stakeholders, etc.).
+Express the problem situation through Rich Pictures.
+Select how to view the situation from various perspectives and produce root definitions.
+Build conceptual models of the system requirements to adequately address each of the root definitions.
+Compare the conceptual models (step 4) to the real world expression (step 2).
+Identify feasible and desirable changes to improve the situation.
+Develop recommendations for taking action to improve the problem situation (implementing step 6).
+
+The intention of SSM is to provide a framework for addressing ill-structured and poorly defined problem situations that contain significant social effects. The researcher/ developer must investigate solutions that possess aspects other than merely technical functionality.
+
+## Originating author(s)
+Peter Checkland
+
+## Seminal articles
+Checkland, P. Systems Thinking, Systems Practice, John Wiley & Sons, London, 1981.

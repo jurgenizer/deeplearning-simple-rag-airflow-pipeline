@@ -1,0 +1,15 @@
+# Social Bond Theory
+
+## Concise description of theory
+SBT is basically a theory from criminology literature proposed by Hirschi in 1969. SBT describes the social ties an individual has with his group. It says that though a person is naturally inclined towards crime, people with stronger social ties are less interested to indulge in any antisocial or deviant behavior.  Four different types of social bonds were defined by Hirschi that ensure socialization i.e. attachment, commitment, involvement and personal norms.
+Attachment refers to a person’s interest in his/ her social surroundings.
+Commitment refers to a person’s  subjective notion and commitment towards socially accepted goals.
+Involvement deals with individual’s dealing with conventional activities like family, work, social gatherings.
+Finally individual with strong personal norms and value systems are less likely to engage in any deviant behavior.
+In IS literature this theory is mostly used to IS Security literature to understand employee's deviant behavior.
+
+## Originating author(s)
+Travis Warner Hirschi(1969)
+
+## Seminal articles
+N/A

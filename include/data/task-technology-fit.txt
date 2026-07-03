@@ -1,0 +1,20 @@
+# Task-technology fit
+
+## Concise description of theory
+Task-technology fit (TTF) theory holds that IT is more likely to have a positive impact on individual performance and be used if the capabilities of the IT match the tasks that the user must perform (Goodhue and Thompson, 1995). Goodhue and Thompson (1995) developed a measure of task-technology fit that consists of 8 factors: quality, locatability, authorization, compatibility, ease of use/training, production timeliness, systems reliability, and relationship with users. Each factor is measured using between two and ten questions with responses on a seven point scale ranging from strongly disagree to strongly agree.
+
+Goodhue and Thompson (1995) found the TTF measure, in conjunction with utilization, to be a significant predictor of user reports of improved job performance and effectiveness that was attributable to their use of the system under investigation.
+
+Although the Goodhue and Thompson (1995) model operates at the individual level of analysis, Zigurs and Buckland (1998) present an analogous model operating at the group level. Since the initial work, TTF has been applied in the context of a diverse range of information systems including electronic commerce systems and combined with or used as an extension of other models related to IS outcomes such as the technology acceptance model (TAM). The TTF measure presented by Goodhue and Thompson (1995) has undergone numerous modifications to suit the purposes of the particular study.
+
+## Originating author(s)
+Goodhue (1995), Goodhue and Thompson (1995) - Individual level
+
+Zigurs and Buckland (1998) -- group level
+
+## Seminal articles
+Goodhue,Dale L., “Understanding user evaluations of information systems”, Management Science, 1995, 41, 12, 1827-1844.
+
+Goodhue,Dale L.;Thompson,Ronald L., “Task-technology fit and individual performance”, MIS Quarterly, 1995, 19, 2, 213-236.
+
+Zigurs,Ilze;Buckland,Bonnie K., “A theory of task/technology fit and group support systems effectiveness”, MIS Quarterly, 1998, 22, 3, 313-334.

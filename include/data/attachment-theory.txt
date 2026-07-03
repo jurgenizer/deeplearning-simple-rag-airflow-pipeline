@@ -1,0 +1,10 @@
+# Attachment-Theory
+
+## Concise description of theory
+Attachment theory posits that the quality of attachment between the parent and the child can influence the child’s behaviour. The quality of the parent–child attachment is characterized by three broad dimensions: (1) degree of parental understanding and mutual trust; (2) extent and quality of communication with parents; and (3) extent of anger and alienation from parents. In IS , this theory has been used in the context of studying internet addiction in children
+
+## Originating author(s)
+J Bowlby, Mary Ainsworth
+
+## Seminal articles
+N/A

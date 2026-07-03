@@ -1,0 +1,44 @@
+# Boundary object theory
+
+## Concise description of theory
+A boundary object is a concept in sociology to describe information used in different ways by different communities. They are plastic, interpreted differently across communities but with enough immutable content to maintain integrity. The ideas was introduced by Susan Leigh Star and James R. Griesemer in a 1989 publication:[1]
+
+“ Boundary objects are objects which are both plastic enough to adapt to local needs and constraints of the several parties employing them, yet robust enough to maintain a common identity across sites. They are weakly structured in common use, and become strongly structured in individual-site use. They may be abstract or concrete. They have different meanings in different social worlds but their structure is common enough to more than one world to make them recognizable means of translation. The creation and management of boundary objects is key in developing and maintaining coherence across intersecting social worlds."
+
+Within this publication, they illustrate the meaning and the aspects of boundary objects through their work with the California based Museum of Vertebrate Zoology in Berkeley. They explain the curation process of the museum, which involved also different actors- and how the resulting objects displayed in the museum are boundary objects: No matter if one was a research scientist, professor or amateur collector, they all considered it important to show - to name one example - the species of mammals and birds living in Californian nature. These elements were of interest to scientists, amateur collectors, non-scientists and the general public - despite their different backgrounds and interpretations of it. Boundary objects theory does not state that the perception of these objects is standardized or the same. It aims to highlight the meaning of standardized interfaces to convey information, despite its varying interpretation.
+
+## Originating author(s)
+Susan Leigh Star and James R. Griesemer
+
+## Seminal articles
+Boland, R.J., and Tenkasi, R.V. 1995. "Perspective Making and Perspective Taking in Communities of
+Knowing," Organization Science (6:4), pp. 350-372.
+
+Bowker, G. C.; & Star, S. L. (1999). Sorting things out: classification and its consequences. Cambridge, MA: MIT Press.
+
+Carlile, P.R. 2002. "A Pragmatic View of Knowledge and Boundaries: Boundary Objects in New Product Development,"
+Organization Science (13:4), pp. 442-455.
+
+Carlile, P.R. 2004. "Transferring, Translating, and Transforming: An Integrative Framework for Managing Knowledge
+Across Boundaries," Organization Science (15:5), pp. 555-568.
+
+Dodgson, M., Gann, D.M., and Salter, A. 2007. "“In Case of Fire, Please Use the Elevator”: Simulation Technology and
+Organization in Fire Engineering," Organization Science (18:5), pp. 849-864.
+
+Eaton, B. et al. (2015) ‘Distributed Tuning of Boundary Resources: The Case of Apple’s iOS Service System’, MIS Quarterly, 39(1), pp. 217–243. doi: 10.25300/MISQ/2015/39.1.10.
+
+Ghazawneh, A. and Henfridsson, O. (2013) ‘Balancing platform control and external contribution in third-party development: The boundary resources model’, Information Systems Journal, 23(2), pp.173–192. doi: 10.1111/j.1365-2575.2012.00406.x.
+
+Star, S.L. 2010. "This is Not a Boundary
+Object: Reflections on the Origin of a Concept," Science, Technology,
+& Human Values (35:5), pp. 601-617.
+
+Star SL & Griesemer JR (1989). "Institutional Ecology, 'Translations' and Boundary Objects: Amateurs and Professionals in Berkeley's Museum of Vertebrate Zoology, 1907-39". Social Studies of Science 19 (4): 387–420. doi:10.1177/030631289019003001.
+^ Bowker, G. C.; & Star, S. L. (1999). Sorting things out: classification and its consequences. Cambridge, MA: MIT Press
+
+Wenger, E. 2000. "Communities of Practice
+and Social Learning Systems," Organization (7:2), pp. 225-246.
+
+Yakura, E.K. 2002. "Charting Time:
+Timelines as Temporal Boundary Objects," The Academy of Management Journal
+(45:5), pp. 956-970.

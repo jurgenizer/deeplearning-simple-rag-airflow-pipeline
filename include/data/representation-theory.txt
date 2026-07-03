@@ -1,0 +1,30 @@
+# Representation Theory
+
+## Concise description of theory
+Representation theory is one of the theories based on the idea that information systems produce representations of real-world phenomena. Wand and Weber (1988, 1990, 1993, 1995) developed a theory of information systems as representational artefacts in the late 1980s and early 1990s. They asserted that the fundamental purpose of information systems is to provide representations of individuals or groups’ perceptions of real-world events phenomena and contended that if information systems give faithful (i.e., accurate and full) representations, users will deem them more valuable[2]. Thus, perceiving a need open the “black box” of the information systems artifact, Wand and Weber sought to build “a foundation for a theory of information systems structure and design”[3], culminating in the development of the representation theory, which aims to model the desirable properties of information systems at a deep level.
+
+RT is a Type-IV theory, according to Gregor (2006)[4], as it ‘explains and predicts’. It explains, for instance, why the existence or absence of particular qualities in information system grammars or scripts improves or hinders a script’s capacity to provide and maintain a true representation. It also predicts whether the existence or absence of specific qualities in grammars or scripts would improve or degrade the representation’s faithfulness. Burton-Jones et al. (2017)[5] also perceive RT as a Type-V theory - one that guides design and action since it advises designers what features a script must have in order for an information system to provide a useful representation.
+
+To understand how user perceptions of meaning could be embodied in an information system, Wand and Weber characterised an information system as comprising of three structures.[6]
+
+Deep structure - consists of those information system characteristics that reflect stakeholder perceptions of the meaning of the focal real-world events (for example, data objects and business rules incorporated in programme code).
+Surface structure comprises those characteristics of the information system that allow users to interact with the deep structure (such as the query interface and report generator).
+Physical structure consists of those aspects of the information system that implement the other two structures (for example, servers, personal computers, and networks).
+
+The deep structure of an information system is the primary emphasis of RT. The other two structures are thought to be means for users to interact with the deep structure. The primary concern of RT is hence the extent to which an information system’s deep structure delivers and sustains a faithful representation of the focal real-world occurrences. If the information system is to stay useful while the phenomena change (i.e., events occur), it must maintain an up-to-date, faithful representation.
+
+In order to understand how the deep structure of an information system may provide and maintain a faithful representation of the focused real-world phenomena and convey meaning about them, Wand and Weber proposed three models, which each focus on distinct but related aspects of the information system’s deep structure. These are the representation model (RM), state-tracking model (STM) and the good decomposition model (GDM).
+
+## Originating author(s)
+Y. Wand and R. Weber
+
+## Seminal articles
+Wand, Y., and Weber, R. 1990. “An Ontological Model of an Information System,” IEEE Transactions on Software Engineering (16:11), pp. 1282-1292.
+
+Wand, Y., and Weber, R. 1993. “On the Ontological Expressiveness of Information Systems Analysis and Design Grammars,” Journal of Information Systems (3:4), pp. 217-237.
+
+Wand, Y., and Weber, R. 1995. “On the Deep Structure of Information Systems,” Information Systems Journal (5:3), pp. 203-223.
+
+Wand Y,Weber R (1988) An ontological analysis of some fundamental information systems concepts. DeGross JI, Olson MH, ed. Proc. 9th Internat. Conf. Inform. Systems, Minneapolis, 213–225.
+
+Weber, R. Ontological Foundations of Information Systems, Coopers & Lybrand, Melbourne, Victoria, Australia, 1997.

@@ -1,0 +1,30 @@
+# Complexity theory
+
+## Concise description of theory
+Complexity theory is part of the theory of computation dealing with the resources required during computation to solve a given problem. The most common resources are time (how many steps it takes to solve a problem) and space (how much memory it takes). Other resources can also be considered, such as how many parallel processors are needed to solve a problem in parallel. Complexity theory differs from computability theory, which deals with whether a problem can be solved at all, regardless of the resources required. After the theory explaining which problems can be solved and which cannot be, it was natural to ask about the relative computational difficulty of computable functions. This is the subject matter of computational complexity.
+
+The time complexity of a problem is the number of steps that it takes to solve an instance of the problem as a function of the size of the input (usually measured in bits), using the most efficient algorithm. The exact number of steps will depend on exactly what machine or language is being used.
+
+Much of complexity theory deals with decision problems. A decision problem is a problem where the answer is always YES/NO. Decision problems are often considered because an arbitrary problem can always be reduced to a decision problem.
+
+The complexity class P is the set of decision problems that can be solved by a deterministic machine in polynomial time. This class corresponds to an intuitive idea of the problems which can be effectively solved in the worst cases.
+
+The complexity class NP is the set of decision problems that can be solved by a non-deterministic machine in polynomial time. This class contains many problems that people would like to be able to solve effectively, including the Boolean satisfiability problem, the Hamiltonian path problem and the Vertex cover problem. All the problems in this class have the property that their solutions can be checked effectively.
+
+An important result in complexity theory is the fact that no matter how hard a problem can get (i.e. how much time and space resources it requires); there will always be even harder problems. At least for time complexity, and for polynomial-time decision problems, this is determined by the time hierarchy theorem. A similar space hierarchy theorem can also be derived.
+
+Sources:
+http://en.wikipedia.org/wiki/Computational_complexity_theory,
+http://www.absoluteastronomy.com/encyclopedia/c/co/computational_complexity_theory.htm
+
+## Originating author(s)
+Juris Hartmanis, Richard Stearns
+
+## Seminal articles
+Cook, Stephen A. May 1971. The complexity of theorem proving procedures. Proceedings Third Annual ACM Symposium on Thoery of Computing: 151-158.
+
+Goldreich, Oded, Goldwasser, Shafi, & Micali, Silvio. 1984. How to construct random functions. Journal of the ACM, 33(4): 792-807.
+
+Goldwasser, Shafi, Micali, Silvio, & Rackoff, Charles. February 1989. The knowledge complexity of interactive proof systems. SIAM Journal of Computing, 18(1): 186–208.
+
+Hartmanis, J., & Stearns, R. E. 1965. On the computational complexity of algorithms. Transactions of the American Mathematical Society, 117: 285-306.

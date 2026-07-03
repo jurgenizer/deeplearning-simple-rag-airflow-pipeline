@@ -1,0 +1,24 @@
+# Theory of reasoned action
+
+## Concise description of theory
+TRA posits that individual behavior is driven by behavioral intentions where behavioural intentions are a function of an individual's attitude toward the behaviour and subjective norms surrounding the performance of the behavior. Attitude toward the behavior is defined as the individual's positive or negative feelings about performing a behaviour. It is determined through an assessment of one's beliefs regarding the consequences arising from a behavior and an evaluation of the desirability of these consequences. Formally, overall attitude can be assessed as the sum of the individual consequence x desirability assessments for all expected consequences of the behavior. Subjective norm is defined as an individual's perception of whether people important to the individual think the behavior should be performed. The contribution of the opinion of any given referent is weighted by the motivation that an individual has to comply with the wishes of that referent. Hence, overall subjective norm can be expressed as the sum of the individual perception x motivation assessments for all relevant referents. Algebraically TRA can be represented as B ≈ BI = w1AB + w2SN where B is behavior, BI is behavioral intention, AB is attitude toward behavior, SN is subjective norm, and w1 and w2 are weights representing the importance of each term.
+
+The model has some limitations including a significant risk of confounding between attitudes and norms since attitudes can often be reframed as norms and vice versa. A second limitation is the assumption that when someone forms an intention to act, they will be free to act without limitation. In practice, constraints such as limited ability, time, environmental or organisational limits, and unconscious habits will limit the freedom to act. The theory of planned behavior (TPB) attempts to resolve this limitation.
+
+While this theory has not yet been empirically proven to be explainable by Semantic theory of survey response, one theory built on TRA has been shown to be almost entirely semantically explainable.
+
+Sources:
+
+http://en.wikipedia.org/wiki/Technology_acceptance_model
+
+Eagly, A. H., & Chaiken, S. (1993). The psychology of attitudes. Fort Worth: Harcourt Brace Jovanovich College Publishers.
+
+## Originating author(s)
+Fishbein (1967); Ajzen and Fishbein (1973); Fishbein and Ajzen (1975)
+
+## Seminal articles
+Ajzen, I., & Fishbein, M. (1973). Attitudinal and normative variables as predictors of specific behavior. Journal of Personality and Social Psychology, 27(1), 41-57.
+
+Fishbein, M. (1967). Attitude and the prediction of behavior. In M. Fishbein (Ed.), Readings in attitude theory and measurement (pp. 477-492). New York: Wiley.
+
+Fishbein, M., & Ajzen, I. (1975). Belief, attitude, intention, and behavior : An introduction to theory and research. Reading, Mass. ; Don Mills, Ontario: Addison-Wesley Pub. Co.

@@ -1,0 +1,20 @@
+# Community Of Practice Theory
+
+## Concise description of theory
+According to the community of practice theory, members of a community interact with each other to share ideas and thoughts and expand their knowledge while doing so. The communities are like a closely-knit organisation whose members maintain interpersonal relations via interactions, negotiations, coordination, and communication in face-to-face settings[1].
+
+The community of practice theory functions on the assumption that knowledge sharing between the community members is in the direction from experienced members to novice members[2]. Knowledge is intangible. Sharing it, using it or spreading it in the community does not decrease its value. Therefore, knowledge is considered a public good. Whenever knowledge is shared as a public good, there is motivation to spread it within the community due to moral obligation and reciprocity.
+
+## Originating author(s)
+Jean Lave and Etienne Wenger (1991)
+
+## Seminal articles
+Knowledge and Organization: A Social-Practice Perspective (2001) Organization Science, 12 (2), pp. 198-213. Cited 2106 times. DOI: 10.1287/orsc.12.2.198.10116
+Wenger, E. Communities of Practice and Social Learning Systems (2000) Organization, 7 (2), pp. 225-246. Cited 2099 times. DOI: 10.1177/135050840072002
+McLure Wasko, M., Faraj, S. "It is what one does": Why people participate and help others in electronic communities of practice (2000) Journal of Strategic Information Systems, 9 (2-3), pp. 155-173. Cited 1404. DOI: 10.1016/S0963-8687(00)00045-7
+Ardichvili, A., Page, V., Wentling, T. Motivation and barriers to participation in virtual knowledge-sharing communities of practice (2003) Journal of Knowledge Management, 7 (1), pp. 64-77. Cited 1046 times. DOI: 10.1108/13673270310463626
+Reed, M.S., Evely, A.C., Cundill, G., Fazey, I., Glass, J., Laing, A., Newig, J., Parrish, B., Prell, C., Raymond, C., Stringer, L.C. What is social learning? (2010) Ecology and Society, 15 (4), . Cited 840 times. DOI: 10.5751/ES-03564-1504r01
+Markus, M.L. Toward a theory of knowledge reuse: Types of knowledge reuse situations and factors in reuse success (2001) Journal of Management Information Systems, 18 (1), pp. 57-93. Cited 758 times. DOI: 10.1080/07421222.2001.11045671
+Hunter, A.-B., Laursen, S.L., Seymour, E. Becoming a scientist: The role of undergraduate research in students' cognitive, personal, and professional development (2007) Science Education, 91 (1), pp. 36-74. Cited 718 times. DOI: 10.1002/sce.20173
+Ferlie, E., Fitzgerald, L., Wood, M., Hawkins, C. The nonspread of innovations: The mediating role of professionals (2005) Academy of Management Journal, 48 (1), pp. 117-134. Cited 710 times. DOI: 10.5465/AMJ.2005.15993150
+Pahl-Wostl, C., Craps, M., Dewulf, A., Mostert, E., Tabara, D., Taillieu, T. Social learning and water resources management (2007) Ecology and Society, 12 (2), art. no. 5, . Cited 706 times. DOI: 10.5751/ES-02037-120205

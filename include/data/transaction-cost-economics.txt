@@ -1,0 +1,34 @@
+# Transaction cost economics
+
+## Concise description of theory
+In economics and related disciplines, a transaction cost is a cost incurred in making an economic exchange. A number of different kinds of transaction costs exist. Search and information costs are costs such as those incurred in determining that the required good is available on the market, who has the lowest price, etc. Bargaining costs are the costs required to come to an acceptable agreement with the other party to the transaction, drawing up an appropriate contract, etc.. Policing and enforcement costs are the costs of making sure the other party sticks to the terms of the contract, and taking appropriate action (often through the legal system) if this turns out not to be the case.
+
+Transaction costs consist of costs incurred in searching for the best supplier/partner/customer, the cost of establishing a supposedly "tamper-proof" contract, and the costs of monitoring and enforcing the implementation of the contract. Transaction cost theorists assert that the total cost incurred by a firm can be grouped largely into two components—transaction costs and production costs. Transaction costs, often known as coordination costs, are well defined as the costs of "all the information processing necessary to coordinate the work of people and machines that perform the primary processes," whereas production costs include the costs incurred from "the physical or other primary processes necessary to create and distribute the goods or services being produced"
+
+Transaction cost economics suggests that the costs and difficulties associated with market transactions sometimes favor hierarchies (or in-house production) and sometimes markets as an economic governance structure. An intermediate mechanism, called hybrid or relational, between these two extremes has recently emerged as a new governance structure .
+
+Sources:
+
+http://en.wikipedia.org/wiki/Transaction_cost
+
+Kumar, Kuldeep, Van Dissel, Han G., Bielli, Paola, "The Merchant of Prato--Revisited: Toward a Third Rationality of Information Systems", MIS Quarterly, Jun98, Vol. 22, Issue 2.
+
+Malone, T.W.; Yates, J.; and Benjamin, R.I., "Electronic markets and electronic hierarchies:, Communications of the ACM, 30, 6 (1987),p. 485.
+
+## Originating author(s)
+Ronald Coase (1937, 1960), Oliver Williamson  (1981, 1985), Klein, Crawford, Alchian (1978)
+
+## Seminal articles
+Coase, Ronald H. 1937. The nature of the firm. Economica, 4: 386.
+
+Coase, Ronald H. 1960. The problem of social cost. Journal of Law and Economics, 3: 1-44.
+
+Klein, Crawford, RA Alchian, AA. 1978. Vertical integration, appropriable rents, and the competitive contracting process.
+
+Oliver, W. 1975. Markets and hierarchies: Analysis and antitrust implications. New York, NY: Free Press.
+
+Williamson, Oliver E. 1979. Transaction-cost economics: The governance of contractual relations. Journal of Law and Economics, 22(2): 233-261.
+
+Williamson, Oliver E. 1981. The economics of organization: The transaction cost approach. The American journal of sociology, 87(2): 233.
+
+Williamson, O.E. 1985. The economic institutions of capitalism : Firms, markets, relational contracting. New York, NY: Free Press.

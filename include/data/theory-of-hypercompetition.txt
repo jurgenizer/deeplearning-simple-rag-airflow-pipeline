@@ -1,0 +1,14 @@
+# Theory of Hypercompetition
+
+## Concise description of theory
+The extreme competitive nature in business environments entails that no action or advantage is guaranteed for prolonged sustainability. The term hypercompetition, coined by Richard D’Aveni (D’ Aveni, 1994) , is a reflection of this behaviour observed in the global economy of today’s times. The period of hypercompetition is marked by a smart competitive arena wherein adaptability and flexibility drive two of the major success factors for business strategies. This is particularly true due to the advent of newer technologies which to some extent have reduced entry barriers and increased number of market players. D’Aveni states that dynamic strategic arenas unfold in areas such as cost, quality and deep pockets ( Keegan and Green, 2011). With respect to technology and Information Systems, the hypercompetitive market demands for IT enterprise agility as one of the key drivers to ensure market capturing (Tan et al., 2009). IT Organizations need to focus on innovation and disruption to ensure a steady hold in the market, consequently developing dynamic capabilities. Specifically, firms need to maintain a competitive edge by also focusing on their temporary competitive advantages. By leveraging IT capabilities , firms need to focus more and more on their enterprise agility and develop ways to leverage their IT deployment capability for enterprise agility over time (Tan et al, 2010). Hypercompetitive environments push firms to indulge in rapid and effective innovations. Also, it facilitates organizations to disrupt the competitive equilibrium and improve organizational ability.
+
+## Originating author(s)
+D’Aveni
+
+## Seminal articles
+D'Aveni, R.A. (1994). “ Hypercompetition: Managing the Dynamics of Strategic Maneuvering,” Free Press, New York, NY.
+
+Wiggins, RR ,Ruefli, TW (2005), “Schumpeter's ghost: Is hypercompetition making the best of times shorter?,” Strategic Management Journal Volume26 Issue10 Page887-911 DOI10.1002/smj.492 Published OCT 2005 Indexed2005-10-01
+
+Sirmon, DG ,Hitt, MA , Arregle, JL , Campbell, JT ( 2010), “The Dynamic Interplay Of Capability Strengths And Weaknesses: Investigating The Bases Of Temporary Competitive Advantage,” Strategic Management Journa,l Volume31 Issue13 Page1386-1409 Special IssueSI DOI10.1002/smj.893 Published DEC 2010

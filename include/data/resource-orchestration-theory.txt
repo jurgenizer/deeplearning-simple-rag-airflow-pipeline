@@ -1,0 +1,20 @@
+# Resource Orchestration Theory
+
+## Concise description of theory
+The Theory of Resource Orchestration emerges as an extension of the Resource-Based View (RBV), explicitly addressing three key limitations of RBV: its static portrayal of resources, neglect of environmental dynamism, and minimal consideration of managerial agency. The theory unfolds through three interrelated managerial action stages: structuring, bundling, and leveraging, which together explain how resource endowments become value‐creating capabilities in dynamic contexts.
+
+The theoretical foundations of this theory are that the RBV posits that a firm’s idiosyncratic resource stocks (tangible and intangible) underpin sustained competitive advantage when they are valuable, rare, inimitable, and non‐substitutable. However, RBV does not specify the micro-level processes by which managers shape, combine, and deploy those stocks, nor does it account for changing environmental conditions. Resource Orchestration Theory fills this “black box” by introducing the managerial actions necessary to activate and reconfigure resources over time.
+
+The Core constructs of the theory are: Structuring, Bundling, Leveraging
+
+Together, these three action dimensions constitute the independent constructs of Resource Orchestration and serve as the mechanisms by which resource endowments are transformed into competitive capabilities.
+
+Implications for Researchers of this theory are that it uncovers contingencies that moderate each action stage and develops metrics for managerial orchestration capability. For practitioners, it provides a structured roadmap: diagnose resource gaps (structuring), craft integrative processes (bundling), and capitalize on capabilities through strategic deployment (leveraging) to sustain dynamic competitiveness.
+
+## Originating author(s)
+David G. Sirmon, Michael A. Hitt,  R. Duane Ireland
+
+## Seminal articles
+Sirmon, D. G., Hitt, M. A., & Ireland, R. D. “Managing Firm Resources in Dynamic Environments to Create Value: Looking Inside the Black Box.” Academy of Management Review, 32(1), 273–292
+
+Sirmon, D. G., Hitt, M. A., Ireland, R. D., & Gilbert, B. A. “Resource Orchestration to Create Competitive Advantage: Breadth, Depth, and Life Cycle Effects.” Journal of Management, 37(5), 1394–1417

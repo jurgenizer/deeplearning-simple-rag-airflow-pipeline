@@ -1,0 +1,24 @@
+# Social capital theory
+
+## Concise description of theory
+The concept of social capital (though not labeled as such) existed ever since small communities formed and humans interacted with the expectation of reciprocation and trust (e.g. refer to Platteau, 1994; Platteau and Moore, 1994; Woolcock, 1998 for overview of past usage of the concept); however, the term in its present form and associated meanings was popularized amongst others by Bourdieu (1983; 1985; 1989), Coleman (1986a; 1986b; 1988a; 1988b; 1990), Granovetter (1983; 1985; 1973) and Putnam (1993; 1995a; 1995b; 2000; 2001; 2004; 1999).
+
+Even though most of the research on social capital focuses on the benefits of social capital, these authors differ in the treatment of the concept. While Putnam’s focus is on the benefit accruing to the community, Coleman and Bourdieu provide conceptualization at individual level. They believe that social capital exists between individuals and can be studied at the individual level. Social capital resides in the relations among the nodes and ‘just as physical and human capital facilitate productive activity, social capital does as well’ (Coleman, 1988b, p 101; White, 2002). It exists between individuals and by extension can be accumulated by the individuals. Such a view of social capital rests on the premise that ‘my connections can help me’ (Cross and Cummings, 2004; White, 2002, p 260), it is all about establishing relationships purposefully and employing them to generate intangible and tangible benefits in short or long terms. The benefits could be social, psychological, emotional and economical (Lin, 1986, 1999a, 2000).
+
+There are many possible representations of social capital. Broadly social capital can be seen in terms of five dimensions: first, networks-lateral associations that vary in density and size, and occur among both individuals and groups; second, reciprocity-expectation that in short or long term kindness and services will be returned; third, trust-willingness to take initiatives (or risk) in a social context based on assumption that others will respond as expected; fourth, social norms-the unwritten shared values that direct behavior and interaction; and fifth, personal and collective efficacy-the active and willing engagement of citizens within participative community (Bourdieu, 1983; Coleman, 1988a, b; Onyx and Bullen, 2000; Paxton, 2002). These five dimensions manifest themselves in various combinations and shape the interaction amongst the members of a group, organization, community, society or simply network and can be studied through various perspectives.
+
+Social capital is a broad term that encompasses the ‘norms and networks facilitating collective actions for mutual benefits’ (Woolcock, 1998, p 155). This broad definition of the term makes it susceptible to multiple interpretations and usage which span multiple theoretical traditions (Greeley, 1997; Portes, 1998). At one end social capital can be seen as a notion that is based on the premise that social relations have potential to facilitate the accrual of economic or non-economic benefits to the individuals (White, 2002) and on the other end social capital can be seen to reside in the relations and not in the individuals themselves (Coleman, 1988b, p 98). Social capital is context dependent and takes many different interrelated forms, including obligations (within a group), trust, intergenerational closure, norms, and sanctions with underlying assumption that the relationships between individuals are durable and subjectively felt (Bourdieu, 1983, p 249). The relationships themselves form the complex web of interactions and communications (Fukuyama, 1995; Fukuyama, 1999; Lin, 1999b; Putnam, 1993; White, 2002). An example of social capital could be the voluntary participation of the members over the lunch break to discuss various social/organizational aspects which benefits all the participants.
+
+## Originating author(s)
+Pierre Bourdieu, James Coleman, Mark Granovetter and Robert Putnam
+
+## Seminal articles
+Coleman, J.S. "Social Capital in the Creation of Human Capital," American Journal of Sociology (94:Supplement: Organizations and Institutions: Sociological and Economic Approaches to the Analysis of Social Structure) 1988b, pp S95-S120.
+
+Granovetter, M.S. "The Strength of Weak Ties," American Journal of Sociology (78:6), May 1973, pp 1360-1380.
+
+Nahapiet, J., and Ghoshal, S. "Social capital, intellectual capital, and the organizational advantage," Academy of Management. The Academy of Management Review (23:2) 1998, p 242.
+
+Portes, A. "Social Capital: Its Origins and Applications in Modern Sociology," Annual Review of Sociology (24) 1998, pp 1-24.
+
+Putnam, R.D. "The prosperous community: Social capital and economic growth," Current:356) 1993, p 4.

@@ -1,0 +1,32 @@
+# Organizational knowledge creation
+
+## Concise description of theory
+Nonaka’s (1994) dynamic theory of organizational knowledge creation holds that organizational knowledge is created through a continuous dialogue between tacit and explicit knowledge via four patterns of interactions, socialization, combination, internalization and externalization. Explicit knowledge is codified knowledge transmittable in formal, systematic language whereas tacit knowledge is personalized knowledge that is hard to formalize and communicate and deeply rooted in action, commitment and involvement in context (Polanyi 1962).
+
+Socialization represents the interaction between individuals through mechanisms such as observation, imitation or apprenticeships. Combination involves combining explicit knowledge through meeting and conversation or using information systems. Internalization converts explicit knowledge into tacit knowledge whereas externalization converts tacit knowledge into explicit knowledge.
+
+Organizational knowledge creation takes place when all four modes of knowledge conversion form a continual cycle triggered by such actions as team interactions, dialogue, metaphors, coordination, documentation, experimentation, and learning by doing, etc. Organizational knowledge creation can be viewed as an upward spiral process from the individual level to the collective group level, and then to the organizational level, sometimes to the interorganizational level.
+
+Consistent with Nonaka’s dynamic theory of knowledge creation, Cook and Brown (1999) bridge the epistemology of possession with that of practice and suggest that organizational knowledge is created through the generic dancing between knowledge and knowing.
+
+Explicit, tacit, individual and group knowledge are distinct forms of knowledge, each doing work the others cannot. While mere explicit knowledge is insufficient, without explicit knowledge, tacit knowledge conversion becomes a closed loop. While individuals possess part of what is known about a given domain, a body of knowledge is possessed by the organization and is drawn on in its actions, just as knowledge possessed by an individual is drawn on in his or her actions.
+
+Knowing is the epistemic work done as part of action or practice, and is the interaction with the social and physical world, using knowledge as a tool. Knowing is dynamic, concrete and relational. The interplay of knowledge and knowledge can generate new knowledge and new ways of knowing in organizations.
+
+Focusing on the knowedgeability of action connoting action, doing and practice, rather than knowledge connoting things, elements, facts, processes and dispositions, Orlikowski (2002) suggests that organizational knowing is constituted and reconstituted in practice. People engage in organizational practices, reproduce the knowing generated in those practices and reconstitute knowledgeability over time and across contexts.
+
+This view of knowing in practice suggests a mutual constitution of knowing and practice that is depicted by the metaphor of drawing hands, each drawing the other while being drawn, indicating that knowing is an ongoing social accomplishment that is constituted and reconstituted in everyday practice.
+
+## Originating author(s)
+Ikujiro Nonaka, Michael Polanyi
+
+## Seminal articles
+Polanyi M. Tacit Knowing – "Its bearing on some problems of philosophy" Reviews of Modern Physics (34:4) 1962, pp 601-616.
+
+Anderson, J. R. The Architecture of Cognition, 1983, Cambridge, MA” Harvard University Press.
+
+Nonaka, I. "A Dynamic Theory of Organizational Knowledge Creation," Organization Science (5:1), Feb 1994, pp 14-37.
+
+Nonaka, I., Umemoto, K., and Senoo, D. "From information processing to knowledge creation: A paradigm shift in business management," Technology in Society (18:2) 1996, pp 203-218.
+
+Cook, S.D.N. & Brown, J. S. Bridging Epistemologies: The Generative Dance between Organizational Knowledge and Organizational Knowing. Organization Science, (10:4) 1999, pp. 381-400.

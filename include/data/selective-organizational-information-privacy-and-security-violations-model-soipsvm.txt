@@ -1,0 +1,15 @@
+# Selective organizational information privacy and security violations model (SOIPSVM)
+
+## Concise description of theory
+The selective organizational information privacy and security violations model (SOIPSVM), explains how organizational structures and processes, along with characteristics of regulatory rules, alter perceptions of risk when an organization’s performance does not match its aspiration levels and, thereby, affects the likelihood of rule violations. Importantly, SOIPSVM is contextualized for the domain of organizational privacy and security violations. SOIPSVM builds on and extends the selective organizational rule violations model (SORVM), which posits that organizational rule violations are selective.
+SOIPSVM provides at least four contributions to the privacy and security literature that can further guide empirical research and practice. First, SOIPSVM introduces the concept of selectivity in rule violations to privacy and security research. This concept can improve privacy and security research by showing that organizational violations of privacy and security rules are dynamic and selective yet influenced by external forces.
+Second, SOIPSVM extends the boundaries of SORVM, which is limited to explaining the behavior of organizations under strain, such as economic hardship. SOIPSVM contributes to the theory of selective deviance by proposing that selectivity extends to organizations with slack resources.
+Third, SOIPSVM addresses ideas of non-economic risk and strain in addition to economic risk and strain. Thus, SOIPSVM explains organizational rule-violating behavior as an attempt to protect core organizational values from external entities that pressure organizations to change their values to comply with rules.
+Fourth, SOIPSVM broadens the theoretical scope of two important constructs (namely, structural secrecy and procedural emphasis) to improve the model’s explanatory power.
+Fifth, SOIPSVM identifies important elements of rule enforcement by drawing from the tenets of general deterrence theory.
+
+## Originating author(s)
+Jeffrey D. Wall, Paul Benjamin Lowry, and Jordan B. Barlow
+
+## Seminal articles
+Jeffrey D. Wall, Paul Benjamin Lowry, and Jordan Barlow (2016). “Organizational violations of externally governed privacy and security rules: Explaining and predicting selective violations under conditions of strain and excess,” Journal of the Association for Information Systems (JAIS), vol. 17(1), pp. 39-76 (http://aisel.aisnet.org/jais/vol17/iss1/).

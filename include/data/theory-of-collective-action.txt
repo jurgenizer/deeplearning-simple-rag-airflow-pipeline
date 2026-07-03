@@ -1,0 +1,14 @@
+# Theory of collective action
+
+## Concise description of theory
+The economic theory of collective action is concerned with the provision of public goods (and other collective consumption) through the collaboration of two or more individuals, and the impact of externalities on group behavior. It is more commonly referred to as Public Choice. Mancur Olson's 1965 book The Logic of Collective Action: Public Goods and the Theory of Groups, is an important early analysis of the problems of public good cost.
+
+Source: http://en.wikipedia.org/wiki/Collective_action
+
+## Originating author(s)
+Mancur Olson
+
+## Seminal articles
+Hardin, Russell (1982). Collective Action. Johns Hopkins University Press. Baltimore.
+
+Olson, Mancur (1965). The Logic of Collective Action. Harvard University Press

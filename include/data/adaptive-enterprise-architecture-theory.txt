@@ -1,0 +1,64 @@
+# Adaptive enterprise architecture theory
+
+## Concise description of theory
+Adaptive enterprise architecture theory, sometimes abbreviated to AEA, involves adapting, defining, operating, managing and supporting (ADOMS)  enterprise architecture design (Gill 2015). The focus of design is on the  design of adaptive enterprise as an "adaptive enterprise service system" operating in the networked and connected ecosystem (system of systems).
+
+Focus:
+
+The AEA theory focuses on the data-driven capability to "continuously scan and sense the internal and external environment for data about known and unknown events (complex event processing), changes or disruptions, interpret and analyse the collected data, and decide and respond based on intuition and rationale to expected and unexpected changes (threats and or opportunities) for adaptations".
+
+Approach:
+
+The AEA theory includes the ADOMS approach, which is organized into two layers: outer layer and inner layer. The outer layer presents the adapting capability and the inner layer presents the defining, operating, managing, and supporting capabilities. The integrated inner and outer capabilities collectively define the “ADOMS” approach for the adaptive enterprise architecture. The outer layer identifies and feeds the adaptation changes (threat and opportunities) to inner layer. The inner layer handles the changes through the integrated engagement and governance.
+
+Outer layer: The adapting capability involves context awareness, enterprise architecture assessment, rationalisation, realisation, and unrealisation of changes for adaptation.  The adapting capability includes: scan and sense, interpret and analyse, decide and respond to internal and external changes (data-driven adaptability). The adapting capability in the outer layer initially identifies the change requirements (initiatives or ideas) that may initiate 1 or many projects. These project(s) initiatives or ideas can be further defined and handled through the inner layer via integrated engagement and governance. Deferred or low priority changes are pushed to unrealisation, which can be pulled again and reprioritized for realisation, if required.
+
+Inner layer: This includes defining, operating, managing and supporting the integrated adaptive enterprise architecture capability for handling the change for adaptation via identified projects from the outer layer.
+
+## Originating author(s)
+Asif Qumer Gill
+
+## Seminal articles
+Haeckel, S.H., (1999). Adaptive enterprise: Creating and leading sense-and-respond organizations. Harvard business press.
+
+Qumer, A. and Henderson-Sellers, B. (2006). Measuring agility and adaptibility of agile methods: A 4 dimensional analytical tool. In The IADIS international conference on applied computing 2006. IADIS Press.
+
+Wilkinson, M. (2006). Designing an ‘Adaptive’ Enterprise Architecture. BT Technology Journal, 24(4), 81–92.
+
+Qumer, A. and Henderson-Sellers, B. (2008). An evaluation of the degree of agility in six agile methods and its applicability for method engineering. Information and software technology, 50(4), pp.280-295.
+
+Yu E., Deng S., Sasmal D. (2012).Enterprise Architecture for the Adaptive Enterprise – A Vision Paper. In: Aier S., Ekstedt M., Matthes F., Proper E., Sanz J.L. (eds) Trends in Enterprise Architecture Research and Practice-Driven Research on Enterprise Transformation. PRET 2012, TEAR 2012. Springer, Berlin, Heidelberg.
+
+Gill, A.Q. (2013). Towards the Development of an Adaptive Enterprise Service System Model. Proceedings of the Nineteenth Americas Conference on Information Systems, Chicago, Illinois.
+
+Gill, A.Q. (2013). Defining a Facility Architecture within the Agile Enterprise Architecture Context. Orbus Software, White Paper, WP0107.
+
+Gill, A.Q. (2013). Defining a Social Architecture within the Enterprise Architecture Context. Orbus Software, White Paper, WP0090.
+
+Gill, A.Q. (2014). Applying Agility and Living Service Systems Thinking to Enterprise Architecture. International Journal of Intelligent Information Technologies, 10(1), 1-15.
+
+Gill, A.Q., Alam, S.L., & Eustace, J. (2014). Using Social Architecture to Analyzing Online Social Network Use in Emergency Management. Twentieth Americas Conference on Information Systems, Savannah, USA.
+
+Gill, A.Q., Alam, S.L., & Eustace, J. (2015). Social Architecture: An Emergency Management Case Study. Australasian Journal of Information Systems, 19, 23-40.
+
+Gill, A.Q. (2015). Agile enterprise architecture modelling: Evaluating the applicability and integration of six modelling standards. Information and Software Technology, 67(1), 196-206.
+
+Gill, A.Q. (2015). Social architecture considerations in assessing social media for emergency information management applications. Australian Journal of Emergency Management, 30(1), 17-21.
+
+Gill, A.Q. (2015). Adaptive Enterprise Architecture Driven Agile Development. International Conference on Information Systems Development, Harbin, China.
+
+Alzoubi, Y.I. and Gill, A.Q. (2016). An agile enterprise architecture-driven model for geographically distributed agile development. Transforming Healthcare Through Information Systems, Springer.
+
+Korhonen, J. J., Lapalme, J., McDavid, D., & Gill, A. Q. (2016). Adaptive enterprise architecture for the future: Towards a reconceptualization of EA. IEEE 18th Conference on Business Informatics, Paris, France.
+
+Srinivas, S., Gill, A.Q., & Roach, T. (2020). Analytics Enabled Adaptive Business Architecture Modeling. Complex Systems Informatics and Modeling Quarterly (CSIMQ), 23-43.
+
+Alam, S.L., & Gill, A.Q. (2020). A Social Engagement Framework for the Government Ecosystem: Insights from Australian Government Facebook Pages. Forty-First International Conference on Information Systems. India.
+
+Gill, A.Q., Beydoun, G., Niazi, M. and Khan, H.U. (2020). Adaptive architecture and principles for securing the IoT systems. International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing, Springer.
+
+Alzoubi, Y.I., & Gill, A.Q. (2020). An Empirical Investigation of Geographically Distributed Agile Development: The Agile Enterprise Architecture Is a Communication Enabler. IEEE Access, 80269-80289.
+
+Proper, H. A., Guédria, W. and Sottet, J.S. (2020). Enterprise Modelling in the Digital Age. In V. Kulkarni, S. Reddy, T. Clark, and B. S. Barn, editors, Advanced Digital Architectures for Model-Driven Adaptive Enterprises, IGI Global, Hershey, Pennsylvania, 46-67.
+
+Srinivas, S., Gill, A.Q., & Roach, T. (2021). Can Business Architecture Modeling be Adaptive? IT Professional, 23(2), 81-88.

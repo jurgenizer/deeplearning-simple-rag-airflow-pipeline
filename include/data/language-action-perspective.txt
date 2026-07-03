@@ -1,0 +1,43 @@
+# Language action perspective
+
+## Concise description of theory
+The Language-Action Perspective (LAP) was first introduced by Flores and Ludlow (Flores et al. 1980) who challenged the conventional notion that communication is merely transmission of information or symbols and argued that people are linguistic beings and use language to perform actions (Schoop 2001). LAP argues that language is not only used for exchanging information, (as in reports or statements etc.) but also to perform actions (as in promises, orders, requests, and declarations etc) (Schoop 2001; Weigand 2003).
+
+The LAP formulates a norm-based and interpretive alternative of how language is constituted in social life to analyze its implications for the design of information systems (Umapathy et al. 2007). LAP recognizes the importance of communication in an organizational context, therefore, emphasizes how people communicate with others; how language is used to create a common shared reality and how people use communication to coordinate their activities (Schoop 2001). The LAP approach is, thus, based on the premise that much of work in organizations are performed through language, i.e., communication is primarily action which, in turn, facilitates coordination and interaction (Ljungberg et al. 1997).
+
+The LAP approach has developed into a new foundation for designing effective information systems with two key principles. First, linguistic communication should be the basis for understanding and designing information systems (Winograd 2006). Second, people perform actions through communication; therefore, the main role of an information system is to support organization communication (Schoop 2001). The main theoretical foundations for LAP approach are Searle’s Speech Act Theory (Searle 1969) and Habermas’ Theory of Communicative Action (Habermas 1984). Detailed background on the LAP approach can be found at: (Lyytinen 2004; Schoop 2001; Weigand 2003; Weigand 2005; Weigand 2006)
+
+References:
+
+Flores, F., and Ludlow, J. "Doing and Speaking in the Office," in: Decision Support Systems:Issues and Challenges, G. Fick and R.H. Sprague (eds.), Pergamon Press, New York, 1980, pp. 95-118.
+
+Habermas, J. The Theory of Communicative Action: Reason and the Rationalization of Society Beacon Press, Boston, 1984, p. 465.
+
+Ljungberg, J., and Holm, P. "Speech acts on trial," in: Computers and design in context, MIT Press, 1997, pp. 317-347.
+
+Lyytinen, K. "The Struggle with the Language in the IT – Why is LAP not in the Mainstream?,"International Working Conference on the Language-Action Perspective on Communication Modelling (LAP), New Brunswick, NJ, 2004.
+
+Schoop, M. "An introduction to the language-action perspective," ACM SIGGROUP Bulletin (22:2) 2001, pp 3 - 8.
+
+Searle, J.R. Speech acts: An essay in the philosophy of language Cambridge University, Cambridge, England, 1969.
+
+Umapathy, K., and Purao, S. "A Theoretical Investigation of the Emerging Standards for Web Services," Information Systems Frontiers (9:1) 2007, pp 119-134.
+
+Weigand, H. "The language/action perspective," Data & Knowledge Engineering (47:3) 2003, pp 299-300.
+
+Weigand, H. "LAP: 10 years in retrospect," International Working Conference on the Language- Action Perspective on Communication Modelling (LAP), Kiruna, Sweden, 2005.
+
+Weigand, H. "Two Decades of the Language-Action Perspective: Introduction," Communications of the ACM (49:5) 2006, pp 44-46.
+
+Winograd, T. "Designing a new foundation for design," Communications of the ACM (49:5) 2006, pp 71-74.
+
+## Originating author(s)
+Fernando Flores, Juan Ludlow, Göran Goldkuhl, Kalle Lyytinen, Terry Winograd
+
+## Seminal articles
+Flores, F., and Ludlow, J. "Doing and Speaking in the Office," in: Decision Support Systems: Issues and Challenges, G. Fick and R.H. Sprague (eds.), Pergamon Press, New York, 1980, pp. 95-118.
+
+Goldkuhl, G., and Lyytinen, K. "A Language Action View of Information Systems,"
+International Conference on Information Systems. 1982.
+
+Winograd, T., and Flores, F. Understanding Computers and Cognition: A New Foundation for Design Addison-Wesley Professional, Boston, USA, 1986, p. 224.

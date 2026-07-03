@@ -58,9 +58,18 @@ def test_file_imports(rel_path, rv):
 
 APPROVED_TAGS = {}
 
+# The tag and retries policies below are enforced only on the GenAI RAG pipeline
+# DAGs. The standalone practice DAGs are intentionally minimal teaching examples
+# and are exempt.
+GENAI_DAGS_DIR = "genai_dags"
+
+
+def get_genai_dags():
+    return [d for d in get_dags() if GENAI_DAGS_DIR in d[2]]
+
 
 @pytest.mark.parametrize(
-    "dag_id,dag,fileloc", get_dags(), ids=[x[2] for x in get_dags()]
+    "dag_id,dag,fileloc", get_genai_dags(), ids=[x[2] for x in get_genai_dags()]
 )
 def test_dag_tags(dag_id, dag, fileloc):
     """
@@ -72,7 +81,7 @@ def test_dag_tags(dag_id, dag, fileloc):
 
 
 @pytest.mark.parametrize(
-    "dag_id,dag, fileloc", get_dags(), ids=[x[2] for x in get_dags()]
+    "dag_id,dag, fileloc", get_genai_dags(), ids=[x[2] for x in get_genai_dags()]
 )
 def test_dag_retries(dag_id, dag, fileloc):
     """

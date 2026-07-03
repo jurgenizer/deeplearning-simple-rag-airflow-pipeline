@@ -1,0 +1,20 @@
+# Adaptive structuration theory
+
+## Concise description of theory
+Adaptive Structuration Theory is based on Anthony Giddens' structuration theory. This theory is formulated as “the production and reproduction of the social systems through members’ use of rules and resources in interaction”. DeSanctis and Poole adapted Giddens' theory to study the interaction of groups and organizations with information technology, and called it Adaptive Structuration Theory. AST criticizes the technocentric view of technology use and emphasizes the social aspects. Groups and organizations using information technology for their work dynamically create perceptions about the role and utility of the technology, and how it can be applied to their activities. These perceptions can vary widely across groups. These perceptions influence the way how technology is used and hence mediate its impact on group outcomes.
+
+Source: http://www.tcw.utwente.nl/theorieenoverzicht/Theory%20clusters/Organizational%20Communication/AST_theory.doc/
+
+## Originating author(s)
+Anthony Giddens
+
+In IS: Gerardine DeSanctis & Marshall Scott Poole
+
+## Seminal articles
+A. Giddens. The constitution of society: outline of the theory of structuration. University of California Press, Berkeley, CA, 1984.
+
+A. Giddens. Central Problems in Social Theory. University of California Press, Berkeley, CA, 1979.
+
+DeSanctis, G., & Poole, M. S. (1994). Capturing the complexity in advanced technology use: Adaptive structuration theory. Organization Science, 5(2), 121-147
+
+Poole, M. S., & DeSanctis, G. (1990). Understanding the use of group decision support systems: The theory of adaptive structuration. In J. Fulk & C. Steinfeld (Eds). Organizations and Communication Technology. Newbury Park, Ca: Sage.

@@ -1,0 +1,14 @@
+# Big Five Model of Personality
+
+## Concise description of theory
+The Big Five model of personality, known as the Five-Factor Model (FFM), is a widely recognized and extensively researched psychological framework aimed at capturing fundamental dimensions of human personality. This theory’s origins can be traced back to groundbreaking work by pioneering researchers like Ernest Tupes, Raymond Christal (1958), and Lewis Goldberg (1982) during the mid-20th century. During the 1980s and 1990s Paul T. Costa and Robert R. McCrae further developed the comprehensive Big Five model. This model identified five broad dimensions of personality namely Neuroticism, Extraversion, Openness to Experience, Agreeableness, and Conscientiousness. McCrae and Costa developed the NEO-PI to measure these personality traits. They have specified six specific facets that comprise each of the big five factors. The first factor Neuroticism represents the individual’s tendency to experience psychological distress (Costa & McCrae, 1992a). The six underlying facets of Neuroticism are anxiety, angry hostility, depression, self-consciousness, impulsiveness, and vulnerability. Extraversion is the factor explaining the individual's tendency to engage in social activity (Costa & McCrae, 1992b). The underlying facets of extraversion are warmth, gregariousness, assertiveness, activity, excitement-seeking, and positive emotions. The next factor, Openness to experience, explains an individual’s tendency to be open to experience, intellect, and culture (Costa & McCrae, 1992b). Underlying facets of Openness to experience are fantasy, aesthetics, feelings, actions, ideas, and values. The Agreeableness factor explains an individual’s friendly compliance and socialization (Costa & McCrae, 1992b). Trust, straightforwardness, altruism, compliance, modesty, and tender mindedness are the facets underlying Agreeableness. The last factor Conscientiousness explains an individual’s tendency to be scrupulous, well-organized, and diligent (Costa & McCrae, 1992a).  The facets underlying Conscientiousness are competence, order, dutifulness, achievement striving, self-discipline, and deliberation.
+
+Over time, the Big Five model has gained widespread acceptance due to its robustness and cross-cultural applicability. Rigorous research, including longitudinal studies and investigations across diverse societies, has further validated its stability and significance. Today, the Big Five model remains a prominent theoretical framework in personality psychology, offering a comprehensive understanding of individual differences in personality traits. Its applications encompass diverse domains, including psychological research, clinical practice, organizational behavior, and popular personality assessments.
+
+## Originating author(s)
+Ernest Tupes and Raymond Christal (1958)
+Lewis Goldberg (1982)
+Paul T. Costa and Robert R. McCrae (1992)
+
+## Seminal articles
+N/A

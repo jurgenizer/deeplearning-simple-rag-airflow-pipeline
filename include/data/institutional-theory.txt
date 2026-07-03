@@ -1,0 +1,36 @@
+# Institutional theory
+
+## Concise description of theory
+Institutional theory attends to the deeper and more resilient aspects of social structure. It considers the processes by which structures, including schemas, rules, norms, and routines, become established as authoritative guidelines for social behavior. It inquires into how these elements are created, diffused, adopted, and adapted over space and time; and how they fall into decline and disuse. Although the ostensible subject is stability and order in social life, students of institutions must perforce attend not just to consensus and conformity but to conflict and change in social structures.
+
+Source: Scott, W. Richard 2004. “Institutional theory” P408-14 in Encyclopedia of Social Theory, George Ritzer, ed. Thousand Oaks, CA: Sage.
+
+A. Defining ’institutions’
+… there is no single and universally agreed definition of an ’institution’ in the institutional school of thought... Scott (1995:33, 2001:48) asserts that ”Institutions are social structures that have attained a high degree of resilience. [They] are composed of cultural-cognitive, normative, and regulative elements that, together with associated activities and resources, provide stability and meaning to social life. Institutions are transmitted by various types of carriers, including symbolic systems, relational systems, routines, and artifacts. Institutions operate at different levels of jurisdiction, from the world system to localized interpersonal relationships. Institutions by definition connote stability but are subject to change processes, both incremental and discontinuous”… Powell and DiMaggio (1991:8) shed light on the meaning of ’institutions’ by offering a definition of the (neo-)institutional field: ”The new institutionalism in organization theory and sociology comprises a rejection of rational-actor models, an interest in institutions as independent variables, a turn toward cognitive and cultural explanations, and an interest in properties of supra-individual units of analysis that cannot be reduced to aggregations or direct consequences of individuals’ attributes or motives”.
+
+B. Enactment and (re-)production of institutions
+These social structures (mentioned above) are both imposed on and upheld by the actors (e.g. an individual, an organisation, etc.) behaviour.... One cognitively oriented view is that a given institution is encoded into an actor through a socialization process. When internalized, it transforms to a script (patterned behavior). When (or if) the actor behaves according to the script, the institution is enacted. In this manner, institutions are continuously (re-)produced. The enactment of an institution externalizes or objectifies it - other actors can see that the institution is in play, and a new round of socialization starts. After some time, the institution (and the resulting patterned behaviour) becomes sedimented and taken for-granted. Then, it might be difficult for the actors even to realize that their behaviour is in fact partly controlled by an institution. Acting in accordance with the institution is viewed as rational by those who share the institution.
+
+Source: Fredrik Bjorck. "Institutional Theory: A New Perspective for Research into IS/IT Security in Organisations," HICSS, p. 70186b, Proceedings of the 37th Annual Hawaii International Conference on System Sciences (HICSS'04) - Track 7, 2004
+
+## Originating author(s)
+Philip Selznick, Paul J. DiMaggio, Walter W. Powell, W. Richard Scott, Lynne G. Zucker
+
+## Seminal articles
+Selznick, P. (1948). Foundations of the Theory of Organizations. American Sociological Review 13: 25-35
+
+Selznick, P. (1949) TVA and the Grass Roots. University of California Press, Berkley, CA.
+
+Selznick, P. (1957) Leadership in Administration, A Sociological Interpretation New York: Harper & Row.
+
+Selznick, P. (1969) Law, Society and Industrial justice, New York: Russel Sage Foundation.
+
+DiMaggio, P. J., & Powell, W. W. (1983). The iron cage revisited: Institutional isomorphism and collective rationality in organizational fields. American Sociological Review, 48(2), 147-160.
+
+Oliver, C. (1991). Strategic Responses to Institutional Processes, Academy of Management Review, Vol. 16, 191: pp.145-179.
+
+Powell, W. W. & Dimaggio, P. J. (1991). The new institutionalism in organizational analysis. Chicago, University of Chicago Press.
+
+Scott, W. R. (1987). The adolescence of institutional theory. Administrative Science Quarterly, 32(4), 493
+
+Scott, W. R. (1995 and 2001). Institutions and Organizations. Thousand Oaks, CA, Sage

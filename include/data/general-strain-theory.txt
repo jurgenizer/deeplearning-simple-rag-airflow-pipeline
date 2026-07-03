@@ -1,0 +1,10 @@
+# General Strain Theory
+
+## Concise description of theory
+GST is a modified version of traditional strain theory from crime and delinquency literature proposed by Agnew in 1992. It states that strains in an individual causes delinquency. According to Agnew there are three main sources that causes strain in an individual i.e. failure to achieve positively valued goals; loss of positive-valued stimuli; and presentation of negative stimuli. The 1st reason for strain is mostly same as that of traditional strain theories, whereas the rest two are mostly situational dependent. For example loss of positive valued stimuli may include loss of any important person for an individual and negative stimulus like bullying, physical and emotional abuse. Presence of any of these three causes or all lead to create strain in an individual because he feels that he has not been treated in the way he is supposed to. Agnew further argued that though strain did not directly cause crime, it leads to negative emotions of frustration and anger which can latter results in delinquent or violent behavior. In IS literature usage of this theory started recently, in studying online deviant behaviors like cyber-bullying, cyber-harassment etc.
+
+## Originating author(s)
+Robert Agnew(1992)
+
+## Seminal articles
+Agnew, R. (1992). Foundation for a general strain theory of crime and delinquency. Criminology, 30(1), 47-87.

@@ -1,0 +1,31 @@
+# Stakeholder theory
+
+## Concise description of theory
+Numerous views of Stakeholder Theory are presented in the literature though a key distinction can be drawn between the tenets of Stakeholder Theory and the conventional input-output model of the firm which see firms as converting investor, supplier, and employee inputs into customer outputs (Donaldson and Preston, 1995). In contrast, Stakeholder theory argues that every legimate person or group participating in the activities of a firm do so to obtain benefits and that the priority of the interests of all legitimate stakeholders is not self-evident.
+
+Donaldson and Preston offer four central theses related to stakeholder theory.
+
+Stakeholder Theory is descriptive in that it offers a model of the corporation.
+Stakeholder Theory is instrumental in offering a framework for investigating the links between conventional firm performance and the practice of stakeholder management.
+Although Stakeholder Theory is descriptive and instrumental, it is more fundamentally normative. Stakeholders are identified by their interests and all stakeholder interests are considered to be intrinsically valuable.
+Stakeholder Theory is managerial in that it recommends attitudes, structures, and practices and requires that simultaneous attention be given to the interests of all legitimate stakeholders.
+
+## Originating author(s)
+Freeman (1984)
+
+## Seminal articles
+Donaldson, T. & Preston, L. 1995. The stakeholder theory of the modern corporation: Concepts, evidence and implications. Academy of Management Review 20, 65-91
+
+Freeman, R. E. (1984). Strategic management : A stakeholder approach. Boston: Pitman.
+
+Frooman, J. (1999). Stakeholder influence strategies. Academy of Management Review, 24(2), 191-205.
+
+Hill, C. W. L., & Jones, T. M. (1992). Stakeholder-agency theory. Journal of Management Studies, 29(2), 131-154.
+
+Jawahar, I. M., & McLaughlin, G. L. (2001). Toward a descriptive stakeholder theory: An organizational life cycle approach. Academy of Management Review, 26(3), 397-414.
+
+Jones, T. M. (1995). Instrumental stakeholder theory: A synthesis of ethics and economics. Academy of Management Review, 20(2), 404-437.
+
+Jones, T. M., & Wicks, A. C. (1999). Convergent stakeholder theory. Academy of Management Review, 24(2), 206-221.
+
+Mitchell, R. K., & Agle, B. R. (1997). Toward a theory of stakeholder identification and salience: Defining the principle of who and what really counts. Academy of Management Review, 22(4), 853-886.

@@ -1,0 +1,14 @@
+# Semantic theory of survey response
+
+## Concise description of theory
+The Semantic Theory of Survey Response (STSR) is a psychological theory about how people respond to survey questionnaires with so-called Likert-scale response categories.
+
+## Originating author(s)
+J. Ketil Arnulf and Kai R. Larsen
+
+## Seminal articles
+Larsen, Kai R., Dorit Nevo, and Eliot Rich (2008), Exploring the Semantic Validity of Questionnaire Scales, Proceedings of the 41st Hawaii International Conference on System Sciences, Waikoloa, Hawaii, January 7-10, pp. 1-10.
+
+Arnulf, J.K., Kai R. Larsen, Øyvind Lund Martinsen, Chih How Bong (2014), Predicting Survey Responses: How and Why Semantics Shape Survey Statistics on Organizational Behaviour, PLOS One, 9(9)
+
+David Gefen and Kai R. Larsen (2017), Controlling for Lexical Closeness in Survey Research: A Demonstration on the Technology Acceptance Model, Journal of the Association for Information Systems, 18(10), pp. 727-757. (ISSN 1536-9323)

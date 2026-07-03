@@ -1,0 +1,20 @@
+# Success Management Theory
+
+## Concise description of theory
+The Success Management Theory focuses on defining, leveraging, and securing the success of endeavors by gaining a comprehensive awareness of what is valued by stakeholders to achieve success and manage according to such understanding.
+
+The Success Management Theory proposes that it is not enough to evaluate the accomplishments and impacts of an endeavor only at its end and only from a single perspective — success needs to be understood by considering the perspective of all stakeholders and must be continuously potentiated along the course of an endeavor (taking into account all the success facets - figure 1).
+
+At the core of the Success Management Theory lies the Success Management process (figure 2), which aims to provide individuals and organizations with a clear, shared, and continuously updated picture of what success means in the context of their endeavors and the success levels being achieved in those endeavors by taking into account the evolution of the dimensions of success over time and the perspectives of all the relevant stakeholders.
+
+The main objective is to enhance and secure endeavors’ success at maximum levels by acting accordingly.
+
+## Originating author(s)
+Varajão (2016), Varajão (2018), Varajão et al. (2022)
+
+## Seminal articles
+Varajão, J. (2016) Success Management as a project management knowledge area – work-in-progress, Procedia Computer Science, 100, 1095-1102.
+
+Varajão, J. (2018) A new process for Success Management: bringing order to a typically ad-hoc area, Journal of Modern Project Management, 5(3), 92-99.
+
+Varajão, J., Magalhães, L., Freitas, L., Rocha, P. (2022), Success Management – from theory to practice. International Journal of Project Management.

@@ -1,0 +1,26 @@
+# Organizational culture theory
+
+## Concise description of theory
+Different concepts of culture, stemming from two distinct disciplines (anthropology and sociology), have been applied to organizational studies since the early 1980s. These two underlying disciplines represent different paradigms in Burrell and Morgan’s (1979) framework, and have contributed to the emergence of the different theories and frameworks of organizational culture in the academic literature. Anthropology takes the interpretivist view and sees culture as a metaphor for organizations, defining organizations as being cultures. On the other hand, sociology takes on the functionalist view and defines culture, as something an organization possesses. Despite the separate definitions of organizational culture, there seems to be a movement towards a general consensus.
+
+The most widely used organizational culture framework is that of Edgar Schein (1988), who adopts the functionalist view and described culture as a pattern of basic assumptions, invented, discovered, or developed by a given group, as it learns to cope with its problems of external adaptation and internal integration, that has worked well enough to be considered valid and, therefore is to be taught to new members as the correct way to perceive, think, and feel in relation to those problems.
+
+In Schein’s (1988) model, culture exists on three levels:
+
+1.	Artifacts – Artifacts are difficult to measure and they deal with organizational attributes that can be observed, felt and heard as an individual enters a new culture.
+2.	Values – This level deals with the espoused goals, ideals, norms, standards, and moral principles and is usually the level that is usually measured through survey questionnaires.
+3.	Underlying assumptions – This level deals with phenomena that remain unexplained when insiders are asked about the values of the organizational culture. Information is gathered in this level by observing behavior carefully to gather underlying assumptions because they are sometimes taken for granted and not recognized. According to Schein, the essence of organizational culture lies in this level.
+
+Source: Schein, E. H. Organizational Culture. WP 2088-88. Sloan School of Management Working Papers, Massachussets Institute of Technology, 1988.
+
+## Originating author(s)
+N/A
+
+## Seminal articles
+Pettigrew, A.M. “On Studying Organizational Cultures,” Administrative Science Quarterly (24:4), 1979, pp. 570-581.
+
+Schein, E.H. Organizational Culture and Leadership, Jossey-Bass, San Francisco, 1985.
+
+Schein, E.H. Organizational Culture and Leadership, 2nd edition, Jossey-Bass, San Francisco, 1992.
+
+Smircich, L. “Concepts of Culture and Organizational Analysis,” Administrative Science Quarterly (28:3), 1983, pp. 339-358.

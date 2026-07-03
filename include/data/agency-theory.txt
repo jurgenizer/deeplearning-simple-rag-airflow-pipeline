@@ -1,0 +1,23 @@
+# Agency theory
+
+## Concise description of theory
+In economics, the principal-agent problem treats the difficulties that arise under conditions of incomplete and asymmetric information when a principal hires an agent. Various mechanisms may be used to try to align the interests of the agent with those of the principal, such as piece rates/commissions, profit sharing, efficiency wages, the agent posting a bond, or fear of firing. The principal-agent problem is found in most employer/employee relationships, for example, when stockholders hire top executives of corporations.
+
+Source: [http://en.wikipedia.org/wiki/Principal-agent_problem]
+
+Agency theory is directed at the ubiquitous agency relationship, in which one party (the principal) delegates work to another (the agent), who performs that work. Agency theory is concerned with resolving two problems that can occur in agency relationships. The first is the agency problem that arises when (a) the desires or goals of the principal and agent conflict and (b) it is difficult or expensive for the principal to verify what the agent is actually doing. The problem here is that the principal cannot verify that the agent has behaved appropriately. The second is the problem of risk sharing that arises when the principal and agent have different attitudes towards risk. The problem here is that the principal and the agent may prefer different actions because of the different risk preferences.
+
+Source: Eisenhardt, M, K. (1989). Agency theory: An assessment and review. Academy of Management Review, 14(1), 57).
+
+## Originating author(s)
+Alchian and Demsetz (1972), Eisenhardt (1985, 1989), Jensen and Mekling (1976)
+
+## Seminal articles
+Alchian, A., and Demsetz, H. 1972. Production, information costs, and economic organization. American Economic Review, 62(5): 777-795.
+
+Eisenhardt, K. M. (1985). Control: Organizational and economic approaches. Management Science (Pre-1986), 31(2), 134.
+
+Eisenhardt, M, K. (1989). Agency theory: An assessment and review. Academy of Management Review, 14(1), 57.
+
+Jensen, M., and Meckling, W. 1976. Theory of the firm: Managerial behavior, agency costs, and ownership structure. Journal of Financial Economics, 3: 305-360.== Originating area ==
+Economics

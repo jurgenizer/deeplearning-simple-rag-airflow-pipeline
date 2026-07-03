@@ -1,0 +1,21 @@
+# Rational Choice Theory
+
+## Concise description of theory
+The rational choice theory (RCT) suggests that humans are rational beings who make decisions after calculating the perceived costs and benefits associated with their choice[1][2][3]. The choice made by a reasoned actor after weighing the means and ends is called a rational choice. The individuals consider the characteristics of the action individually and respond selectively to their costs, benefits, or risks, which helps them decide whether they should consider the decision or focus elsewhere[4].
+
+RCT aims to maximise the total utility during decision-making. However, it is not easy to measure/observe utility directly. Hence behaviour change due to the choices made is inferred as synonymous with utility[5].
+
+## Originating author(s)
+Gary S Becker (1974)
+
+Paternoster and Simpson (1996)
+
+## Seminal articles
+A behavioral approach to the rational choice theory of collective action presidential address, American political science association, 1997 (1998) American Political Science Review, 92 (1), pp. 1-22. Cited 1764 times. DOI: 10.2307/2585925
+Koremenos, B., Lipson, C., Snidal, D. The rational design of international institutions (2001) International Organization, 55 (4), pp. 761-799. Cited 1168 times. DOI: 10.1162/00208180-1317193592
+Lerner, J.S., Li, Y., Valdesolo, P., Kassam, K.S. Emotion and decision making (2015) Annual Review of Psychology, 66, pp. 799-823. Cited 990 times. DOI: 10.1146/annurev-psych-010213-115043
+Schwartz, B. Self-determination: The tyranny of freedom (2000) American Psychologist, 55 (1), pp. 79-88. Cited 471 times. DOI: 10.1037/0003-066X.55.1.79
+Sherkat, D.E., Ellison, C.G. Recent developments and current controversies in the sociology of religion (1999) Annual Review of Sociology, 25, pp. 363-394. Cited 446 times.  DOI: 10.1146/annurev.soc.25.1.363
+Cornish, D.B., Clarke, R.V. Understanding crime displacement: an application of rational choice theory (1987) Criminology, 25 (4), pp. 933-948. Cited 434 times. DOI: 10.1111/j.1745-9125.1987.tb00826.x
+Guzman, A. How International Law Works: A Rational Choice Theory (2008) How International Law Works: A Rational Choice Theory, pp. 1-304. Cited 432 times. DOI: 10.1093/acprof:oso/9780195305562.001.0001
+Ammerman, N.T. Everyday Religion: Observing Modern Religious Lives (2007) Everyday Religion: Observing Modern Religious Lives, pp. 1-272. Cited 407 times. DOI: 10.1093/acprof:oso/9780195305418.001.0001

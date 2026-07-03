@@ -1,0 +1,29 @@
+# Punctuated equilibrium theory
+
+## Concise description of theory
+The central proposition of punctuated equilibrium embodies three concepts: stasis, punctuation and dominant relative frequency (Eldridge and Gould, 1972). Stasis refers to a long period of relatively unchanged form; punctuation is radical change over a short duration; and dominant relative frequency is the rate these events occur in a particular situation. Punctuated equilibrium was developed as an alternative to phyletic gradualism, which stresses consistent, cumulative changes to species.
+Within the context of organizational behavior, the punctuated equilibrium model consists of deep structures, equilibrium periods and revolutionary periods. Deep structure is “the set of fundamental ‘choices’ a system has made of (1) the basic parts into which its units will be organized and (2) the basic activity patterns that will maintain its existence.” (Gersick, 1991, p 14) Equilibrium periods are characterized by the maintenance of organizational structures and activity patterns, where small incremental adjustments are made to adjust for environmental changes without affecting the deep structure. Revolutionary periods occur due to significant changes in the environment that lead to wholesale upheaval where a system’s deep structure comes apart, leaving it in disarray until the period ends and choices are made around which a new structure forms. (Gersick, 1991)
+
+One of the key punctuations noted in the research is major environmental change caused by technological innovation (Romanelli and Tushman, 1994) where a technological discontinuity triggers a period of instability, which is closed by the emergence of a dominant design or business paradigm (Anderson and Tushman, 1990). The introduction of a disruptive, or competence destroying, IT innovation (Tushman and Anderson, 1986; Lyytinnen and Rose, 2003) can be considered a punctuation that interrupts the existing stasis, destroying the existing deep structure. It should be noted that revolutionary outcomes, based on interactions of system's historical resources with current events, are not predictable and they may or may not leave a system better off (Gersick 1991).
+
+While its use in IS research has increased recently, punctuated equilibrium is not a unanimously accepted theoretic framework. Within the field of biology, its chief opponent is Richard Dawkins, who is often viewed as the chief antagonist of the late Stephen Jay Gould, one of punctuated equilibrium’s originators. Within the field of organizational behavior, Lichtenstein (1995) argued that that self-organization theory could be a more acceptable framework with greater explanatory power.
+
+## Originating author(s)
+Eldredge and Gould (Paleobiology)
+
+Anderson, Romanelli and Tushman (Organizational Behavior)
+
+## Seminal articles
+Eldredge, N. and Gould, S. (1972) Punctuated Equilibria: An Alternative to Phyletic Gradualism, in T.J. Schopf (Ed.), Models in Paleobiology, 82-115, San Francisco: Freeman, Cooper & Co.
+
+Gersick, C.J.G. (1991) Revolutionary Change Theories: A Multi-Level Exploration of the Punctuated Equilibrium Paradigm, Academy of Management Review, 16(1), 10-36.
+
+Hannan, M.T. and Freeman, J. (1977) The Population Ecology of Organizations, American Journal of Sociology, 82(5), 929-964.
+
+Lichtenstein, B. M. (1995) Evolution or Transformation: A Critique and Alternative to Punctuated Equilibrium. Dorothy P. Moore, ed. Academy of Management Best Papers Proceedings, Madison, WI: Omnipress, 291–295.
+
+Romanelli, E. and Tushman, M. (1994) Organizational Transformation as Punctuated Equilibrium: An Empirical Test, Academy of Management Journal, 37(5), 1141-1166.
+
+Tushman, M. and Anderson, P. (1986) Technological Discontinuities and Organizational Environments, Administrative Science Quarterly, 31(3), 439-465.
+
+Tushman, M. and Romanelli, E. (1985) Organizational Evolution: A Metamorphosis Model of Convergence and Reorientation, in L.L. Cummings and B.M. Staw (Eds.), Research in Organizational Behavior, Vol 7, 171-222, Greenwich, CT: JAI Press.

@@ -1,0 +1,27 @@
+# Multi-motive information systems continuance model (MISC)
+
+## Concise description of theory
+The multi-motive information systems continuance model (or MISC), explains and predicts the discrete cognitive processes through which systems fulfill a range of motives and expectations and how this fulfillment leads to continuance intentions. The MISC model also accounts for design-related constructs that have the potential to contribute to or confound any study on system use, namely: design aesthetics, perceived ease of use, and design-expectations fit.
+
+The MISC model is built upon expectation disconfirmation theory, or EDT, and the Bhattacherjee and Premkumar (2004) model. Theories and literature around EDT are plentiful. Sometimes referred to as met-expectations, expectancy violation, or expectation-disconfirmation, these theoretical models concern whether an experience conforms to one’s expectations or if those expectations are disconfirmed or violated. Most studies using an expectancy-confirmation or expectancy-disconfirmation paradigm argue that an individual’s expectations largely determine his or her overall satisfaction with something, such as a person, service, or product – and in our context, an online interaction with a user interface. While accounting for satisfaction, the MISC focuses on system continuance intention as the primary phenomenon of interest.
+
+“Expectations” refers to one’s beliefs about future events. By nature, the human mind projects and considers future scenarios to anticipate required actions, for both physical and social survival.
+“Disconfirmation” is the extent to which an event is evaluated as either exceeding or falling short of expectations.
+“Positive disconfirmation” results when perceived performance exceeds expectations, thereby causing satisfaction.
+Whereas, “negative disconfirmation” occurs when performance falls below expectations, causing dissatisfaction.
+
+To address several limitations of using EDT for systems use, MISC adds three more expectations as predictors of disconfirmation, and by including multiple motivation-related factors to the model. The MISC model leverages Design Expectations Fit (DEF), Ease of Use, and Design Aesthetics as additional predictors of Disconfirmation.
+
+DEF is the extent to which the design of the software matches the expected interaction. For example, if, prior to using some software, you expect to be able to have fun interactions with it, but the software is designed for productivity rather than fun, then the DEF is low. In this case, the DEF would be much higher if you had expected to interact productively with the software. Applications with designs that match the expectations of the user will be preferred to those which do not match the users’ expectations.
+Ease of use is a common construct in information systems research that represents the degree to which you believe using a system will be free of effort. Applications that are easy to use will be preferred over those that require more effort.
+Design Aesthetics refers to the appropriateness and professionalism of the user interface. Aesthetic, or appealing, interfaces are more likely to be preferred over unappealing ones.
+
+Beyond these three new predictors of disconfirmation, the MISC further addresses issues with EDT by splitting beliefs and disconfirmations into their naturally occurring disparate parts, including Hedonic, Intrinsic, and Extrinsic components. When people learn about a new software or information system, they may have expectations or beliefs that fit into one of these three categories. For example, they may expect the software to be pleasurable on some level, uplifting to a certain degree, and, to some extent, useful for accomplishing something.
+
+In all existing models, these three different components are conceptually combined or ignored, resulting in the observed poor ability to predict disconfirmation. Since MISC separates them, it is able to predict hedonic disconfirmations with hedonic expectations (or beliefs), intrinsic disconfirmations with intrinsic expectations, and extrinsic with extrinsic. Taken together, these should also predict evaluations of the interactions far better, as well as the user’s intention to continue using the software. Initial empirical tests by Lowry et al. (2015) indicate this is the case.
+
+## Originating author(s)
+Paul Benjamin Lowry, James Eric Gaskin, Gregory D. Moody
+
+## Seminal articles
+Paul Benjamin Lowry, James Eric Gaskin, and Gregory D. Moody (2015). “Proposing the multimotive information systems continuance model (MISC) to better explain end-user system evaluations and continuance intentions,” Journal of the Association for Information Systems (JAIS), vol. 16(7), pp. 515–579 (http://aisel.aisnet.org/jais/vol16/iss7/3/).

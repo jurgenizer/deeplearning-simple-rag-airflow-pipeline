@@ -1,0 +1,39 @@
+# Feminism theory
+
+## Concise description of theory
+1) Feminism: Feminism is a diverse, competing, and often opposing collection of social theories, political movements, and moral philosophies, largely motivated by or concerning the experiences of women, especially in terms of their social, political, and economical inequalities. One institutionally predominant type of feminism focuses on limiting or eradicating gender inequality to promote women's rights, interests, and issues in society. Another opposing type of modern feminism, with deep historical roots, focuses on earning, and establishing equity by and for women, vis-a-vis men, to promote those same rights, interests, and issues, regardless of gender considerations. Thus, as with any ideology, political movement or philosophy, there is no single, universal form of feminism that represents all feminists. The most well-known types of feminism are: liberal feminism, social feminism, radical feminism, and post-modern feminism.
+
+Liberal feminism seeks no special privileges for women and simply demand that everyone receive equal consideration without discrimination on the basis of sex. Liberal feminists would seek to remove barriers that prevent equal access for women to information technology jobs not only to provide economic equality but to provide access to higher-paying jobs for women.
+
+In contrast to liberal feminism, socialist feminism rejects individualism and positivism. Social feminism believes that technology and the social shaping of technology have often been conceptualized in terms of men, excluding women at all levels. Socialist feminist reform suggests that the allocation of resources for technology development should be determined by greatest benefit for the common good. A growing use of cyber protests to disrupt capitalist enterprises such as the World Bank might be seen by socialists as an example of information technology use for the common good.
+
+Radical feminism maintains that women’s oppression is the first, most widespread, and deepest oppression. Radical feminism rejects most scientific theories, data, and experiment not only because they exclude women but also because they are not women-centered. Radical feminism suggests that because men, masculinity, and patriarchy have become completely intertwined with technology and computer systems in our society, no truly feminist alternative to technology exists.
+
+Postmodern feminist theories imply that no universal research agenda or application of technologies will be appropriate and that various women will have different reactions to technologies depending upon their own class, race, sexuality, country, and other factors. This definition of postmodern feminism parallels the description of the complex and diverse co-evolution of women and computing. In contrast to liberal feminism, postmodernism dissolves the universal subject and the possibility that women speak in a unified voice or that they can be universally addressed. Wajcman's (1991) thoughtful analysis of the social constructivist perspective on gender and technology reveals some of the issues embedded in its assumptions. She points out that there is no behavior or meaning which is universally and cross-culturally associated with either masculinity or femininity, that what is considered masculine in some societies is considered feminine or gender-neutral in others. It is not that gender difference does not exist but that it is manifested differently in different societies. Therefore, addressing the gender gap in IT employment based upon an assumed "woman's perspective" is problematic. She cites Harding (1986) in observing that there are as many different "women's experiences" as there are types of women.
+
+2) Cyberfeminism: Cyberfeminism is a woman-centered perspective that advocates women’s use of new information and communications technologies for empowerment. Some cyberfeminists see these technologies as inherently liberatory and argue that their development will lead to an end to male superiority because women are uniquely suited to life in the digital age (Millar, 1998). The term cyberfeminism, which explicitly fuses gender and information technology, arose in the late 1980s and early 1990s. Hawthorne and Klein in their book, “Cyberfeminism”, state: “Just as there are liberal, socialist, radical and postmodern feminists, so too one finds these positions reflected in the interpretations of Cyberfeminism” (Hawthorne & Klein, 1999).
+
+Cyberfeminists saw the potential of the Internet and computer science as technologies to level the playing field and open new avenues for job opportunities and creativity for women where absence of sexism, racism, and other oppression would serve as major contrasts between the virtual world and the real world.
+
+Currently, there are not many clear and explicit applications of feminism theory in the context of Information System research. However, the emerging area of cyberfeminism can benefit from different types of feminism in order to build cyberfeminist theories. Cyberfeminism uses aspects of different feminist theories to reflect many interactions among information technologies, women, and feminism. Rosser (2005) believes that Cyberfeminism appears currently to pick and choose among aspects of various feminist theories in a somewhat uncritical fashion without developing a coherent or successor theory. Therefore she proposes a brief exploration of what each of the feminist theories suggests for this less developed theory of Cyberfeminism.
+
+3) Feminist theory: Feminist theory is the extension of feminism into theoretical, or philosophical ground. It encompasses work done in a broad variety of disciplines, prominently including the approaches to women's roles and lives and feminist politics in anthropology and sociology, economics, women's and gender studies, feminist literary criticism, and philosophy (especially Continental philosophy). Feminist theory aims to understand the nature of inequality and focuses on gender politics, power relations and sexuality. While generally providing a critique of social relations, much of feminist theory also focuses on analyzing gender inequality and the promotion of women's rights, interests, and issues. Themes explored in feminism include discrimination, stereotyping, objectification (especially sexual objectification), oppression, and patriarchy.
+
+Main Sources:
+Rosser, S. V., (2005). Through the Lenses of Feminist Theory: Focus on Women and Information Technology, Frontiers - A Journal of Women's Studies, 26
+http://en.wikipedia.org/wiki/Feminist_theory
+http://en.wikipedia.org/wiki/Feminism
+
+## Originating author(s)
+Feminism: Mary Wollstonecraft, Elizabeth Cady Stanton
+
+Cyberfeminism: Susan Hawthorne and Renate Klein
+
+## Seminal articles
+Wollstonecraft, M. (1792). A Vindication of the Rights of Women. Penguin, Harmondsworth.
+
+Stanton, E.C., Anthony, S.B., & Gage. M.J.(1881). The History of Woman's Suffrage. Vol. 1. Rochester.
+
+Beauvoir, S.D. (1952). The Second Sex. New York: Alfred A. Knopf.
+
+Hawthorne, S., & Klein, R. (1999). Cyberfeminism. Melbourne, Australia, Spinifex.

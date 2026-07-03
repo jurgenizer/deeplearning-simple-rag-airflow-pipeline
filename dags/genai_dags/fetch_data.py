@@ -1,8 +1,8 @@
 from airflow.sdk import chain, dag, task, Asset
 from pendulum import datetime, duration
 
-COLLECTION_NAME = "Books"
-BOOK_DESCRIPTION_FOLDER = "include/data"
+COLLECTION_NAME = "Theories"
+THEORY_FOLDER = "include/data"
 EMBEDDING_MODEL_NAME = "BAAI/bge-small-en-v1.5"
 
 
@@ -15,11 +15,56 @@ def _my_callback_func(context):
     )
 
 
+def _parse_theory_file(text: str) -> dict:
+    """Parse a scraped IS theory Markdown file into a dict.
+
+    Expected format:
+        # <Theory name>
+        ## Concise description of theory
+        <description or N/A>
+        ## Originating author(s)
+        <authors or N/A>
+        ## Seminal articles
+        <articles or N/A>
+    """
+    name = ""
+    sections = {}
+    current = None
+    buf = []
+
+    def flush():
+        if current is not None:
+            sections[current] = "\n".join(buf).strip()
+
+    for line in text.splitlines():
+        if line.startswith("# ") and not line.startswith("## "):
+            name = line[2:].strip()
+        elif line.startswith("## "):
+            flush()
+            current = line[3:].strip().lower()
+            buf = []
+        elif current is not None:
+            buf.append(line)
+    flush()
+
+    def clean(value):
+        value = (value or "").strip()
+        return "" if value == "N/A" else value
+
+    return {
+        "name": name,
+        "description": clean(sections.get("concise description of theory", "")),
+        "authors": clean(sections.get("originating author(s)", "")),
+        "seminal_articles": clean(sections.get("seminal articles", "")),
+    }
+
+
 @dag(
     start_date=datetime(2025, 6, 1),
     schedule="@hourly",
+    tags=["genai", "rag"],
     default_args={
-        "retries": 1,
+        "retries": 2,
         "retry_delay": duration(seconds=10),
         "on_failure_callback": _my_callback_func,
     },
@@ -29,7 +74,6 @@ def fetch_data():
 
     @task(retries=5, retry_delay=duration(seconds=2))
     def create_collection_if_not_exists() -> None:
-        # print(10/0)
         from airflow.providers.weaviate.hooks.weaviate import WeaviateHook
 
         hook = WeaviateHook("my_weaviate_conn")
@@ -47,77 +91,49 @@ def fetch_data():
     _create_collection_if_not_exists = create_collection_if_not_exists()
 
     @task
-    def list_book_description_files() -> list:
+    def list_theory_files() -> list:
         import os
 
-        book_description_files = [
-            f for f in os.listdir(BOOK_DESCRIPTION_FOLDER) if f.endswith(".txt")
+        theory_files = [
+            f for f in os.listdir(THEORY_FOLDER) if f.endswith(".txt")
         ]
-        return book_description_files
+        return theory_files
 
-    _list_book_description_files = list_book_description_files()
+    _list_theory_files = list_theory_files()
 
     @task
-    def transform_book_description_files(book_description_file: str) -> str:
-        import json
+    def transform_theory_file(theory_file: str) -> dict:
         import os
 
-        with open(
-            os.path.join(BOOK_DESCRIPTION_FOLDER, book_description_file), "r"
-        ) as f:
-            book_descriptions = f.readlines()
+        with open(os.path.join(THEORY_FOLDER, theory_file), "r") as f:
+            return _parse_theory_file(f.read())
 
-        titles = [
-            book_description.split(":::")[1].strip()
-            for book_description in book_descriptions
-        ]
-        authors = [
-            book_description.split(":::")[2].strip()
-            for book_description in book_descriptions
-        ]
-        book_description_text = [
-            book_description.split(":::")[3].strip()
-            for book_description in book_descriptions
-        ]
-
-        book_descriptions = [
-            {
-                "title": title,
-                "author": author,
-                "description": description,
-            }
-            for title, author, description in zip(
-                titles, authors, book_description_text
-            )
-        ]
-
-        return book_descriptions
-
-    _transform_book_description_files = transform_book_description_files.expand(
-        book_description_file=_list_book_description_files
+    _transform_theory_file = transform_theory_file.expand(
+        theory_file=_list_theory_files
     )
 
     @task
-    def create_vector_embeddings(book_data: list) -> list:
+    def create_vector_embedding(theory_data: dict) -> list:
         from fastembed import TextEmbedding
 
         embedding_model = TextEmbedding(EMBEDDING_MODEL_NAME)
 
-        book_descriptions = [book["description"] for book in book_data]
-        description_embeddings = [
-            list(map(float, next(embedding_model.embed([desc]))))
-            for desc in book_descriptions
-        ]
+        # Embed the theory name together with its description so that name-only
+        # theories (with an N/A description) remain searchable by their name.
+        text_to_embed = theory_data["name"]
+        if theory_data["description"]:
+            text_to_embed = f'{theory_data["name"]}. {theory_data["description"]}'
 
-        return description_embeddings
+        embedding = list(map(float, next(embedding_model.embed([text_to_embed]))))
+        return embedding
 
-    _create_vector_embeddings = create_vector_embeddings.expand(
-        book_data=_transform_book_description_files
+    _create_vector_embedding = create_vector_embedding.expand(
+        theory_data=_transform_theory_file
     )
 
-    @task(outlets=[Asset("my_book_vector_data")], trigger_rule="all_done")
+    @task(outlets=[Asset("my_theory_vector_data")], trigger_rule="all_done")
     def load_embeddings_to_vector_db(
-        list_of_book_data: list, list_of_description_embeddings: list
+        list_of_theory_data: list, list_of_embeddings: list
     ) -> None:
         from airflow.providers.weaviate.hooks.weaviate import WeaviateHook
         from weaviate.classes.data import DataObject
@@ -126,27 +142,24 @@ def fetch_data():
         client = hook.get_conn()
         collection = client.collections.get(COLLECTION_NAME)
 
-        for book_data_list, emb_list in zip(
-            list_of_book_data, list_of_description_embeddings
-        ):
-            items = []
+        items = []
+        for theory_data, emb in zip(list_of_theory_data, list_of_embeddings):
+            item = DataObject(
+                properties={
+                    "name": theory_data["name"],
+                    "description": theory_data["description"],
+                    "authors": theory_data["authors"],
+                    "seminal_articles": theory_data["seminal_articles"],
+                },
+                vector=emb,
+            )
+            items.append(item)
 
-            for book_data, emb in zip(book_data_list, emb_list):
-                item = DataObject(
-                    properties={
-                        "title": book_data["title"],
-                        "author": book_data["author"],
-                        "description": book_data["description"],
-                    },
-                    vector=emb,
-                )
-                items.append(item)
-
-            collection.data.insert_many(items)
+        collection.data.insert_many(items)
 
     _load_embeddings_to_vector_db = load_embeddings_to_vector_db(
-        list_of_book_data=_transform_book_description_files,
-        list_of_description_embeddings=_create_vector_embeddings,
+        list_of_theory_data=_transform_theory_file,
+        list_of_embeddings=_create_vector_embedding,
     )
 
     chain(_create_collection_if_not_exists, _load_embeddings_to_vector_db)

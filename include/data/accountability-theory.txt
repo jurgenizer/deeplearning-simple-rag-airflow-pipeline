@@ -1,0 +1,30 @@
+# Accountability theory
+
+## Concise description of theory
+As explained by Vance, Lowry and Eggett (2015), accountability theory explains how the perceived need to justify one’s behaviors to another party causes one to consider and feel accountable for the process by which decisions and judgments have been reached. In turn, this perceived need to account for a decision-making process and outcome increases the likelihood that one will think deeply and systematically about one’s procedural behaviors. This theory was originally developed by Tetlock, Lerner, and colleagues and has been effectively applied in organizational research.
+
+Importantly, as explained carefully by Vance, Lowry, and Eggett (2013), a useful way to understand accountability is to distinguish between its two most prevalent uses: (1) as a virtue and (2) as a mechanism. As a virtue, accountability is seen as a quality in which a person displays a willingness to accept responsibility, a desirable trait in public officials, government agencies, or firms; hence, in this use, accountability is a positive feature of an entity. As a mechanism, accountability is seen as a process in which a person has a potential obligation to explain his or her actions to another party who has the right to pass judgment on the actions as well as to subject the person to potential consequences for his or her actions. Accountability theory focuses on the process of accountability.
+
+Accountability theory proposes several mechanisms that increase accountability perceptions. For example, “even the simplest accountability manipulation necessarily implicates several empirically distinguishable submanipulations” (Lerner and Tetlock 1999, p. 255), including the presence of another person, identifiability, and expectation of evaluation. Recent research has shown that IT design artifacts of systems can manipulate the four core components of accountability theory and thus improve employees’ felt accountability toward organizational system security without disruptive interventions or training (Vance et al. 2013; 2015): (1) identifiability, (2) expectation of evaluation, (3) awareness of monitoring, and (4) social presence.
+
+Identifiability is a person’s “knowledge that his outputs could be linked to him” and thus reveal his/her true identity (Williams, Harkins and Latane 1981, p. 309)
+
+Expectation of evaluation is the belief that one’s “performance will be assessed by another [party] according to some normative ground rules and with some implied consequences” (Lerner and Tetlock 1999, p. 255).
+
+Awareness of monitoring is a user’s state of active cognition that his/her system-related work is monitored (Vance, Lowry, and Eggett 2015).
+
+Social presence is the awareness of other users in the system (Vance, Lowry, and Eggett 2015).
+
+## Originating author(s)
+P. E. Tetlock developed the initial concepts and mechanisms on accountability through several key papers.
+
+J.S. Lerner later worked with P.E. Tetlock in (Lerner and Tetlock 1999) to develop what is largely referred to as accountability theory.
+
+Anthony Vance and Paul Benjamin Lowry later re-contexualized accountability for use with deterring security access policy violations with organizational employees by designing system features that promote accountability in end-users.
+
+## Seminal articles
+Lerner, J. S., and Tetlock, P. E. 1999. “Accounting for the Effects of Accountability,” Psychological Bulletin (125:2), pp. 255-275
+
+Tetlock, P. E. 1983a. “Accountability and Complexity of Thought,” Journal of Personality and Social Psychology (45:1), pp. 74-83.
+
+Tetlock, P. E. 1983b. “Accountability and the Perseverance of First Impressions,” Social Psychology Quarterly (46:4), pp. 285-292.

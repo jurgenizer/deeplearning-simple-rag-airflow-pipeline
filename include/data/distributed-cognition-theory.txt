@@ -1,0 +1,18 @@
+# Distributed Cognition Theory
+
+## Concise description of theory
+Distributed Cognitive Theory emerged within the domain of Human-Computer Interaction (HCI) and challenges the disembodied nature of cognitive science and conventional "plans" in artificial intelligence research. It explores cognition's distribution across individuals, artifacts, and the environment [1]. The theory of distributed cognition provides a comprehensive framework for understanding how thinking and learning occur within a cognitive system, involving both individuals and cognitive artifacts [2]. This concept challenges the notion that cognition is confined to an individual's mind and suggests that it can be distributed across human minds, artifacts, and groups, forming a larger cognitive system [3]. Cognitive processes are observed not only internally within individual minds but also externally, as humans collectively utilize external cognitive resources like symbolic media, artifacts, and the environment [2].
+
+Researchers in distributed cognition focus on social systems, examining interactions between individuals, artifacts, and their environment, while traditional cognition researchers primarily study individual cognitive processes. The theory seeks to understand how learners configure their environment to achieve specific goals within the cognitive system [4].
+
+In this distributed cognitive system, cognition flows across various representations, and individuals effectively use cognitive properties to complete tasks. The utilization of external representations, such as diagrams and graphs, enhances knowledge access and aids information processing. Individuals engage in the coordination of distributed cognition, working together to accomplish cognitive tasks [5].
+
+Importantly, the extension of cognition through external resources doesn't necessitate a complete understanding of how a tool works. Learners can still use tools effectively without fully comprehending their inner workings, as exemplified by modern computer technology [5]. This theory highlights that humanity continually progresses by building upon the knowledge and cognition of those who came before [2].
+
+.
+
+## Originating author(s)
+Edwin Hutchins in 1995 [1]
+
+## Seminal articles
+N/A

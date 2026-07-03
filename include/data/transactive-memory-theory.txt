@@ -1,0 +1,16 @@
+# Transactive memory theory
+
+## Concise description of theory
+Transactive memory theory is based on the idea that individual members can serve as external memory aids to each other (Wegner, 1987). Members are able to benefit from each other’s knowledge and expertise if they develop a good, shared understanding of who knows what in the group/unit. A transactive memory system is built on the distinction between internal and external memory encoding. Often, individuals encode new knowledge internally, in their own memory. However, even more often individuals encode or use knowledge encoded externally (in diaries, in books, or even in other people’s memory). In these cases, the individual internally encodes the label (subject) of the knowledge as well as its location but not the knowledge itself.
+
+Transactive memory systems are built on this view of individuals playing the role of external memory for other individuals who – in turn – encode meta-memories (i.e. memories about the memories of others). Wegner (1995) proposes that two types of meta-memories are maintained in people’s minds – information about the subjects of knowledge of each member (i.e. areas of expertise) and information about the locations of the knowledge. Knowledge is encoded, stored, and retrieved from the collective memory through various transactions between individuals, based on their meta-memories.
+
+Findings of both field and laboratory research indicate that transactive memory can serve as a facilitator of group performance, where groups whose members are aware of the knowledge and expertise of other group members perform better than groups whose members do not
+
+Members of small groups, who are co-located, can initially use surface information to infer rough estimates of “who knows what” (Wegner, 1986), and can then reach greater accuracy in the attribution of expertise to other group members through common experiences (Moreland, Argote & Krishnan, 1998), such as group training (Liang, Moreland & Argote, 1995), and group discussion (Rulke & Rao, 2000).
+
+## Originating author(s)
+Wegner (1986)
+
+## Seminal articles
+Wegner, D. M. (1986). Transactive memory: A contemporary analysis of the group mind. In M. B. & G. G. R. (Eds.), Theories of Group Behavior (pp. 185-205). New York: Springer-Verlag.

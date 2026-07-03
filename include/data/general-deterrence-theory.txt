@@ -1,0 +1,10 @@
+# General deterrence theory
+
+## Concise description of theory
+Schuessler (2009)[1] wrote that General Deterrence Theory (GDT) "posits that individuals can be dissuaded from committing antisocial acts through the use of countermeasures, which include strong disincentives and sanctions relative to the act" (p. 11). He references Straub and Welke (1998) [2] for the foundational work on this subject. Schuessler also noted "Using GDT as a guideline, countermeasures could be put in place to eliminate such a threat or at least mitigate some of the risk should the event occur. Countermeasures such as education and training, backups, reprimands and so on can all serve as tools to eliminate or mitigate such risk. The current research expands this conceptual view of GDT to include other sources of threats such as non-humans threats. In this way, other threats such as natural disasters and technical failures can also be examined. It is believed that this extension is valid because often times, preemptive planning can help to mitigate these threats as well. For example, backups can replace lost data after hardware failure or a natural disaster (p. 12)."
+
+## Originating author(s)
+Straub, D. W., & Welke, R. J.
+
+## Seminal articles
+Straub, D. W., & Welke, R. J. (1998). Coping with systems risk: Security planning models for management decision making. Management Information Systems Quarterly, 22(4), 441.

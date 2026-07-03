@@ -1,0 +1,12 @@
+# Psychological ownership framework
+
+## Concise description of theory
+Appropriation in IS context signifies the way that users take possession of a technology over time. The user can either ignore certain functionalities that the technology provides or inventing new ones contradicting designers or working around certain features of technology. With continued technology use, users identify themselves with the technology and it becomes part of their life. Since, the sense of psychological ownership is similar to technology appropriation behavior, the antecedents and consequences of psychological ownership is used for appropriation of technology. At individual level, psychological ownership and appropriation are theoretically equivalent.
+
+The framework comes up with two propositions. Desires for autonomy or control, pleasure, and security, as well as expectations of enjoyment and satisfaction will motivate the appropriation of a technology. Individual appropriation of a technology will result in increases in: personal and object-related satisfaction, control, social power and status, self-identity, security, extra-role behaviour, job satisfaction, commitment to organization, organizational self-esteem, organizational citizenship, efficacy, and competence.
+
+## Originating author(s)
+James Gaskin, Kalle lyytinen
+
+## Seminal articles
+N/A

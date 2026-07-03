@@ -1,0 +1,50 @@
+# Technology dominance, theory of
+
+## Concise description of theory
+The Theory of Technology Dominance (TTD) posits that a decision maker may become reliant on an intelligent decision aid under two conditions:
+
+The decision maker is low in task experience (see independent factors).
+The decision maker is high in all factors (task experience, task complexity, decision aid familiarity, and cognitive fit).
+
+According to TTD, reliance on an intelligent decision aid can create a long-term, de-skilling effect in the user as well as hinder that user’s growth of knowledge and advancement in his or her domain.  Furthermore, TTD states that a negative relationship exists between the user’s expertise level and the risk of poor decision making when the expertise of the user and intelligent decision aid are mismatched.  When the expertise of the user and the aid are matched, however, a positive relationship exists between reliance on the aid and improved decisions making.
+
+Conceptually, TTD can be divided into three sections which are built on a total of eight testable propositions.  The three sections are:
+
+Section 1:  Addresses the factors that determine the likelihood that a decision maker will rely on an intelligent decision aid.
+
+Section 2:  Addresses the conditions under which a decision maker is vulnerable to being dominated by the intelligent decision aid.
+
+Section 3:  Addresses the long-term impact of intelligent decision aid use on de-skilling domain experts and impeding epistemological evolution.
+
+The eight testable propositions are (Arnold & Sutton, 1998):
+
+Section 1 - Factors influencing reliance
+Proposition 1:  “When users have a low to moderate level of experience, there is a negative relationship between task  experience and reliance on a decision aid."
+Proposition 2:  “There is a positive relationship between task complexity and reliance on a decision aid.”
+Proposition 3:  “When task experience and perceived task complexity are high, there is a positive relationship between decision aid familiarity and reliance on the decision aid.”
+Proposition 4:  “When task experience and perceived task complexity are high, there is a positive relationship between    cognitive  fit and reliance on the decision aid."
+
+Section 2 – Conditions favorable for dominance
+Proposition 5:  “When the expertise of the user and intelligent decision aid are mismatched, there is a negative relationship between the user’s expertise level and the risk of poor decision making."
+Proposition 6:  “When the expertise level of the user and intelligent decision aid are matched, there is a positive relationship between reliance on the aid and improved decisions making."
+
+Section 3 – Long-term effects
+Proposition 7:  “There is a positive relationship between continued use of an intelligent decision aid and the de-skilling of auditors’ abilities for the domain in which the aid is used."
+Proposition 8:  “There is negative relationship between the broad-based, long-term use of an intelligent decision aid in a given problem domain and the growth in knowledge and advancement of the domain.”
+
+## Originating author(s)
+Vicky Arnold and Steve Sutton
+
+## Seminal articles
+Originating Article
+
+Arnold, V., & Sutton, S.G. (1998). The theory of technology dominance: understanding the impact of intelligent decision aids on decision makers' judgments. Advances in Accounting Behavioral Research, 1, 175-194.
+
+Tests of the Theory
+
+Masselli, J. J., Rickets, R. C., Arnold, V., & Sutton, S. G. (2002). The impact of embedded intelligent agents on tax-reporting decisions.  Journal of the American Taxation Association, 24 (2), 60-78. - Tested 5th and 6th propositions of TTD.
+Noga, T., & Arnold, V. (2002). Do tax support systems affect the accuracy of tax compliance decisions? International Journal of Accounting Information Systems, 3, 125-144. - Tested 5th and 6th propositions of TTD.
+Arnold, V., Collier, P. A., Leech, S. A., & Sutton, S. G. (2004). Impact of intelligent decision aids on expert and novice decision-makers' judgments. Accounting and Finance, 44, 1-26. - Tested 5th and 6th propositions of TTD.
+Hampton, C. (2005). Determinants of reliance: an empirical test of the theory of technology dominance. International Journal of Accounting Information Systems, 6, 217-240. - Tested first four propositions of TTD.
+Dowling, C., Leech S.A., Maroney, R. (2006). The deskilling of auditors’ abilities:  An empirical test of the theory of technology dominance. 2nd Asia- Pacific Research Symposium on Accounting Information Systems. - Tested 7th proposition of TTD
+Hunton, J., Arnold, V., & Reck, J.L. Decision aid reliance: a field study involving professional buy-side financial analysts. Contemporary Accounting Research, Forthcoming. – Tested 2nd proposition of TTD

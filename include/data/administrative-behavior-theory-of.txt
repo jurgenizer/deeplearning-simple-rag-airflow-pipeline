@@ -1,0 +1,40 @@
+# Administrative behavior, theory of
+
+## Concise description of theory
+The theory of administrative behaviour is a generic term used to describe the process by which people within organizations work. The theory is credited to Herbert Simon, and in particular to Simon’s findings about how organizations function that run counter to other, classical approached. For example, Simon (1976) clarified the processes by which goal specificity and formalization contribute to rational behavior in organizations. He criticizes Fayol's platitudes and Taylor's "economic man" assumptions, proposing the "administrative man" who pursues his self-interests but often doesn't know what they are, is aware of only some of the possible decision alternatives, and is willing to settle for an adequate solution than continue looking for an optimal one (p. 45).
+
+Participants in high positions make decisions with a higher value component, people in lower positions make decisions with a higher factual component. The top makes "what" decisions, the bottom "how" decisions. Choice of ends can only be validated by fiat or consensus, choice of means empirically.
+
+Each goal in the means-end hierarchy is an end to things below it and a mean to those above it. Activities can only be evaluated against the goals above it. Goals can be delegated to different units which simplifies the decision making process for participants. Scott notes that "from this perspective, an organization's hierarchy can be viewed as a congealed set of means-ends chains promoting consistency of decisions and activities throughout the organization". (p. 46)
+
+Two key concepts, both attributed to Simon, are related to the theory of administrative behavior. The first is the concept of bounded rationality. Bounded rationality notes the cognitive limitations of decision makers. Simon points out in his book, Models of My Life, that most people are only partly rational, and are in fact emotional/irrational in the remaining part of their actions. In other work, he states "boundedly rational agents experience limits in formulating and solving complex problems and in processing (receiving, storing, retrieving, transmitting) information" (Williamson, p. 553, quoting Simon). Simon describes a number of dimensions along which "classical" models of rationality can be made somewhat more realistic, while sticking within the vein of fairly rigorous formalization. These include:
+
+limiting what sorts of utility functions there might be.
+recognizing the costs of gathering and processing information.
+the possibility of having a "vector" or "multi-valued" utility function.
+
+The second concept related to the theory of administrative behaviour is satisficing. Satisficing is a behaviour which attempts to achieve at least some minimum level of a particular variable, but which does not strive to achieve its maximum possible value. The most common application of the concept is in administrative behavior, which, unlike classical economic accounts, postulates that producers treat profit not as a goal to be maximized, but as a constraint. Under these theories, although at least a critical level of profit must be achieved by firms; thereafter, priority is attached to the attainment of other goals.
+
+Sources:
+
+http://faculty.babson.edu/krollag/org_site/encyclop/simon.html
+
+http://en.wikipedia.org/wiki/Satisficing
+
+## Originating author(s)
+Herbert Simon
+
+## Seminal articles
+Williamson, Oliver (1981). "The Economies of Organization: The Transaction Cost Approach". American Journal of Sociology. Vol 87, pp. 548--577 .
+
+Simon, H. A. (1947). Administrative behavior; A study of decision-making processes in administrative organization. New York: Macmillan.
+
+Simon, H. A. (1955). A Behavioral Model of Rational Choice. The Quarterly Journal of Economics, 69(1), 99–118.
+
+Simon, H.A. (1990) A mechanism for social selection and successful altruism, Science 250 (4988): 1665-1668.
+
+Kahneman, D. (2003) Maps of Bounded Rationality: Psychology for Behavioral Economics." The American Economic Review. 93(5). pp. 1449-1475.
+
+H. Simon, "Organizations and markets," Journal of Economic Perspectives, vol. 5, no. 2 (1991), p. 28.
+
+March, James G., and Herbert Simon 1958 Organizations. New York: Wiley.

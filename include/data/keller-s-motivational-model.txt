@@ -1,0 +1,26 @@
+# Kellers Motivational Model
+
+## Concise description of theory
+Originally designed to study how to effectively motivate learning. This theory is grounded in the Expectancy-value theory which purports that perceived success (expectancy) and perceived satisfaction of personal needs (value) drive motivation of an individual to perform an activity. Keller's ARCS Model believes that people will engage in an activity if they believe they will succeed at it and it will satisfy their personal needs. It consists of four factors that create and maintain motivation for learning in people and also strategies to achieve them.
+
+Attention - Need for stimulation & variety - curiosity, boredom, arousal
+
+Relevance - Desire to satisfy basic motives - needs, motives, attractions
+
+Confidence - Desire to feel competent and in control - attributions, expectancies, self-efficacy
+
+Satisfaction - Desire to feel good about oneself - intrinsic motivation, extrinsic incentives, equity
+
+Modified from: [https://sites.google.com/site/motivationataglanceischool/arcs-motivation-model,
+
+http://www.learning-theories.com/kellers-arcs-model-of-motivational-design.html,
+
+http://www.personal.psu.edu/hoh5021/kb/motivation.htm]
+
+## Originating author(s)
+John M. Keller (1979)
+
+## Seminal articles
+Merrill, M. D. (1999). Instructional Transaction Theory (ITT): Instructional Design Based on Knowledge Objects. Instructional-Design Theories and Models: A New Paradigm of Instructional Theory, Vol. II. (pp. 397-424). Mahwah, NJ: Lawrence Erlbaum Associates, Inc.
+
+Keller, J. M., & Suzaki, K. (1988). Use of the ARCS Motivation Model in Courseware Design.  In D. H. Jonassen (Ed.), Instructional Designs for Microcomputer Courseware. Hillsdale, NJ: Lawrence Erlbaum Associates, Inc.

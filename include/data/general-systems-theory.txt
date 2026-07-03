@@ -1,0 +1,36 @@
+# General systems theory
+
+## Concise description of theory
+Systems theory was proposed in the 1936 by the biologist Ludwig von Bertalanffy, and further developed by Ross Ashby. von Bertalanffy was both reacting against reductionism and attempting to revive the unity of science. He emphasized that real systems are open to, and interact with, their environments, and that they can acquire qualitatively new properties through emergence, resulting in continual evolution.
+
+General systems theory is the skeleton of science which aims to provide framework or structure of systems on which flesh and blood of any stream could be hanged. This will enable to create orderly and coherent group of knowledge. It is used to describe a level of theoretical model building which lies in between highly generalized constructions of pure mathematics and specific theories of different specialized disciplines.
+
+It is the contention of the general system theorists that optimum degree of generality in theory is not always reached by the particular Sciences. The objectives of the general systems theory can be set out to provide optimum degree of generality somewhere in between the specific which has no meaning and the general that has no content.
+
+Rather than reducing an entity (e.g. the human body) to the properties of its parts or elements (e.g. organs or cells), systems theory focuses on the arrangement of and relations between the parts which connect them into a whole (cf. holism). This particular organization determines a system, which is independent of the concrete substance of the elements (e.g. particles, cells, transistors, people, etc).
+
+Thus, the same concepts and principles of organization underlie the different disciplines (physics, biology, technology, sociology, etc.), providing a basis for their unification. Systems concepts include: system-environment boundary, input, output, process, state, hierarchy, goal-directedness, and information.
+
+An information system is an example of the interaction of multiple elements as envisioned by GST.
+
+Source: http://pespmc1.vub.ac.be/SYSTHEOR.html
+
+## Originating author(s)
+Ludwig von Bertalanffy
+
+## Seminal articles
+Bertalanffy, L. von, (1934).Untersuchungen über die Gesetzlichkeit des Wachstums. I. Allgemeine Grundlagen der Theorie; mathematische und physiologische Gesetzlichkeiten des Wachstums bei Wassertieren. Arch. Entwicklungsmech., 131:613-652.
+
+Bertalanffy, Ludwig Von (1962). General system theory - A Critical Review. General Systems 7, 1-20.
+
+Boulding, K. (1956). General Systems Theory – The Skeleton of the Science. Management Science, 2(3), 197-208.
+
+Buckley, W. Sociology and Modem Systems Theory; Prentice-Hall, New York, NY, 1966.
+
+Kast, F. E. and Rosenzweig, J. E. (1972) General systems theory: Applications for organizations and management, Academy of Management Journal, 15, 4, pp. 447-465.
+
+Ludwig von Bertalanffy (1968). General System Theory: Foundations, Development, Applications New York: George Braziller
+
+Simon, H. A. (1962) The architecture of complexity, Proceedings of the American Philosophical Society, 106, pp. 467-482.
+
+Gerald M. Weinberg (1975) An Introduction to General Systems Thinking (1975 ed., Wiley-Interscience) (2001 ed. Dorset House).

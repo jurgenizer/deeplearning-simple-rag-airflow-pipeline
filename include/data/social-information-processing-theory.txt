@@ -1,0 +1,18 @@
+# Social Information Processing Theory
+
+## Concise description of theory
+Social information processing(SIP) theory was posited as a formal theory of communication in the context of computer-mediated communication(CMC). SIP explains the evolvement of interpersonal impressions and the modification of relationships through CMC. The theory was developed in the time where online communication interface featured only textual messages and postulated that motivated individuals who want to engage in relationships, can be communicated through CMC as effectively as face-to-face communication. This theory challenged the existing theories where CMC being critiqued for the absence of nonverbal cues. This perspective rooted in the concept of a functional approach to non-verbal cues. This approach examines the substitutability of cues in the communication, more specifically, the function of communication is not entirely tied to the specific combination of verbal and non-verbal cues, but can be functionally interchangeable with verbal cues and achieve the same effectiveness.
+
+Basic assumptions of theory include 1) Humans always want to affiliate and seek social benefits 2) Interpersonal impression were formed based on the interaction between individuals 3) Development of relationship is based on the interpersonal impressions 4) Individuals use verbal and/or non-verbal cues, languages and textual manipulation to interact 5) Communication via CMC might take longer time than Face-to-Face communication to form interpersonal impressions. Based on these assumptions, there are three main propositions postulated by the theory. 1) Development of interpersonal impressions and relational communication among unacquainted interactants takes a longer time in CMC than face-to-face communication as communication via CMC takes a longer time to exchange relevant information. 2) Relational communication will evolve as the number of exchanges between interactants progresses and different in each stage of interaction. 3) Considering sufficient time and message exchanges present between the interactants and all other factors in communication equal, the development of the relationship in the later stages of CMC and face-to-face communication will be the same.
+
+Presently, most of the structural constraints in CMC have been disappeared because of the advent of the multi-modal CMC platforms. This has raised the question regarding the applicability of SIP in the recent CMC context since newer CMC platforms accommodate more non-verbal cues than did CMC when SIP was formulated. But the basic assumptions of the SIP incorporate the idea that it predicts relational communication when interactants have a more restricted channel of language and media richness to achieve social benefits. This would suggest that newer CMC channels offer a significant boundary condition and restrict the scope of SIP theory.
+
+## Originating author(s)
+Joseph B. Walther (1992)
+
+## Seminal articles
+Walther, J. B. (1992). Interpersonal Effects in Computer-Mediated Interaction: A Relational Perspective. Communication Research, 19(1), 52-90 https://doi.org/10.1177/009365092019001003
+
+Walther, J. B. (1994). Anticipated ongoing interaction versus channel effects on relational communication in computer‐mediated interaction. Human Communication Research, 20, 473–501. doi:10.1111/j.1468‐2958. 1994.tb00332.x
+
+Walther, J. B., & Burgoon, J. K. (1992). Relational communication in computer‐mediated interaction. Human Communication Research, 19, 50–88. doi: 10.1111/j.1468‐2958. 1992.tb00295.x

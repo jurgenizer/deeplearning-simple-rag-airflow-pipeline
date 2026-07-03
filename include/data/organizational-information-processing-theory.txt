@@ -1,0 +1,16 @@
+# Organizational information processing theory
+
+## Concise description of theory
+This theory identifies three important concepts: information processing needs, information processing capability, and the fit between the two to obtain optimal performance. Organizations need quality information to cope with environmental uncertainty and improve their decision making. Environmental uncertainty stems from the complexity of the environment and dynamism, or the frequency of changes to various environmental variables.
+
+Typically, organizations have two strategies to cope with uncertainty and increased information needs: (1) develop buffers to reduce the effect of uncertainty, and (2) implement structural mechanisms and information processing capability to enhance the information flow and thereby reduce uncertainty. A classic example of the first strategy is building inventory buffers to reduce the effect of uncertainty in demand or supply; another example is adding extra safety buffers in product design due to uncertainty in product working conditions. An example of the second strategy is the redesign of business processes in organizations and implementation of integrated IS that improve information flow and reduce uncertainty within organizational subunits. A similar strategy is creating better information flow between organizations to address the uncertainties in the supply chain.
+
+Source: Premkumar, G., Ramamurthy, K., & Saunders, C. S. (2005). Information processing view of organizations: An exploratory examination of fit in the context of interorganizational relationships. Journal of Management Information Systems, 22(1), 257-294)
+
+## Originating author(s)
+Galbraith, Jay
+
+## Seminal articles
+Galbraith, J.R. Designing Complex Organizations. Reading. MA: Addison-Wesley, 1973.
+
+Galbraith, J. R. (1974). Organization design: An information processing view. Interfaces, 4(3), 28-36.

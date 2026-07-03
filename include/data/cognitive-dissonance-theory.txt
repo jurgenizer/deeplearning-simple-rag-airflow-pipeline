@@ -1,0 +1,22 @@
+# Cognitive dissonance theory
+
+## Concise description of theory
+Cognitive Dissonance Theory, developed by Leon Festinger (1957), is concerned with the relationships among cognitions. According to cognitive dissonance theory, there is a tendency for individuals to seek consistency among their cognitions (i.e., beliefs, opinions). When there is an inconsistency between attitudes or behaviors (dissonance), something must change to eliminate the dissonance. In the case of a discrepancy between attitudes and behavior, it is most likely that the attitude will change to accommodate the behavior.
+
+Two factors affect the strength of the dissonance: the number of dissonant beliefs, and the importance attached to each belief. There are three ways to eliminate dissonance: (1) reduce the importance of the dissonant beliefs, (2) add more consonant beliefs that outweigh the dissonant beliefs, or (3) change the dissonant beliefs so that they are no longer inconsistent.
+
+Dissonance occurs most often in situations where an individual must choose between two incompatible beliefs or actions. The greatest dissonance is created when the two alternatives are equally attractive. Furthermore, attitude change is more likely in the direction of less incentive since this results in lower dissonance. In this respect, dissonance theory is contradictory to most behavioral theories which would predict greater attitude change with increased incentive (i.e., reinforcement).
+
+Source: http://tip.psychology.org/festinge.html
+
+## Originating author(s)
+Leon Festinger
+
+## Seminal articles
+Festinger, L. A. Theory of Cognitive Dissonance, Stanford University Press, Stanford, CA, 1957.
+
+Festinger, L. and Carlsmith, J. M. "Cognitive Consequences of Forced Compliance", Journal of Abnormal and Social Psychology (58), 1959, pp. 203-210.
+
+Brehm, J. and Cohen, A. Explorations in Cognitive Dissonance, Wiley, New York, 1962.
+
+Wickland, R. and Brehm, J. Perspectives on Cognitive Dissonance. Halsted Press, New York, 1976.

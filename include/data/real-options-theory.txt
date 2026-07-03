@@ -1,0 +1,22 @@
+# Real options theory
+
+## Concise description of theory
+An financial 'option' is a right, but not an obligation, to make an investment decision. A real option is the right, but not the obligation, to undertake some business decision, typically the option to make a capital investment. Real options capture the value of managerial flexibility to adapt decisions in response to unexpected market developments.
+
+Companies create shareholder value by identifying, managing and exercising real options associated with their investment portfolio. The real options method applies financial options theory to quantify the value of management flexibility in a world of uncertainty. If used as a conceptual tool, it allows management to characterize and communicate the strategic value of an investment project. Traditional methods (e.g. net present value) fail to accurately capture the economic value of investments in an environment of widespread uncertainty and rapid change. The real options method represents the new state-of-the-art technique for the valuation and management of strategic investments. There are five types of real options: Waiting-to-Invest option, Growth option, Flexibility option, Exit option and Learning option.
+
+Adapted from: Ulrich Hommel (www.real-options.de)
+
+## Originating author(s)
+Fischer Black and Myron Scholes conducted pioneering work on options pricing
+
+## Seminal articles
+Amram, M. and Kulatilaka, N. (1999). Real Options. Harvard Business School Press.
+
+Black, Fischer and Myron Scholes, "The Pricing of Options and Corporate Liabilities," Journal of Political Economy, 81:3, 1973, pp. 637-654.
+
+Bookstaber, Richard M. Option Pricing and Strategies in Investing, 1981, Addison-Wesley Publishing Company.
+
+Luehrman, T., “Strategy as a Portfolio of Real Options,” Harvard Business Review, 76 (5), 1998, pp. 89-99.
+
+Myers, S.C. (1977) Determinants of Corporate Borrowing. Journal of Financial Economics, vol 5, 147-175.

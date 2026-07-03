@@ -1,0 +1,12 @@
+# Task closure theory
+
+## Concise description of theory
+This theory posits that recipient availability and the perceived social presence (SP) of the medium are key indicators in the choice of a communication medium in addition to task and media characteristics. The theory proposes that these characteristics are important in choosing communications media because humans feel the need to bring closure to a communications sequence and will highly motivated to choose the media that will allow them to feel that they have done this. Additionally, selecting media that leads to task closure will lead to lower levels of task fragmentation and job stress. This, in turn, will lead to higher productivity levels.
+
+For example, when using a telephone as the medium, the task has been brought to closure when the sender delivers his or her message to either the receiver, or the receiver’s voice mail. When using e-mail, the sender has brought closure to the task when he or she presses the “send” button. Note that this theory bases its choices on the ability to bring closure and the social presence, not richness of the media. So unlike Media Richness Theory, face-to-face media is on the low end of the spectrum of choices because it depends on the recipient being available to bring closure to the communication. Another noteworthy item is that much of the research literature using this theory uses task closure and media selection not as variables that mediate the levels of job stress and task fragmentation, but as dependent variables.
+
+## Originating author(s)
+Detmar Straub and Elena Karahanna
+
+## Seminal articles
+Straub, Detmar, and Karahanna, Elena (1998). "Knowledge Worker Communications and Recipient Availability: Toward a Task Closure Explanation of Media Choice," Organization Science, Vol. 9, No. 2, pp. 1047-7039.

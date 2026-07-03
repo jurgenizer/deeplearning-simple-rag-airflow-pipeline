@@ -1,0 +1,27 @@
+# Technology affordances and constraints theory
+
+## Concise description of theory
+N/A
+
+## Originating author(s)
+Ann Majchrzak
+Lynne Markus
+
+## Seminal articles
+"Technology Affordances and Constraints in Management Theory." Organizational Sciences, 25(1), 165-186.  By Ann Majchrzak (University of Southern California - Marshall School of Business) and M. Lynne Markus (Bentley University)
+
+Although not labeled as "TACT," several earlier works significantly influenced its development by Majchrzak and Markus:
+Gibson, J. J. (1979). The theory of affordances. In The people, place, and space reader (pp. 56-60). Routledge.
+[Originated the concept of “affordances” in ecological psychology]
+
+Norman, D. A. (1988). The psychology of everyday things. Basic books.
+[Adapted affordances to human-computer interaction, emphasizing perceived affordances]
+
+Orlikowski, W. J. (1992). The duality of technology: Rethinking the concept of technology in organizations. Organization science, 3(3), 398-427.
+[Influential in showing how technology and human action are mutually constitutive]
+
+Zammuto, R. F., Griffith, T. L., Majchrzak, A., Dougherty, D. J., & Faraj, S. (2007). Information technology and the changing fabric of organization. Organization science, 18(5), 749-762.
+[A critical precursor, framing the groundwork for TACT by addressing affordances explicitly.]
+
+Markus, M. L., & Silver, M. S. (2008). A foundation for the study of IT effects: A new look at DeSanctis and Poole's concepts of structural features and spirit. Journal of the Association for Information systems, 9(10), 5.
+[Bridged sociotechnical perspectives with a focus on materiality and use]

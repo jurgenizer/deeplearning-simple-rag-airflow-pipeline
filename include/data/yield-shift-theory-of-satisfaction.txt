@@ -1,0 +1,32 @@
+# Yield shift theory of satisfaction
+
+## Concise description of theory
+Individuals may hold many goals, ranging from fundamental goals like drawing breath to esoteric goals like scientific discovery or self-actualization.  Human cognitive resources are limited, and so cannot assess all of an individual's goals simultaneously. The set of goals currently being processed by the subconscious is called the activity goal set.  Yield Shift Theory draws on five assumptions and two propositions to argue that satisfaction responses are a function of perceived shifts in yield for the active goal set.  For the logic by which the propositions of Yield Shift Theory were derived, see (Briggs, Reinig, and Vreede, 2008).
+
+Yield Shift Theory begins with the following assumptions:
+
+Assumption 1: Automatic Utility Assessment.  A cognitive mechanism automatically and subconsciously ascribes some level of utility to attaining a given active goal.
+
+Assumption 2:  Automatic Likelihood Assessment. A cognitive mechanism automatically and subconsciously assesses the likelihood that an active goal may be attained.
+Assumption 3:  Automatic Yield Assessment.  A cognitive mechanism automatically and subconsciously generates a perception of yield for an active goal based on the utility ascribed to it, but reduced in inverse proportion to the likelihood assessed for attaining the goal.
+
+Reasoning from Assumptions 1, 2 and 3, YST proposes that:
+
+Proposition 1:  Perceived Yield.  At a given moment, the Yield an individual subconsciously perceives for a given goal is a multiplicative function of the utility ascribed to the goal and the assessed likelihood of attaining it.
+
+Assumption 3 and Proposition 1 are closely related.  Assumption 3 posits a cognitive mechanism that performs a certain function.  Proposition 1 proposes a cause and effect relationship among constructs that would follow if the assumptions about the underlying mechanisms hold.  Without the underlying assumptions, there would be no basis for proposing that likelihood moderates a causal relationship between Utility and Yield, nor that the posited relationship would have to be multiplicative.
+
+Yield Shift Theory further assumes that:
+
+Assumption 4:  Yield Shift Detection.  An automatic, subconscious, cognitive mechanism detects the magnitude and direction of changes in yield for the active goal set.
+Assumption 5:  Affective Response to Shifts in Yield. The detection of a shift in yield for the active goal set triggers an affective arousal proportional to the magnitude of the shift in yield, and with a valence in the direction of the shift.
+
+While the magnitude of shifts in yield may be boundless, human physiological and affective responses are bounded.  There may be a ceiling, therefore, on the magnitude of affective arousal an individual can experience.  Thus, beyond some level of arousal, incremental increases in magnitude of yield shift would give rise to smaller and smaller increases in affective arousal.  The relationship between shifts in yield perception and the magnitude of the satisfaction response would thus have to be curvilinear rather than purely linear.  Therefore, YST proposes:
+
+Proposition 2:  Satisfaction Response as a Function of Yield Shift.  The magnitude of the satisfaction response is a curvilinear function with a positive but decreasing slope of the absolute value of a yield shift for the active goal set.  The valence of the satisfaction response is equivalent to the sign or direction of the yield shift.
+
+## Originating author(s)
+Robert o. Briggs, Bruce A. Reinig, and Gert-Jan de Vreede
+
+## Seminal articles
+N/A

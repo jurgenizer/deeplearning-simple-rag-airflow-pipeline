@@ -1,0 +1,28 @@
+# Cognitive load theory
+
+## Concise description of theory
+Cognitive load theory was most extensively developed by John Sweller (1988) as part of his research on problem solving.  The theory proposes that learning can be enhanced by presentation of information.  The theory assumes a limited working memory and a virtually unlimited long-term memory.  Schemas, which categorize information by the manner in which it will be used, are acquired over time and repeated exposure to related problems, are automated as rules, and stored in the long-term memory for recall when needed.  Although working memory is shown to only process a limited number of items at a time (approximately seven), it treats schemas – which may be incredibly detailed and complex and represent a large body of information—as one item.   Thus, structuring information so that the learner can quickly develop schemas and automated rules to store in the long term memory enhances knowledge acquisition and performance.
+
+There are several specific effects and techniques that contribute to cognitive load and the subject’s ability to acquire schemas and automations.  Sweller’s earliest work focused on the best method of presenting problems and examined means-end analysis, goal-free problems, worked examples, and completion problems.  He also examined the Split-Attention effect (multiple sources of information presented that must be integrated before being used causing extrinsic cognitive load); the Modality effect (information presented in auditory and visual manner increases working memory); the Redundancy effect (multiple sources of self-contained material that can be understood in isolation increases cognitive load); and the Variability effect (variability over problems increases acquisition of schemas – high variability increases germane cognitive load)
+
+“The ease with which information may be processed in working memory is a prime concern of cognitive load theory.  Working memory load may be affected either by the intrinsic nature of the material (intrinsic cognitive load), or alternatively, by the manner in which the material is presented, or the activities required of students (extraneous cognitive load).  Intrinsic cognitive load cannot be altered by instructional interventions…whereas extraneous cognitive load is unnecessary cognitive load and can be altered…A further distinction can be made between extraneous cognitive load and germane cognitive load.  Although both can be altered by instructional interventions, extraneous cognitive load reflects the effort required to process poorly designed instruction, whereas germane cognitive load reflects the effort that contributes to the construction of schemas.  Appropriate instructional designs decrease extraneous cognitive load but increase germane cognitive load.” [Sweller, van Merrienboer, and Paas, 1998]
+
+“Once a schema has been constructed, the interacting elements are incorporated within the schema and do not need to be considered individually within working memory.  The schema can act as a single element in working memory and will impose minimal working memory demands, especially if it is automated….once constructed, this schema can act as an interacting element in higher order schemas.” [Sweller, van Merrienboer, and Paas, 1998]
+
+## Originating author(s)
+John Sweller
+
+## Seminal articles
+Sweller, J. (1988). Cognitive Load During Problem Solving: Effects on Learning. Cognitive Science, 12, 257-285.
+
+Sweller, J. (1989). Cognitive Technology: Some Procedures for Facilitating Learning and Problem Solving in Mathematics and Science. Journal of Educational Psychology, 81 (4), 457-466.
+
+Sweller, J. (1993).  Some Cognitive Processes and Their Consequences for the Organisation and Presentation of Information.  Australian Journal of Psychology, 45, 1-8.
+
+Sweller, J. & Chandler, P. (1991). Evidence for Cognitive Load Theory. Cognition and Instruction, 8 (4), 351-362.
+
+Sweller, J., Chandler, P., Tierney, P., & Cooper, M. (1990).  Cognitive Load and Selective Attention as Factors in the Structuring of Technical Material.  Journal of Experimental Psychology, 119, 176-192.
+
+Sweller, J. & Cooper, G. A. (1985). The Use of Worked Examples as a Substitute for Problem Solving in Learning Algebra. Cognition and Instruction, 2 (1), 59-89.
+
+Sweller, J., van Merrienboer, J. J., & Paas, F. G. (1998). Cognitive Architecture and Instructional Design. Educational Psychology Review, 10 (3), 251-296.

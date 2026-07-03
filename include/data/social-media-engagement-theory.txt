@@ -1,0 +1,14 @@
+# Social media engagement theory
+
+## Concise description of theory
+SME theory draws from the idea that social media acts as a transparent means of communication among users who are temporally and geographically separated. The central premise of the theory is that higher user engagement leads to greater usage of social media platforms. The greater usage of the social media platforms leads to co-creation of value by its users. The individual involvement and personal meaning are identified as important psychological components of user engagement.
+
+The level of social interactions among users and technical features of the platform creates user experience which determines the level of user engagement. The social interactions can be captured using different dimensions like personalization, social accessibility, critical mass, perceived risk and transparency. The technical features can be captured by completeness, flexibility, evolvability and integration. The theory hypothesizes that all dimensions except perceived risk positively influences user engagement.
+
+The practical significance of this theory can be realized by considering the example of Facebook. It has been tremendously successful due to its ability to provide users with access to information at any level of specificity while introducing new features and experiences. It allows third-party developers to create applications to introduce new opportunities for users. These actions of Facebook, introduce new ways in which users can become actively involved in Facebook rather than passive users.
+
+## Originating author(s)
+Di Gangi P.M and Wasko M.M
+
+## Seminal articles
+N/A

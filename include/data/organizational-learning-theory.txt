@@ -1,0 +1,32 @@
+# Organizational learning theory
+
+## Concise description of theory
+Organizational learning theory states that, in order to be competitive in a changing environment, organizations must change their goals and actions to reach those goals.  In order for learning to occur, however, the firm must make a conscious decision to change actions in response to a change in circumstances, must consciously link action to outcome, and must remember the outcome.  Organizational learning has many similarities to psychology and cognitive research because the initial learning takes place at the individual level: however, it does not become organizational learning until the information is shared, stored in organizational memory in such a way that it may be transmitted and accessed, and used for organizational goals.
+
+The first part of the learning process involves data acquisition.  A firm acquires a “memory” of valid action-outcome links, the environmental conditions under which they are valid, the probabilities of the outcomes, and the uncertainty around that probability.  The links are continually updated overtime, either through additions, rejections based on new evidence, or strengthening/expanding the links from confirmatory evidence.  There are many ways to acquire these links, including experiential, experimental, benchmarking, grafting, and so forth, but they must be a conscious effort to discover, confirm, or utilize a cause and effect, or they are simply blind actions relying on chance for success.  A critical point is that firm actions will – and must – change in response to changes in the environment, as each action-outcome link must be specified in terms of applicable conditions.  Successful firms, then, scan their environment for signs of change, real or anticipated, to determine when change is necessary:  this, of course, presupposes that they (a) have learned which are the important indicators to scan and (b) have learned what degree of change in environmental indicator does or does not require change in actions.
+
+The second part of the process is interpretation.  Organizations continually compare actual to expected results to update or add to their “memory”.  Unexpected results must be assessed for causation, actions adapted or new action-outcome links specified if necessary, and learning increased.  This stage does not imply that any action is taken.  This is also one of the major debates in this theory:  some theorists insist that action is not necessary for learning to have taken place (all that is required is for expansion of the knowledge base or change in understanding) while others insist that unless actions change, there is no learning.
+
+Consequently, the third stage is adaptation/action.  This is when the firm takes the interpreted knowledge and uses it to select new action-outcome links appropriate to the new environmental conditions.  The main point here is that this is a process of continual adaptation to environmental conditions (internal, external, competitors, state of technology, etc) and will be affected to a large extent by the complexity and dynamism the firm experiences.  Once adaptation has occurred, the firm’s knowledge base is updated to include the new action-outcome link, probabilities, uncertainty, and applicable conditions and the process continues.  This feedback is a continual and iterative process, and occurs at all stages of the process.
+
+## Originating author(s)
+The germs of the concept can be found in Weick (1979) The Social Psychology of Organizing and Cyert and March (1963) A Behavioral Theory of the Firm.  Cangelosi and Dill (1964), Duncan and Weiss (1979), Argyris (1976, 1977, 1979a, 1979b), Daft and Weick (1984), and Levitt and March (1988) have all expanded, clarified, or contributed to the theory.
+
+## Seminal articles
+Argyris, C. 1967. "Today's Problems with Tomorrow's Organization," Journal of Management Studies (4:1), pp. 31-55.
+
+———. 1976. "Single-Loop and Double-Loop Models in Research on Decision Making," Administrative Science Quarterly (21:3), Sep., pp. 363-375.
+
+_____. 1977. "Double Loop Learning in Organizations," Harvard Business Review (55:5), Sep, pp. 115-125.
+
+Cangelosi, V. E., and W. R. Dill. 1965. "Organizational Learning: Observations Toward a Theory," Administrative Science Quarterly (10:2), Sep., pp. 175-203.
+
+Daft, R. L., and K. E. Weick. 1984. "Toward a Model of Organizations as Interpretation Systems," The Academy of Management Review (9:2), Apr., pp. 284-295.
+
+Duncan, R., and Weiss, A.  1979. “Organizational  Learning:  Implications for Organizational Design,”  Research in Organizational Behavior (1), pp. 75-123.
+
+Fiol, C. M., and M. A. Lyles. 1985. "Organizational Learning," The Academy of Management Review (10:4), Oct., pp. 803-813.
+
+Huber, G. P. 1991. "Organizational Learning: The Contributing Processes and the Literatures," Organization Science (2:1, Special Issue: Organizational Learning: Papers in Honor of (and by) James G. March), pp. 88-115.
+
+Levitt, B., and J. G. March. 1988. "Organizational Learning," Annual Review of Sociology (14), pp. 319-340.

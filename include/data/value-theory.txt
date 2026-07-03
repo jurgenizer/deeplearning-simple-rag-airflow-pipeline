@@ -1,0 +1,10 @@
+# ValueTheory
+
+## Concise description of theory
+Value Theory holds that individuals judge and attach different values to a particular object based on its capability of satisfying a given need. It involves the degree to which humans value a particular thing or an object and accordingly posit importance on the same (“Value theory,” 2022). Individuals attach different ‘values’ based on ‘private’ and not ‘public’ scales. As such, for the same item, two individuals need not agree on the same value at the same instant of time (Harper, 1979). In Information Systems, Value Theory finds application in usability of a system and accepting a system usage based on valuing its importance. For example, individuals pose different importance to systems characteristics such as reliability, speed or efficiency (Phang et al. , 2009). Value theory also finds application in e-learning and online community platforms as it affects an individual’s intention to utilize user generated data ( Ray et al , 2021). In broader application, Information System personnel also attach different values to an organization and accordingly has an effect on their professional career changes ( Chang et al ., 2011).
+
+## Originating author(s)
+Adam Smith ( 18th century , in economics sense)
+
+## Seminal articles
+Harper, F. A., (1979),The Writings of F. A. Harper Volume 2: Shorter Essays,' An Introduction to Value Theory', California : Institute for Humane Studies, Inc

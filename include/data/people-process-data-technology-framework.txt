@@ -1,0 +1,12 @@
+# People-Process-Data-Technology Framework
+
+## Concise description of theory
+People-Process-Data-Technology (2PDT) is a system development framework that aims to understand the factors required for effective system development. It was initially proposed by Monshizada et al. (2021) and examined in the development of Artificial Intelligence (AI) systems. It has since been available for use.
+
+Justified by its agility, rigour, dynamicity, and completeness, the 2PDT provides an effective framework that supports and improves development of systems. The agility comes from the expectation that the 2PDT can be easily integrated into existing organisational settings for developing systems. The rigour is provided by following an accepted research design. Dynamicity is provided with continuous improvement being an important part of the framework to make it inherently adaptable to cope with change and progress made in the system development domain. Finally, the completeness comes from bringing together a combination of existing theory and data collected from case studies to conceptualise the framework.
+
+## Originating author(s)
+Monshizada S., Sarbazhosseini H. & Mohammadian M.
+
+## Seminal articles
+N/A

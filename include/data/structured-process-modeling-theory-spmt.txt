@@ -1,0 +1,20 @@
+# Structured process modeling theory (SPMT)
+
+## Concise description of theory
+The Structured Process Modeling Theory was developed by Jan Claes (2014) [1]. The theory proposes that constructing process models is more effective and more efficient if the modeler applies a (1) sequencing technique, (2) that is structured and (3) that  Sequencing is a cognitive technique to divide tasks into subtasks that are executed consecutively rather than simultaneously, and it is aimed at lowering the instantaneous cognitive load. Structured sequencing is when this sequencing happens with a consistent strategy. Third, the theory identifies three cognitive characteristics of a modeler that determine whether a structured sequencing technique fits with the modelers profile. There is the learning style of a modeler, which can be sequential (in consectuive parts) or global (in bits and pieces); the field-dependency, which denotes how bad the modeler is in abstracting; and the need for structure, which describes how much a modeler reacts to missing structure and how much (s)he desires structure while processing information.
+
+The theory was built as part of a research stream that aims to develop a structured process modeling method. The research started as a curiosity-driven explorative research [2] with collecting observations about how people construct process models and about the relation between the modeling approach and the resulting process model. During the researsch, a visualization for the collected data was developed as a cognitive effective supporting research instrument [3]. Based on the data and supported by the visualization, observations and impressions about the relation between the applied modeling technique and its results were collected (i.e., through induction). The SPMT was then built as an explanatory theory to explain these bottom-up observations and impressions (i.e., through abduction and deduction) [1].
+
+Sources:
+
+[1] Claes, J., Vanderfeesten, I., Gailly, F., Grefen, P., Poels, G. (2015) The Structured Process Modeling Theory (SPMT) - A cognitive view on why and how modelers benefit from structuring the process of process modeling, Information Systems Frontiers, 17 (6), p. 1401-1425
+
+[2] Claes, J., Vanderfeesten, I., Reijers, H.A., Pinggera, J., Weidlich, M., Zugal, S., Fahland, D., Weber, B., Mendling, J., Poels, G. (2012) Tying Process Model Quality to the Modeling Process: The Impact of Structuring, Movement, and Speed, Business Process Management Conference, LNCS 7481, p. 33-48
+
+[3] Claes, J., Vanderfeesten, I., Pinggera, J., Reijers, H.A., Weber, B., Poels, G. (2014) A visual analysis of the process of process modeling, Information Systems and e-Business Management, Vol 13 (1), p. 147-190
+
+## Originating author(s)
+Jan Claes, Irene Vanderfeesten, Frederik Gailly, Paul Grefen, Geert Poels
+
+## Seminal articles
+Claes, J., Vanderfeesten, I., Gailly, F., Grefen, P., Poels, G. (2015) The Structured Process Modeling Theory (SPMT) - A cognitive view on why and how modelers benefit from structuring the process of process modeling, Information Systems Frontiers, 17 (6), p. 1401-1425

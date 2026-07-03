@@ -1,0 +1,18 @@
+# Behavioral decision theory
+
+## Concise description of theory
+BDT is a descriptive theory of human decision making. It starts with a traditional, normative theory of rational decision making, e.g., Bayesian decision making. It then tries to understand and incorporate actual decision making patterns of humans, e.g., underweighting or overweighting of probabilities, decision or choice framing, choosing to "satisfice," etc., to describe actual decision making tendencies. These tendencies, once understood, can then be addressed, e.g., by designing and intervening with appropriate decision support systems.
+
+## Originating author(s)
+Herbert Simon, James G. March
+
+## Seminal articles
+Simon, H. A. (1959). "Theories of Decision Making in Economics and Behavioral Science." American Economic Review 49(1): 253-283.
+
+Simon, H. A. (1969). "A Behavioral Model of Rational Choice." Quarterly Journal of Economics 69(1): 99.
+
+Elam, J., Jarvenpaa, S., & Schkade, D. (1992). Behavioral Decision Theory and DSS: New Opportunities for Collaborative Research. In T. Stohr & B. R. Konsynski (Eds.), Information Systems and Decision Processes (pp. 51-74). Los Alimotos, CA: IEEE Computer Science press.
+
+Todd, P. and I. Benbasat (1994). "The Influence of Decision Aids on Choice Strategies: An Experimental Analysis of The Role of Cognitive Effort." Organizational Behavior and Human Decision Processes 60(1): 36-74.
+
+Swait, J. and W. Adamowicz (2001). "Choice environment, market complexity, and consumer behavior: A theoretical and empirical approach for incorporating decision complexity into models of consumer choice." Organizational Behavior and Human Decision Processes 86(2): 141-167.

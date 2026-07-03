@@ -1,0 +1,32 @@
+# Structuration theory
+
+## Concise description of theory
+In a number of articles in the late 1970s and early 1980s, culminating in the publication of The Constitution of Society in 1984, British sociologist Anthony Giddens developed the theory of structuration, which addressed fundamental problems in the social sciences in a way that was unconventional at the time. Moreover, he provided an account of the constitution of social life that departed from and challenged established theoretical positions and traditions (Cohen 1989). Structuration theory drew significant attention, and numerous books and papers promptly emerged discussing, scrutinizing, supporting or criticizing Giddens’s ideas. A number of comprehensive and authoritative texts on the topic already exist (e.g. Cohen 1989; Giddens 1976, 1984, 1989, 1990; Giddens and Pierson 1998; Held and Thompson 1989).
+
+The duality of structure: The relationship between agency and structure is among the most pervasive and difficult issues in social theory. How are actions of individual agents related to the structural features of society? How are actions structured in everyday contexts? How are the structured features of actions reproduced? To examine the dualism between structure and agency, Giddens departed from the conceptualization of structure as some given or external form. Structure is what gives form and shape to social life, but it is not itself the form and shape. Structure exists only in and through the activities of human agents (Giddens 1989: 256). Similarly, he departed from the idea of agency as something just ‘contained’ within the individual. Agency does not refer to people’s intentions in doing things but rather to the flow or pattern of people’s actions. Giddens deeply reformulated the notions of structure and agency, emphasizing that ‘action, which has strongly routinized aspects, is both conditioned by existing cultural structures and also creates and recreates those structures through the enactment process’ (Walsham 1993: 34). He suggested that while structural properties of societies and social systems are real, they have no physical existence. Instead, they depend upon regularities of social reproduction (Giddens and Pierson 1998). As a consequence, the basic domain of study in the social sciences consists of social practices ordered across space and time (Giddens 1984: 2).
+
+Structuration theory and information technology: Structuration theory is a general theory of the social sciences; in its original formulation, ST pays little attention to technology (Jones 1997). However, given the pervasiveness of technology in organizations’ everyday operations, and especially the role of information technology in the process of enactment and reality construction in contemporary organizations, some attempts have been made to extend Giddens’s ideas by including an explicit IT dimension in social analysis (Walsham 1993, 2002). As a result of such attempts, structurationist analyses have helped to increase our understanding of important IT-based contemporary phenomena. Some recent examples are studies on electronic trading and work transformation in the London insurance market (Barrett and Walsham 1999); globalization issues and IT deployment in India and Britain (Nicholson and Sahay 2001; Walsham and Sahay 1999); the dynamics of groupware application (Ngwenyama 1998); communication and collaboration using IT (Olesen and Myers 1999); global virtual team dynamics and effectiveness (Maznevski and Chudoba 2000); and crosscultural software production and use (Walsham 2002).
+
+Source: Pozzebon, Marlei & Pinsonneault, Alain. “Challenges in Conducting Empirical Work Using Structuration Theory: Learning from IT Research”, Organization Studies, 26 (9), pp.1353-1376, 2005.
+
+## Originating author(s)
+Anthony Giddens
+
+## Seminal articles
+Cohen, I.J. (1989). Structuration Theory: Anthony Giddens and the Constitution of Social Life. St Martin’s Press, New York, 1989.
+
+Giddens, A. (1976). New Rules of Sociological Method, Basic Books, Hutchinson/New York.
+
+Giddens, A. (1979). Central Problems in Social Theory. London: Macmillan.
+
+Giddens, A. (1981). Agency, Institution, and Time-Space Analysis. In: Advances in Social Theory and Methodology. Toward An Integration of Micro- and Macro-Sociologies. Knorr-Cetina, K. and Cicourel, A.V. (Eds.). Routledge & Kegan Paul, Boston.
+
+Giddens, A. (1984). The Constitution of Society. University of California Press, Berkeley.
+
+Giddens, A. (1990). The Consequences of Modernity, Standford University Press, Standford.
+
+Giddens, A. and Pierson, C. (1998). Conversations with Anthony Giddens – Making Sense of Modernity. Polity Press, Cambridge.
+
+Held, D. and Thompson, J.B. (1989) Social Theory of Modern Societies, Anthony Giddens and his Critics. Cambridge University Press, Cambridge.
+
+Turner, J.H. (1991). Structuration Theory. In The Structure of Sociological Theory, Giddens, A., Wadsworth.

@@ -1,0 +1,12 @@
+# Process virtualization theory
+
+## Concise description of theory
+In our increasingly virtual society, more and more processes that have traditionally been conducted via physical mechanisms are being conducted virtually. This phenomenon of "process virtualization" is happening in many contexts, including formal education (via distance learning), shopping (via electronic commerce), and friendship development (via social networking sites and virtual worlds). However, some processes are more amenable to virtualization than others. For example, distance learning seems to work better for some educational processes than others, and electronic commerce has worked well for some shopping processes but not for others. These observations motivate the following question: What factors affect the "virtualizability" of a process? This question is becoming increasingly important as advances in information technology create the potential for society to virtualize more and more processes. The purpose of "process virtualization theory" is to provide a general theoretical basis for investigating this question. Process virtualization theory includes four main constructs (sensory requirements, relationship requirements, synchronism requirements, and identification and control requirements) that affect whether a process is amenable or resistant to being conducted virtually. Recognizing that processes can be virtualized with or without the use of information technology, process virtualization theory makes explicit the theoretical significance of information technology in process virtualization by discussing the moderating effects of representation, reach, and monitoring capability. This helps explain how advances in information technology are enabling a new generation of virtual processes.
+
+- Summary adapted from Overby, E.M. 2008. "Process Virtualization Theory and the Impact of Information Technology," Organization Science (19:2), March-April, pp. 277-291.
+
+## Originating author(s)
+Eric Overby
+
+## Seminal articles
+Overby, E.M. 2008. "Process Virtualization Theory and the Impact of Information Technology," Organization Science (19:2), March-April, pp. 277-291.

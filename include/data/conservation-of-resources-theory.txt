@@ -1,0 +1,27 @@
+# Conservation of resources theory
+
+## Concise description of theory
+Conservation of resources theory is a stress theory that revolves around individuals’ motivation to protect the available resources and acquire new resources. Individuals conserve and acquire the resources they value. Such resources may include objects, personal characteristics, states, conditions etc.
+
+There are two basic principles of the theory. They are: primacy of resource loss and resource investment. Primacy of resource loss states that it is  psychologically harmful for individuals to lose resources than it is helpful for them to gain the lost resources back. The principle of resource investment explains that people invest resources in order to protect against resource loss, to recover from resource loss and to gain resources. This is a complex process that involves many psychological factors.
+
+The theory suggests four corollaries of the resource investment process to understand its complexity. Corollary 1 states that individuals with resources are in a better position to invest those resources. Corollary 2 states that resource loss at an initial stage leads to resource loss at a later stage. Corollary 3 states that resource gains at an initial stage lead to resource gains at a later stage. Corollary 4 states that as individuals lose resources, they try to protect the remaining resources.
+
+Individuals that strive to acquire and build resources experience strain when such resources are lost or when investment of such resources leads to failure of gain. Such loss threats and failures of gain (after resource investment) are viewed as demands in the theory.
+
+## Originating author(s)
+Stevan E. Hobfoll
+
+## Seminal articles
+Hobfoll, S. E. (1989). Conservation of resources: A new attempt at conceptualizing stress.	 American Psychologist, 44(3), 513–524. [1]
+
+Hobfoll, S.E., Jackson, A.P. Conservation of resources in community intervention. Am J	Commun Psychol 19, 111–121 (1991). [2]
+
+Hobfoll, S. E. 1988. The ecology of stress. New York: Hemisphere.
+
+Hobfoll, S.E. and Lilly, R.S. (1993), Resource conservation as a strategy for
+community psychology. J. Community Psychol., 21: 128-148. doi:10.1002/1520-6629(199304)21:2<128::AID-JCOP2290210206>3.0.CO;2-5
+
+Hobfoll, S. E. 2001a. The influence of culture, community, and the nested self in the stress	process: Advancing conservation of resources theory. Applied Psychology: An	International Review, 50: 337-370.
+
+Hobfoll, S. E. 2001b. Conservation of resources: A rejoinder to the commentaries.	Applied Psychology: An International Review, 50: 419-421.

@@ -1,0 +1,22 @@
+# Media richness theory
+
+## Concise description of theory
+The first assumption of this theory is that organizations process information to reduce uncertainty and equivocality (Daft and Lengel 1986). Uncertainty is defined by Galbraith (1977) as “the difference between the amount of information required to perform the task and the amount of information already possessed by the organization.” Equivocality is defined as the ambiguity of the task, caused by conflicting interpretations about a group situation or environment. Therefore, when equivocality is high, an individual does not know what questions to ask and when uncertainty is high the group knows the question but lacks the necessary information. In conclusion, as information increases, uncertainty and equivocality decrease.
+
+The second assumption of this theory is commonly used media in organizations works better for certain tasks than others. Specifically, Daft and Lengel (1984) concluded that written media was preferred for unequivocal messages while face-to-face media was preferred for messages containing equivocality.
+
+Daft, Lengel, and Trevino (1987) present a media richness hierarchy which incorporates four media classifications; face-to-face, telephone, addressed documents, and unaddressed documents. The richness of each media is based on four criteria; feedback, multiple cues, language variety, and personal focus. The richest communication medium is face-to-face meetings followed by telephone, e- mail, and memos and letters (Rice and Shook 1990).
+
+## Originating author(s)
+Daft, R.L. & Lengel, R.H.
+
+## Seminal articles
+Daft, R. L., and Lengel, R. H. “Information Richness: A New Approach to Managerial Behavior and Organizational Design,” in Research in Organizational Behavior, L. L. Cummings and B. M. Staw (eds.), JAI Press, Homewood, IL, 1984, pp. 191-233.
+
+Daft, R. L., and Lengel, R. H. “Organizational Information Requirements, Media Richness and Structural Design,” Management Science (32:5), 1986, pp. 554-571.
+
+Daft, R. L., Lengel, R. H., and Trevino, L. K. “Message Equivocality, Media Selection, and Manager Performance: Implications for Information Systems,” MIS Quarterly (11:3), 1987, pp. 355-366.
+
+Galbraith, J. Organization Design, Addison-Wesley, Reading, MA, 1977.
+
+Rice, R., and Shook, D. “Relationships of Job Categories and Organizational Levels to Use of Communication Channels, Including Electronic Mail: A Meta-Analysis and Extension,” Journal of Management Studies (27:2), 1990, 195-229.

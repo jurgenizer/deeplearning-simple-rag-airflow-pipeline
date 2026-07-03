@@ -1,0 +1,24 @@
+# Equity theory
+
+## Concise description of theory
+Equity Theory focuses upon a person’s perceptions of fairness with respect to a relationship. During a social exchange, an individual assesses the ratio of what is output from the relationship to what is input in the relationship, and also the ratio of what the other person in the relationship outputs from the relationship to what is input into the relationship.
+
+Equity Theory posits that if the person perceives that there is inequality, where either their output/input ratio is less than or greater than what they perceive as the output/input ratio of the other person in the relationship, then the person is likely to be distressed.
+
+For example, consider two situations in which change is presented to two employees. If an employee was given a salary increase and a peer was seen as being given a larger increase in salary for the same amount of work, the first employee would evaluate this change, perceive an inequality, and be distressed. However, if the situation was such that the first employee perceived the other employee being given a larger increase in salary as well as being given more responsibility and therefore relatively more work, then the first employee may evaluate the change, conclude that there was no loss in equality status, and not resist the change.
+
+This theory may be used for both explanation and prediction.
+
+## Originating author(s)
+J. Stacy Adams
+
+## Seminal articles
+Adams, J.S. (1963) “Towards An Understanding of Inequality.” Journal of Abnormal and Normal Social Psychology. (67), pp. 422-436.
+
+Adams, J.S. (1965) “Inequality in Social Exchange” in Advances in Experimental Psychology, L. Berkowitz (ed.), Academic Press, New York, NY. pp. 267-299.
+
+Homans, G.C. (1961) Social Behavior: Its Elementary Forms. Harcourt, New York.
+
+Walster, E. E. Berscheid and G. W. Walster. (1973). “New Directions in Equity Research.” Journal of Personality and Social Psychology. pp. 151-176.
+
+Huseman, R., Hatfield, J., and Miles, E. “A New Perspective on Equity Theory: The Equity Sensitivity Construct. Academy of Management Review. 1987. 12(2). pp. 232-234.

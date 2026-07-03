@@ -1,0 +1,24 @@
+# CYNEFIN framework
+
+## Concise description of theory
+The Cynefin Framework was created in 1999 by Dave Snowden when he worked for IBM Global Services. Cynefin framework is a decision-making approach which draws its strength from:
+
+Systems theory: is a multidisciplinary field that studies how systems interact with their environment and with other systems
+Complexity theory: is a branch of systems theory that focuses on how complex systems emerge from simple interactions among agents
+Network theory: is a mathematical field that analyses how networks are structured and function
+Learning theory: this theory could be any about one or more psychological theories that explain how humans acquire and process knowledge. The primary five categories in learning from which any learning theory is drawn upon are: Cognitive Learning, Behaviorism Learning, Constructivism Learning, Humanism Learning, Connectivism Learning
+
+Above four theories (system, complexity, network, learning theory) help explain how systems behave and evolve under different conditions of order and disorder.
+
+The Cynefin framework uses these theories to categorize situations into different domains based on their level of complexity and predictability.
+
+Each domain has different implications for decision-making and problem-solving.
+
+## Originating author(s)
+It was developed and published in the Harvard Business Review in 2007 by:
+
+David J. Snowden
+Mary e. Boone
+
+## Seminal articles
+N/A
