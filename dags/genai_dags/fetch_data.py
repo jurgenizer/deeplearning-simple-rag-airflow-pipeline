@@ -15,7 +15,10 @@ def _get_embedding_model():
     # The import stays inside the function to keep DAG parsing fast.
     from fastembed import TextEmbedding
 
-    return TextEmbedding(EMBEDDING_MODEL_NAME)
+    # Cap onnxruntime threads: by default it sizes its thread pool and per-thread
+    # memory arenas to the CPU count, which can spike memory hard on init and get
+    # the task OOM-killed (SIGKILL / signal -9) in the memory-constrained local VM.
+    return TextEmbedding(EMBEDDING_MODEL_NAME, threads=2)
 
 def _my_callback_func(context):
     task_instance = context["task_instance"]
@@ -73,6 +76,11 @@ def _parse_theory_file(text: str) -> dict:
 @dag(
     start_date=datetime(2025, 6, 1),
     schedule="@hourly",
+    # Don't backfill the (large) gap since start_date, and only run one dagrun at
+    # a time so multiple hourly runs don't load the embedding model concurrently
+    # and collectively exhaust memory.
+    catchup=False,
+    max_active_runs=1,
     tags=["genai", "rag"],
     default_args={
         "retries": 2,
