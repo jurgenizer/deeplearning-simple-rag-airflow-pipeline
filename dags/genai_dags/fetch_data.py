@@ -112,7 +112,7 @@ def fetch_data():
 
     _list_theory_files = list_theory_files()
 
-    @task
+    @task(max_active_tis_per_dagrun=4)
     def transform_theory_file(theory_file: str) -> dict:
         import os
 
@@ -124,20 +124,30 @@ def fetch_data():
     )
 
     @task
-    def create_vector_embedding(theory_data: dict) -> list:
+    def create_vector_embeddings(list_of_theory_data: list) -> list:
         embedding_model = _get_embedding_model()
 
         # Embed the theory name together with its description so that name-only
         # theories (with an N/A description) remain searchable by their name.
-        text_to_embed = theory_data["name"]
-        if theory_data["description"]:
-            text_to_embed = f'{theory_data["name"]}. {theory_data["description"]}'
+        texts_to_embed = []
+        for theory_data in list_of_theory_data:
+            text_to_embed = theory_data["name"]
+            if theory_data["description"]:
+                text_to_embed = f'{theory_data["name"]}. {theory_data["description"]}'
+            texts_to_embed.append(text_to_embed)
 
-        embedding = list(map(float, next(embedding_model.embed([text_to_embed]))))
-        return embedding
+        # Embed the whole batch in a single task. fastembed batches internally,
+        # so the model is loaded once per run instead of once per mapped task
+        # instance. Fanning this out over ~100 files spawned that many worker
+        # processes, each loading the model, which exhausted memory and got the
+        # tasks OOM-killed (SIGKILL / signal -9).
+        embeddings = [
+            list(map(float, emb)) for emb in embedding_model.embed(texts_to_embed)
+        ]
+        return embeddings
 
-    _create_vector_embedding = create_vector_embedding.expand(
-        theory_data=_transform_theory_file
+    _create_vector_embedding = create_vector_embeddings(
+        list_of_theory_data=_transform_theory_file
     )
 
     @task(outlets=[Asset("my_theory_vector_data")])
