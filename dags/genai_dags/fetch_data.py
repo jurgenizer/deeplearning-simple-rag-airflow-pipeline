@@ -1,3 +1,5 @@
+from functools import lru_cache
+
 from airflow.sdk import chain, dag, task, Asset
 from pendulum import datetime, duration
 
@@ -5,6 +7,15 @@ COLLECTION_NAME = "Theories"
 THEORY_FOLDER = "include/data"
 EMBEDDING_MODEL_NAME = "BAAI/bge-small-en-v1.5"
 
+
+@lru_cache(maxsize=1)
+def _get_embedding_model():
+    # Load (and download) the model once per worker process and reuse it across
+    # mapped task instances instead of reloading it for every theory file.
+    # The import stays inside the function to keep DAG parsing fast.
+    from fastembed import TextEmbedding
+
+    return TextEmbedding(EMBEDDING_MODEL_NAME)
 
 def _my_callback_func(context):
     task_instance = context["task_instance"]
@@ -114,9 +125,7 @@ def fetch_data():
 
     @task
     def create_vector_embedding(theory_data: dict) -> list:
-        from fastembed import TextEmbedding
-
-        embedding_model = TextEmbedding(EMBEDDING_MODEL_NAME)
+        embedding_model = _get_embedding_model()
 
         # Embed the theory name together with its description so that name-only
         # theories (with an N/A description) remain searchable by their name.
@@ -131,12 +140,13 @@ def fetch_data():
         theory_data=_transform_theory_file
     )
 
-    @task(outlets=[Asset("my_theory_vector_data")], trigger_rule="all_done")
+    @task(outlets=[Asset("my_theory_vector_data")])
     def load_embeddings_to_vector_db(
         list_of_theory_data: list, list_of_embeddings: list
     ) -> None:
         from airflow.providers.weaviate.hooks.weaviate import WeaviateHook
         from weaviate.classes.data import DataObject
+        from weaviate.util import generate_uuid5
 
         hook = WeaviateHook("my_weaviate_conn")
         client = hook.get_conn()
@@ -145,6 +155,10 @@ def fetch_data():
         items = []
         for theory_data, emb in zip(list_of_theory_data, list_of_embeddings):
             item = DataObject(
+                # Deterministic UUID derived from the theory name so that
+                # re-running the (hourly) DAG upserts existing theories
+                # instead of inserting duplicate copies each run.
+                uuid=generate_uuid5(theory_data["name"]),
                 properties={
                     "name": theory_data["name"],
                     "description": theory_data["description"],
